@@ -1,0 +1,1251 @@
+ID,text,direction,tense,overall_polarity,event_polarity,action_polarity,label
+1,Mortar assault leaves at least 18 dead,other,na,negative,na,na,sadness
+2,Goal delight for Sheva,other,present,positive,positive,na,joy
+3,Nigeria hostage feared dead is freed,other,na,negative,na,na,joy
+4,Bombers kill shoppers,other,present,negative,neut,negative,fear
+5,"Vegetables, not fruit, slow brain decline",other,na,negative,na,na,surprise
+6,PM: Havana deal a good experiment,other,na,positive,na,na,joy
+7,Kate is marrying Doherty,other,present,neut,neut,neut,joy
+8,NASA revisiting life on Mars question,other,na,neut,na,na,surprise
+9,"Happy birthday, iPod",other,na,neut,na,na,joy
+10,Alonso would be happy to retire with three titles,other,na,positive,na,na,joy
+11,Madonna's New Tot 'Happy at Home' in London,other,na,neut,na,neut,joy
+12,Nicole Kidman asks dad to help stop husband's drinking,other,present,neut,neut,neut,sadness
+13,United Finds Good Connection in Win,other,na,neut,na,na,joy
+14,'Runway': Making Good Without Making Nice,other,na,neut,na,na,joy
+15,"We were 'arrogant and stupid' over Iraq, says US diplomat",self,na,negative,na,neut,sadness
+16,Bad reasons to be good,other,na,positive,na,positive,sadness
+17,Madonna's new baby's daddy didn't realize adoption was `for good',other,na,positive,na,positive,surprise
+18,Women in their 60s 'are perfectly good mothers',other,na,positive,na,na,sadness
+19,We're a pretty kind 'bully',self,na,positive,na,na,joy
+20,Moderate drinking reduces men's heart attack risk,other,present,negative,negative,negative,joy
+21,Tom Cruise and Katie Holmes set wedding date,other,past,neut,neut,neut,joy
+22,Kidnapped AP photographer freed in Gaza,other,na,positive,na,positive,fear
+23,"Bush Insists Troops Stay in Iraq, Predicts Midterm Victory",other,na,neut,na,na,disgust
+24,Hurricane Paul Weakens To Tropical Storm,other,na,neut,na,neut,surprise
+25,UK announces immigration restrictions,other,present,negative,negative,negative,anger
+26,Three found alive from missing Russian ship -report,other,present,negative,neut,negative,joy
+27,Poison Pill to Swallow: Hawks Hurting After Loss to Vikes,other,na,neut,na,na,sadness
+28,Injured Marathon Winner Leaves Hospital,other,na,neut,na,na,joy
+29,Hacker unlocks Apple music download protection,other,present,positive,positive,positive,surprise
+30,Spanish journalist seized in Gaza,other,na,neut,na,neut,fear
+31,Sudan urges UN to replace its special envoy,other,present,neut,neut,neut,surprise
+32,Resolution approved for international games,other,na,positive,na,positive,joy
+33,Pair of Satellites Will Document Sun in 3-D,other,na,neut,na,na,joy
+34,Martian Life Could Have Evaded Detection by Viking Landers,other,present,neut,neut,neut,surprise
+35,The sweet tune of an anniversary,other,na,positive,na,na,joy
+36,Did Viking Probes Miss Life on Mars?,other,present,neut,neut,neut,surprise
+37,Diplomat acknowledges US arrogance in Iraq,other,present,negative,negative,negative,anger
+38,More Human Remains Found at Ground Zero,other,na,neut,na,na,sadness
+39,How to Prevent Iraq From Getting Even Worse,other,present,neut,neut,na,fear
+40,Tensions as Hungary marks uprising,other,present,neut,negative,negative,fear
+41,Stanford study warns of Internet addiction,other,na,neut,na,neut,fear
+42,No evidence of ice reserves on the moon,other,na,neut,na,na,sadness
+43,A Picture and A Thousand Words,other,na,neut,na,na,anger
+44,Parachutist dies at bridge-jump festival,other,na,neut,na,negative,sadness
+45,US Troops Killed In October In Iraq,other,na,neut,na,na,sadness
+46,"Chefs not counting calories, study finds",other,present,neut,neut,na,sadness
+47,Deaths linked to flu vaccine,other,na,neut,na,neut,sadness
+48,Perfect lives lose their focus,other,present,negative,neut,negative,joy
+49,Bread-Heavy Diet Linked to Kidney Cancer,other,na,neut,na,na,fear
+50,Beating poverty in a small way,other,present,negative,negative,na,joy
+51,Israel insists on Lebanon overflights,other,na,neut,na,neut,anger
+52,Britain to restrict immigrants from new EU members,other,present,negative,neut,na,disgust
+53,Confusion Reigns In the Expanding Digital World,other,na,neut,na,na,surprise
+54,Game on! London exhibition celebrates the history of video games,other,present,positive,neut,positive,joy
+55,Making peace from victory over poverty,other,present,positive,positive,na,joy
+56,Marine killed in fighting west of Baghdad,other,present,negative,neut,negative,sadness
+57,Scientists create first cloaking device,other,present,neut,neut,neut,joy
+58,Amateur rocket scientists reach for space,other,na,neut,na,neut,joy
+59,Confusion Reigns In the Expanding Digital World,other,na,neut,na,na,surprise
+60,Deaths linked to flu vaccine,other,na,neut,na,neut,sadness
+61,Israel admits using phosphorous shells in Lebanon,other,present,neut,neut,neut,sadness
+62,4th person dies after receiving flu shot,other,present,neut,neut,negative,sadness
+63,Police and shoppers targeted in growing Iraq violence,other,na,neut,na,neut,fear
+64,Scientists discover miracle in the depths,other,present,positive,positive,positive,surprise
+65,Doctors Seeing Patients Who Think They're Internet Addicted,other,na,neut,na,neut,sadness
+66,China launches two satellites into orbit,other,present,neut,neut,neut,joy
+67,Vegetables May Boost Brain Power in Older Adults,other,na,neut,na,na,surprise
+68,Hurricane Paul nears Category 3 status,other,present,neut,neut,neut,fear
+69,"Russian ship sinks, 18-member crew missing",other,na,negative,na,na,sadness
+70,Iran's president urges higher birth rate,other,present,neut,neut,neut,surprise
+71,Apple set for massive market gains,other,na,positive,na,positive,joy
+72,Tumor Types May Explain Survival Rates for Cancer,other,na,neut,na,na,sadness
+73,Routine mission turns into hunt for missing comrade,other,na,negative,na,negative,sadness
+74,Bad weather slows S.Korean search for Russian ship,other,present,negative,neut,negative,sadness
+75,Tailors and housewives busy as Muslims celebrate Eid,other,na,positive,na,na,joy
+76,Active peace brings the promise of development,other,present,positive,positive,positive,joy
+77,Abbas condemns Israeli massacre in northern Gaza Strip,other,present,negative,negative,negative,disgust
+78,"Bangladesh ferry sinks, 15 dead",other,na,negative,na,neut,sadness
+79,Bucs find a new kick in life,other,present,neut,neut,neut,joy
+80,Google to unveil election mashup,other,present,neut,neut,na,surprise
+81,Police warn of child exploitation online,other,na,negative,na,negative,disgust
+82,Breast Cancer Awareness is Important,other,na,neut,na,na,fear
+83,Hungary police tackle violent protestors,other,present,negative,negative,negative,sadness
+84,Three drivers had reason to be proud in Brazil,other,past,positive,positive,positive,joy
+85,Celebrities Protest Malibu Gas Facility,other,na,neut,na,neut,joy
+86,Lebo: A life lived on the edge,other,na,neut,na,neut,anger
+87,"Presto! He's Batman, then magic man",other,na,positive,na,na,surprise
+88,"Heavy use of mobile phones can make men infertile, scientists say",other,present,neut,neut,neut,fear
+89,Russian ship sinks in Pacific,other,na,negative,na,na,sadness
+90,China Successfully Launches Two Satellites,other,na,neut,na,na,joy
+91,Prestige has magic touch,other,present,positive,positive,positive,joy
+92,"Lies, damned lies, and divorce",other,na,negative,na,na,sadness
+93,Manning inspires Giants to victory in Dallas,other,present,positive,neut,na,joy
+94,Riot warning for France suburbs,other,present,neut,negative,na,sadness
+95,Full recovery expected for marathon winner,other,na,positive,na,positive,joy
+96,Sony apologises for global battery recall,other,na,neut,na,neut,sadness
+97,Questions on credit card safety,other,na,neut,na,na,fear
+98,Budapest calm after night of violent protests,other,na,negative,na,na,anger
+99,Vegetables May Boost Brain Power in Older Adults,other,na,neut,na,na,joy
+100,Report criticises US press freedoms,other,present,positive,positive,positive,anger
+101,French suburb riots could resume,other,na,neut,na,neut,fear
+102,Photographer kidnapping condemned,other,na,negative,na,negative,disgust
+103,Photographer kidnapped in Gaza,other,na,neut,na,neut,disgust
+104,Baseball: Rogers enjoys his muddied streak,other,present,positive,neut,positive,joy
+105,"Cultural revolutionary, the iPod is five",other,na,positive,na,na,joy
+106,Life on Mars? Maybe We Missed It,self,past,neut,neut,neut,surprise
+107,Three found alive from missing Russian ship -report,other,present,negative,neut,negative,joy
+108,Moderate drinking reduces men's heart attack risk,other,present,negative,negative,negative,joy
+109,The sweet tune of an anniversary,other,na,positive,na,na,joy
+110,Inconvenient truths,other,na,neut,na,na,anger
+111,Dating difficult for Harry Potter,other,na,negative,na,na,surprise
+112,Students lose their rite of passage,other,present,negative,neut,negative,sadness
+113,Putin vows to tackle illegal immigration,other,present,negative,negative,negative,anger
+114,Ottawa must redefine 'terror',other,present,neut,negative,negative,fear
+115,"Britain to Limit Workers from Romania, Bulgaria",other,na,neut,na,na,fear
+116,Top General Optimistic on Iraq,other,na,neut,na,na,sadness
+117,Kim Osorio Wins Sexual Harrassment Suit Against The Source,other,na,neut,na,na,joy
+118,Silly and substantial,other,na,neut,na,na,joy
+119,Official laughs for Borat,other,na,neut,na,neut,joy
+120,Speaker Hastert testifies before panel probing sex scandal,other,present,negative,negative,negative,disgust
+121,On Educating Sexes Separately,other,na,neut,na,na,anger
+122,Tom Cruise and Katie Holmes set wedding date,other,past,neut,neut,neut,joy
+123,Martian Life Could Have Evaded Detection by Viking Landers,other,present,neut,neut,neut,surprise
+124,Ukraine gas deal marred by fears,other,na,negative,na,negative,fear
+125,Marathon victory comes at heavy cost,other,na,positive,na,neut,joy
+126,College tuition continues climbing,other,na,neut,na,neut,anger
+127,German paper shows soldiers desecrating skull,other,present,negative,negative,negative,disgust
+128,"War is close, Ethiopia tells Somali rebels",other,present,neut,neut,neut,fear
+129,Advantage Cardinals with Suppan in Game 4,other,na,neut,na,na,joy
+130,NASA spacecraft to measure Sun,other,present,neut,neut,neut,joy
+131,"Sony Hates Europeans, Will Prevent The Importing of PS3",other,na,neut,na,na,anger
+132,Flu Vaccine Appears Safe for Young Children,other,present,neut,neut,na,joy
+133,Google To Launch Yet Another Search Tool,other,na,neut,na,neut,joy
+134,Tropical Storm Paul's Outer Bands Hit Mexico's Baja California,other,present,neut,neut,neut,sadness
+135,Israeli Bomblets Plague Lebanon,other,na,neut,na,na,fear
+136,"New Indonesia Calamity, a Mud Bath, Is Man-Made",other,na,neut,na,na,anger
+137,U.S. Weighs Sanctions Against North Korea,other,na,neut,na,na,anger
+138,"Rice, in Baghdad, Insists That Iraqis Are ",other,na,neut,na,neut,anger
+139,Senator Says U.S. Should Rethink Iraq Strategy,other,na,neut,na,neut,sadness
+140,German Chief Forges Accord on Financing Health Care,other,na,neut,na,na,joy
+141,Turkish Writers Say Efforts to Stifle Speech May Backfire,other,present,neut,neut,neut,anger
+142,Kurdish Lawmaker Killed in an Attack in Baghdad,other,present,neut,neut,na,fear
+143,Anti-U.S. Attack Videos Spread on the Internet,other,na,neut,na,na,anger
+144,"Women Face Greatest Threat of Violence at Home, Study Finds",other,present,neut,neut,neut,disgust
+145,Appeal by Chinese Researcher for Times May Soon Be Heard,other,na,neut,na,na,joy
+146,Brazil Air Force Cites Faults and Confusion in Fatal Crash,other,na,neut,na,na,sadness
+147,A Mix of Oil and Environmentalism,other,na,neut,na,na,fear
+148,Immigrants and French Reach Deal in Standoff,other,na,neut,na,na,joy
+149,Genghis Khan Beer? Mongolia Grimaces,other,na,neut,na,na,anger
+150,Dead Bachelors in Remote China Still Find Wives,other,present,neut,neut,neut,surprise
+151,"Managua Journal: Hold the Mojito and Margarita, Nicaragua Has el Macu",other,present,neut,neut,na,anger
+152,Paris Journal: Smoking No Longer Tres Chic in France,other,na,neut,na,na,joy
+153,An Old Letter Casts Doubts on Iran's Goal for Uranium,other,na,neut,na,na,surprise
+154,U.S. Warns North Koreans About Nuclear Test,other,na,neut,na,na,fear
+155,Global Sludge Ends in Tragedy for Ivory Coast,other,na,neut,na,na,sadness
+156,Equipment on Plane in Brazil Collision May Have Been Faulty,other,na,neut,na,na,sadness
+157,"New Indonesia Calamity, a Mud Bath, Is Man-Made",other,na,neut,na,na,sadness
+158,Iraqi Journalists Add Laws to List of Dangers,other,present,neut,neut,na,fear
+159,U.N. Force Is Treading Lightly on Lebanese Soil,other,na,neut,na,na,fear
+160,Cleric Said to Lose Reins Over Part of Iraqi Militia,other,na,neut,na,na,sadness
+161,"Citing Spy Agencies' Study, Democrats Seek Iraq Changes",other,present,neut,neut,neut,surprise
+162,Opera Canceled Over a Depiction of Muhammad,other,na,neut,na,na,sadness
+163,Military Officials Add to U.S. Criticism of Iraq's Government,other,na,neut,na,na,joy
+164,Teacher in Hiding After Attack on Islam Stirs Threats,other,na,neut,na,na,fear
+165,Combative Bush Releases Parts of Terror Study,other,present,neut,neut,na,fear
+166,Growing Unarmed Battalion in Qaeda Army Is Using Internet to Get the Message Out,other,present,neut,neut,neut,fear
+167,"Iraqi Linked to Sunni Bloc Is Held in Plot, Military Says",other,present,neut,neut,neut,fear
+168,"Seduced by Snacks? No, Not You",other,na,neut,na,na,disgust
+169,Friends for Life: An Emerging Biology of Emotional Healing,other,na,neut,na,na,joy
+170,"Alzheimer's Drugs Offer No Help, Study Finds",other,present,neut,neut,neut,sadness
+171,"Across Europe, Worries on Islam Spread to Center",other,na,neut,na,na,sadness
+172,Cooking Defines Sephardic Jews at Sukkot,other,present,neut,neut,na,joy
+173,"Fitness: Bodies in Motion, Clean and Sober",other,na,neut,na,na,joy
+174,In God's Name: Religion-Based Tax Breaks: Housing to Paychecks to Books,other,na,neut,na,na,joy
+175,"Yankee Dies in Plane Crash, Official Says",other,na,neut,na,neut,sadness
+176,An Elephant Crackup?,other,na,neut,na,na,sadness
+177,"With YouTube, Grad Student Hits Jackpot Again",other,present,neut,neut,na,joy
+178,Dow flirts with record highs again,other,na,negative,na,negative,joy
+179,Tropical Storm Isaac forms in Atlantic,other,na,neut,na,na,fear
+180,New Iraq terror tape calls for abducting foreigners,other,na,negative,na,na,fear
+181,'Deep regret' for ex-HP exec,other,na,negative,na,na,sadness
+182,'Opportunity' knocks on geologist's dream crater,other,na,negative,na,negative,joy
+183,Squirrel jumps boy in park; rabies suspected,other,present,negative,neut,neut,surprise
+184,Girl left comatose after dental visit dies,other,na,neut,na,negative,sadness
+185,Porn star candidate campaigns on campus,other,na,neut,na,na,disgust
+186,School ends football season after 0-4 start,other,present,neut,neut,neut,sadness
+187,Charlie Sheen to become highest-paid sitcom star,other,na,neut,na,neut,joy
+188,Jon Stewart mocks benefits of CNN's I,other,present,positive,positive,positive,surprise
+189,Ashton Kutcher tells secret to Ryan Seacrest,other,na,neut,na,neut,surprise
+190,Nails-on-chalkboard study earns Ig,other,present,neut,neut,neut,disgust
+191,Gunman 'fine' before shooting,other,na,neut,na,na,sadness
+192,Marijuana may stave off Alzheimer's,other,na,neut,na,neut,surprise
+193,Kentucky seeks alcohol huffing ban,other,present,neut,neut,neut,joy
+194,Toddler died from tainted spinach,other,na,negative,na,negative,sadness
+195,Judge dismisses Karr's porn case,other,na,neut,na,na,surprise
+196,10 die in 22-hour Kashmir standoff,other,na,negative,na,na,fear
+197,Slain Amish girls laid to rest,other,na,neut,na,neut,sadness
+198,"5,000 flee plant fire",other,present,negative,neut,na,fear
+199,Cher auction fetches double pre-sale estimates,other,present,neut,neut,neut,joy
+200,Stars scuffle on 'Grey's Anatomy',other,na,neut,na,na,disgust
+201,Probe under way in Yankee crash,other,na,negative,na,na,sadness
+202,Amish schoolhouse torn down,other,na,neut,na,neut,sadness
+203,Warner will not run in '08,other,na,neut,na,neut,sadness
+204,Reid land deal under scrutiny,other,na,neut,na,na,surprise
+205,"Flooding washes out road to Valdez, Alaska",other,present,neut,neut,na,sadness
+206,Briton admits U.S. bomb plot role,other,present,negative,negative,negative,sadness
+207,Commentary: Minutemen have a right to be idiotic,other,present,positive,positive,positive,anger
+208,Madonna files adoption papers,other,present,neut,neut,neut,joy
+209,Gunmen kill 9 at Iraqi TV station,other,present,negative,neut,negative,fear
+210,Hastert sorry for scandal but not quitting,other,na,negative,na,na,sadness
+211,Ex-JonBenet suspect: Child porn case dropped ,other,na,negative,na,neut,anger
+212,"Waste plant fire forces 5,000 to evacuate ",other,na,neut,na,na,sadness
+213,Toddler died from E. coli tainted spinach ,other,na,negative,na,negative,sadness
+214,Disturbing finds in child sex raids ,other,na,neut,na,neut,disgust
+215,Magazine lists women who had abortions ,other,present,neut,neut,neut,anger
+216,"Pot smokers may avoid Alzheimer's, study says ",other,present,neut,neut,neut,surprise
+217,Student starts white men's club on campus ,other,present,neut,neut,neut,sadness
+218,Kentucky wants to ban alcohol inhalers ,other,present,neut,neut,neut,surprise
+219,Peter Pan flies into chapter two ,other,na,neut,na,neut,surprise
+220,Teen repellent inventor wins infamous prize ,other,present,positive,positive,positive,joy
+221,"Cher's dress, car, bed have new owners",other,present,neut,neut,neut,joy
+222,"Dow hits new record, eyes 12,000 ",other,na,neut,na,na,joy
+223,Ex-Virginia gov not running for president ,other,na,neut,na,na,surprise
+224,Yankee pitcher's pilot log found ,other,na,neut,na,neut,surprise
+225,Dem leader's $1 million land deal under scrutiny ,other,present,neut,neut,na,anger
+226,"Dad locked up son, watched on TV, police say ",other,past,neut,neut,neut,sadness
+227,Navarrette: Minutemen have a right to be idiotic ,other,present,positive,positive,positive,sadness
+228,"Pit bulls jump miniature pony, leave her bloody ",other,present,negative,neut,neut,sadness
+229,Alaska town cut off from rest of state by flood ,other,na,neut,na,neut,fear
+230,Trailblazing trio protects City by the Bay ,other,present,neut,neut,positive,joy
+231,Madonna files adoption papers in Malawi,other,present,neut,neut,neut,joy
+232,'Dr. McDreamy' choked in 'Grey's' scuffle ,other,na,negative,na,na,sadness
+233,"$10,000 poetry prize awarded ",other,na,positive,na,positive,joy
+234,Las Vegas honour for tiger pair ,other,na,neut,na,na,joy
+235,UK characters boosting box office ,other,present,positive,neut,positive,joy
+236,Cher items snapped up at auction ,other,na,neut,na,neut,joy
+237,Griffiths scorns Withnail 'play' ,other,na,negative,na,na,disgust
+238,Lily Allen wins web music award ,other,present,positive,positive,positive,joy
+239,Costner appeals in casino wrangle,other,na,positive,na,na,anger
+240,Beyonce copyright claim rejected ,other,na,negative,na,negative,anger
+241,Cohn gunman jailed for 36 years ,other,na,neut,na,neut,joy
+242,Melua's deep sea gig sets record ,other,present,neut,neut,neut,joy
+243,Sri Lanka clashes kill 129 troops ,other,present,negative,neut,negative,sadness
+244,Gunmen kill 11 in Iraq TV raid ,other,present,negative,neut,negative,sadness
+245,Italy drops Sicily bridge plans ,other,present,neut,neut,neut,surprise
+246,Amish killings school demolished ,other,na,negative,na,na,sadness
+247,Pamuk wins Nobel Literature prize,other,na,positive,na,na,joy
+248,Madonna adoption bid approved ,other,na,positive,na,positive,joy
+249,Man admits UK-US terror bomb plot,other,na,negative,na,neut,fear
+250,Who are you calling fat?,other,present,negative,neut,negative,disgust
+251,Test to predict breast cancer relapse is approved,other,present,negative,negative,na,joy
+252,"Two Hussein allies are hanged, Iraqi official says",other,past,negative,neut,na,sadness
+253,Sights and sounds from CES,other,na,neut,na,na,joy
+254,Schuey sees Ferrari unveil new car,other,na,neut,na,neut,joy
+255,Closings and cancellations top advice on flu outbreak,other,na,positive,na,na,fear
+256,Trucks swallowed in subway collapse,other,na,negative,na,negative,sadness
+257,Sarkozy letter surprises French cartoons hearing,other,na,neut,na,na,surprise
+258,"Building a memorial to a son, one child at a time",other,present,neut,neut,na,sadness
+259,Lawmaker seeks iPod ban in crosswalks in New York,other,present,neut,neut,neut,surprise
+260,Diabetic waits months for eyeglasses,other,present,neut,neut,neut,sadness
+261,Sudan tells United Nations envoy to leave in 72 hours,other,present,neut,neut,neut,surprise
+262,5000 years on but couple still hugging,other,na,positive,na,na,surprise
+263,Defense to challenge Russert's credibility,other,present,neut,neut,na,surprise
+264,"Ozzy, a Hero for the hard-rocking masses",other,na,neut,na,na,joy
+265,CIA leak trial summary,other,present,negative,neut,negative,surprise
+266,Dance movie takes over No. 1,other,na,neut,na,neut,joy
+267,Asian nations urge Myanmar reform,other,present,positive,positive,positive,surprise
+268,"After Iraq trip, Clinton proposes war limits",other,present,negative,negative,negative,joy
+269,7 dead in apartment building fire,other,na,negative,na,na,sadness
+270,Male sweat boosts women's hormone levels,other,present,positive,neut,positive,surprise
+271,Carphone Warehouse's mixed signals,other,present,neut,neut,na,surprise
+272,Democrats plot Bush troop increase censure,other,na,negative,na,na,surprise
+273,Cisco sues Apple over iPhone name,other,present,negative,neut,negative,anger
+274,BB star Jackson denies Goody comments,other,present,negative,neut,negative,disgust
+275,Inter Milan set Serie A win record,other,present,positive,neut,positive,joy
+276,US Airways boosts bid for Delta,other,present,positive,neut,positive,surprise
+277,Press sees hope in Mecca talks,other,present,neut,neut,neut,joy
+278,Bears fan loses bet and changes name,other,present,negative,neut,negative,surprise
+279,Global National	Major child porn ring bust,other,na,negative,na,na,disgust
+280,'Human hair' clue in hunt for airliner,other,na,neut,na,na,surprise
+281,Johnny Depp to make movie of spy poisoning,other,present,neut,neut,neut,joy
+282,Really?: The claim: the pill can make you put on weight,other,present,neut,neut,neut,surprise
+283,5 money makeovers,other,na,neut,na,neut,joy
+284,TBS to pay $2M fine for ad campaign bomb scare,other,present,negative,negative,na,fear
+285,"""Stomp the Yard"" has winning moves in its weekend debut",other,present,positive,positive,positive,joy
+286,"Discovered boys bring shock, joy",other,present,positive,negative,negative,surprise
+287,Bernhard set to leave Volkswagen,other,present,neut,neut,neut,sadness
+288,Pacers' Jackson misses gun hearing,other,present,negative,neut,negative,fear
+289,Cases: when the simple solution is the right one,other,na,positive,na,na,joy
+290,Two Muslim groups sue French newspaper International,other,na,negative,na,na,anger
+291,Golden Globes on their way,other,na,neut,na,na,joy
+292,"At New OZZFEST, Freedom Ain't Free",other,na,neut,na,neut,surprise
+293,Federer handed tough Aussie draw,other,past,positive,positive,positive,sadness
+294,Protesters end strike as Nepal PM concedes demands,other,present,negative,neut,negative,joy
+295,"Turner pays for Boston ""bombing""",other,na,neut,na,neut,fear
+296,Two detained in body parts mailing,other,na,neut,na,na,disgust
+297,Essay: about that mean streak of yours: psychiatry can do only so much,other,na,neut,na,neut,sadness
+298,Hussein's niece pleads for father's life,other,na,neut,na,neut,sadness
+299,Sarkozy heads for clash in cartoons row,other,na,negative,na,neut,anger
+300,Global web of suspects in child-rape download,other,na,negative,na,na,anger
+301,Blake defeats Moya to retain title,other,present,positive,neut,positive,joy
+302,"Storms kill, knock out power, cancel flights",other,present,negative,neut,na,fear
+303,Aquarium puts ailing beluga whale to sleep,other,present,negative,negative,negative,sadness
+304,"Microsoft, Sony, we have a problem",self,present,negative,negative,negative,surprise
+305,A police state? The issues,other,na,negative,na,negative,fear
+306,Move to ban iPods from crossing the street,other,present,neut,neut,na,surprise
+307,India's Taj Mahal gets facelift,other,present,neut,neut,neut,joy
+308,Cheney to Congress: Can't run Iraq war by committee,other,present,neut,neut,neut,anger
+309,Ganguly handed India squad call-up,other,na,neut,na,neut,joy
+310,Fortune: Looking beyond the iPhone,other,na,neut,na,na,joy
+311,Really?: The claim: the back seat of a car is the safest place to sit,other,na,positive,na,na,surprise
+312,Vaccine mandate upsets legislators,other,na,negative,na,na,anger
+313,News analysis: Iranian boast is put to test,other,na,neut,na,na,fear
+314,Panel issues bleak report on climate change,other,na,negative,na,na,fear
+315,Virtual 'American Idol' hits right notes,other,present,positive,positive,positive,joy
+316,"Iraq car bombings kill 22 People, wound more than 60",other,present,negative,neut,negative,sadness
+317,'Stomp' steps to No. 1 at box office,other,na,neut,na,na,joy
+318,Google executive acts as goodwill envoy,other,na,positive,na,na,joy
+319,Filipino woman kidnapped in Nigeria,other,na,neut,na,neut,fear
+320,"Seahawks, Bears vie for shot at NFL title",other,na,neut,na,neut,joy
+321,Brown not buried as estate issues loom,other,na,negative,na,na,sadness
+322,Will Rob Cohen Direct Third 'Mummy'?,other,na,neut,na,neut,surprise
+323,EU will urge China to go green,other,present,neut,neut,neut,joy
+324,17th-Century Remedy; 21st-Century Potency,other,na,neut,na,na,surprise
+325,Forecasters expect toasty 2007,other,present,neut,neut,neut,fear
+326,'Sunshine' Goydos wins Sony open,other,na,positive,na,positive,joy
+327,Teacher charged with sex assault,other,na,negative,na,negative,disgust
+328,Merck: Gardasil may fight more strains,other,present,negative,negative,negative,joy
+329,"Mountain glaciers melting faster, United Nations says",other,na,positive,na,positive,fear
+330,Snow causes airport closures in Britain,other,present,neut,neut,neut,sadness
+331,Bananaconda inventor is top poet of kids,other,na,positive,na,na,joy
+332,Shareholders sue Apple,other,na,negative,na,na,anger
+333,Israelis retaliate after attack by Lebanese Army,other,na,negative,na,negative,fear
+334,Deadly bird flu confirmed in British Turkeys,other,na,neut,na,neut,fear
+335,Too little sleep may mean too fat kids,other,present,negative,negative,negative,surprise
+336,Bathing mom awakes to find baby dead,other,present,negative,neut,na,sadness
+337,Visitors to Eiffel Tower climb to record in 2006,other,na,neut,na,na,joy
+338,"More sleep, healthier slimmer children ",other,na,positive,na,na,surprise
+339,Queen battles Bond for Baftas,other,present,neut,neut,neut,joy
+340,"Walters on Trump: 'Poor, pathetic man'",other,past,negative,negative,na,sadness
+341,"Ice storm smacks roads, power",other,na,negative,na,na,fear
+342,Iran says it will strike US interests if Attacked,other,present,negative,neut,negative,fear
+343,Palestinian factions to resume talks,other,present,neut,neut,na,joy
+344,Study: men's sweat triggers high sexual arousal in women,other,present,neut,neut,neut,surprise
+345,Outcry at N Korea 'nuclear test',other,na,neut,na,na,fear
+346,Russia plans major military build-up,other,present,neut,neut,neut,fear
+347,Archaeologists find remains of couple locked in a hug,other,present,positive,positive,positive,surprise
+348,Stenson defends his title at Dubai,other,present,neut,neut,neut,joy
+349,Taking the plunge,other,present,neut,neut,na,fear
+350,Updates on world's top stories,other,na,positive,na,na,joy
+351,Man rides stationary bike for 85 hours,other,na,neut,na,na,surprise
+352,Ice storm coating Midwest,other,na,neut,na,na,fear
+353,A Mistrial for Lieut. Watada,other,na,neut,na,na,anger
+354,Iran warns will hit back at US if attacked,other,na,negative,na,negative,fear
+355,ASEAN talks end on energy-security,other,na,neut,na,na,joy
+356,"Iraqi death toll exceeded 34,000 in 2006, United Nations says",other,past,negative,neut,positive,sadness
+357,Israel intensifies military flights over Lebanon,other,present,neut,neut,neut,fear
+358,New gadgets galore at tech show,other,na,positive,na,positive,joy
+359,Another death at Georgia Aquarium,other,na,negative,na,na,sadness
+360,US to urge Nato Afghan spring offensive,other,na,negative,na,na,fear
+361,UK letter bombs may be from extremist drivers,other,na,negative,na,na,fear
+362,Asia seeks breakthrough on North Korea,other,present,positive,positive,positive,surprise
+363,Federer overcomes a ragged start,other,present,negative,negative,negative,joy
+364,Rowdy fans ejected from the Open,other,na,neut,na,neut,anger
+365,Terai protesters hail 'historic' victory over government,other,na,positive,na,na,joy
+366,Anger at release of two held over beheading plot,other,na,negative,na,na,anger
+367,Bush adamant on troops to Iraq,other,na,negative,na,na,anger
+368,Bebe Neuwirth gets to 'wiggle again',other,na,neut,na,neut,joy
+369,Beckham to L.A.: For the game not fame,other,na,positive,na,na,joy
+370,Sleep more to fight childhood obesity,other,present,neut,neut,na,surprise
+371,Abbas rejects temporary state,other,present,negative,neut,negative,sadness
+372,Investigation of child porn site hits 77 nations,other,present,neut,neut,neut,disgust
+373,Sleuths close in on Odysseus home,other,na,neut,na,na,surprise
+374,Variety: Johnny Depp to make movie of spy poisoning,other,present,neut,neut,na,surprise
+375,Ice storm cripples central U.S.,other,na,negative,na,na,fear
+376,Park stars as United maintain lead,other,present,positive,positive,positive,joy
+377,Prehistoric Romeo and Juliet discovered,other,na,neut,na,neut,surprise
+378,India's famous landmark gets facelift,other,present,positive,neut,neut,joy
+379,Joseph Wambaugh's new start,other,na,neut,na,na,joy
+380,Participant in water-drinking contest dies,other,na,neut,na,negative,sadness
+381,Apple drops bombshell with iPhone,other,present,neut,neut,neut,surprise
+382,Bollywood's 'Brangelina' engaged,other,na,neut,na,neut,joy
+383,"Shiite fighters arrested in crackdown, Iraq says",other,na,neut,na,neut,fear
+384,"Rio De Janeiro journal: drawing lines across the sand, between classes",other,na,neut,na,na,sadness
+385,Models' health guidelines -- will they help?,other,na,neut,na,neut,surprise
+386,Stepping back in time at ski resort,other,na,neut,na,na,joy
+387,Test cricketer jailed over killing,other,present,negative,negative,na,sadness
+388,Walnuts 'combat unhealthy fats',other,present,negative,negative,na,joy
+389,Apple to Vista upgraders: 'Wait',other,present,neut,neut,neut,surprise
+390,Injured Sarwan to miss one-dayers,other,present,negative,neut,negative,sadness
+391,Firms on alert for letter bombs,other,na,negative,na,na,fear
+392,Studios sign off on movie downloads,other,na,neut,na,na,surprise
+393,Asif returns with four-wicket haul,other,na,neut,na,na,joy
+394,"Bush authorized Iranians' arrest in Iraq, Rice says",other,na,neut,na,neut,anger
+395,Porn ring scandal reaches Australia,other,present,negative,neut,neut,disgust
+396,Deputy health minister arrested in US-Iraqi raid,other,na,neut,na,neut,sadness
+397,Senator Carl Krueger thinks iPods can kill you,other,present,negative,neut,negative,surprise
+398,"Finally, Senate okays anti-terror bill Manila",other,present,neut,neut,neut,joy
+399,Somalia declares state of emergency,other,present,negative,negative,negative,fear
+400,Matt shines with his Alpine finish,other,na,positive,na,neut,joy
+401,BP CEO Browne to step down in June,other,na,neut,na,na,sadness
+402,An iPhone by any other name? Surely not,other,na,neut,na,na,surprise
+403,Life in Gaza steadily worsens,other,na,negative,na,na,sadness
+404,The energy challenge | Exotic visions: how to cool a planet (maybe),other,present,positive,neut,neut,surprise
+405,"Easy ways to (really) save $400,000",other,na,neut,na,na,joy
+406,Shareholders sue Apple,other,na,negative,na,na,anger
+407,Findings: Can humanity survive? Want to bet on it?,other,na,neut,na,neut,fear
+408,Iran steps up production of weapons-grade uranium,other,present,neut,neut,neut,fear
+409,Rig-threat cargo ship towed ashore,other,na,neut,na,neut,fear
+410,Palestinians say clashes hurt their cause,other,present,negative,neut,negative,sadness
+411,Male sweat can raise hormones,other,present,neut,neut,neut,surprise
+412,Vital Signs: Hazards: Antidepressant linked to fractures in older people,other,na,negative,na,na,surprise
+413,Peron held over '70s rights abuses,other,na,positive,na,positive,sadness
+414,Space life search turns to TV,other,na,neut,na,neut,surprise
+415,"Super Bowl ads of cartoonish violence, perhaps reflecting toll of war",other,present,negative,negative,na,sadness
+416,YouTube told to drop celeb sex video,other,present,neut,neut,neut,surprise
+417,Beckham and Posh and more athlete-celebrity couples,other,present,neut,neut,na,joy
+418,City sets up ice storm shelters,other,present,neut,neut,neut,fear
+419,Libby prosecutors await judge's rulings,other,present,neut,neut,neut,sadness
+420,Review: 'Alpha Dog' misses the point,other,present,negative,neut,negative,sadness
+421,Republicans plan to block Iraq debate,other,present,neut,neut,na,anger
+422,Mixed reaction to China's Africa push,other,present,neut,neut,na,surprise
+423,Snowed in the Canadian Rockies,other,na,neut,na,na,joy
+424,"Skip the showers: male sweat turns women on, study says",other,present,neut,neut,neut,surprise
+425,Gently Weeps' lyrics sheet up for sale,other,na,neut,na,neut,joy
+426,Canete wins inaugural Joburg Open,other,na,positive,na,positive,joy
+427,Rights group halts violent Nepal strikes,other,na,negative,na,na,joy
+428,Real suffer Carlos injury setback,other,present,negative,negative,negative,sadness
+429,Astronaut may have buckled under stress,other,na,negative,na,negative,sadness
+430,Gunmen abduct Filipino woman in Nigeria,other,na,neut,na,na,fear
+431,NFL team's fan of the year: 'Flag Lady',other,na,neut,na,na,joy
+432,No 10 rejects police state claim,other,na,negative,na,neut,surprise
+433,Malaysian AirAsia X to fly in July,other,present,neut,neut,na,joy
+434,10 kidnapped at Nigeria oil base,other,na,neut,na,neut,fear
+435,Guy sweat is babe magnet,other,na,neut,na,na,surprise
+436,Township tourism booming in South Africa,other,na,positive,na,na,joy
+437,'Alpha Dog' misses the point,other,present,negative,neut,negative,surprise
+438,Iran leader pays Nicaragua a visit,other,present,neut,neut,neut,surprise
+439,"'Grey's,' 'Pirates' lead People's Choice",other,na,positive,na,na,joy
+440,Terror network,other,na,neut,na,na,fear
+441,Now it's official: Iraq's a mess,other,na,negative,na,na,sadness
+442,Snow brings travel misery to England,other,present,negative,negative,negative,sadness
+443,James Brown's 5-year-old son left out of will,other,na,neut,na,neut,surprise
+444,Two men killed by London tube train,other,na,negative,na,negative,sadness
+445,US millions fail to buy influence in deadly Gaza power play,other,present,negative,neut,negative,sadness
+446,PLO ministers agreed upon in Mecca,other,na,neut,na,neut,joy
+447,Squadron apologies over 'friendly-fire' death,other,na,negative,na,na,sadness
+448,New Orleans violence sparks tourism fears,other,present,negative,negative,negative,fear
+449,Friendly fire pilot 'experienced',other,na,neut,na,na,fear
+450,SPACE.com: Black hole triplets spotted,other,na,neut,na,neut,surprise
+451,Vaccines: Mandate or choice?,other,na,neut,na,na,surprise
+452,"Congolese soldiers riot, loot over pay issue",other,na,negative,na,na,anger
+453,Commodities lead Europe higher,other,na,positive,na,positive,joy
+454,Ingredient in male sweat raises women's hormone levels,other,present,neut,neut,neut,surprise
+455,Goetschl ends Austrian win drought,other,present,positive,positive,positive,joy
+456,Doomsday Clock ticking away,other,na,neut,na,na,fear
+457,Troops massing around Somali town,other,na,neut,na,na,fear
+458,Tariq Ramadan has an identity issue,other,present,negative,negative,negative,surprise
+459,Peretz orders IDF to respond with force to north border attacks,other,na,negative,na,negative,anger
+460,Trains crash near Thai resort town,other,na,negative,na,na,sadness
+461,"Hamas, Fatah return to unity gov't talks in Mecca",other,na,positive,na,na,joy
+462,Pats' fourth-quarter rally finishes Chargers,other,present,neut,neut,neut,joy
+463,7 Die As US Helicopter Crashes in Iraq,other,na,neut,na,na,sadness
+464,Millionaire secret Santa dies,other,na,neut,na,negative,sadness
+465,Morrissey may cheer up Eurovision,other,present,positive,neut,positive,joy
+466,Christian values guide Dungy and the Colts,other,na,neut,na,na,joy
+467,Israeli woman's tirade spurs PM outrage,other,present,negative,negative,negative,anger
+468,Passing exchange becomes political flashpoint,other,na,neut,na,neut,anger
+469,Police probe 2 church fires half mile apart,other,present,neut,neut,neut,sadness
+470,Italy to try US soldier for agent's Iraq death,other,present,negative,neut,na,anger
+471,Depp to star in spy poisoning film,other,na,neut,na,na,joy
+472,'24's' Jack Bauer returns,other,na,neut,na,neut,joy
+473,US Airways boosts bid for Delta,other,present,positive,neut,positive,surprise
+474,"Even before its release, world climate report is criticized as too optimistic",other,na,positive,na,na,fear
+475,"Second hanging also went awry, Iraq tape shows",other,na,neut,na,neut,sadness
+476,Howell takes one shot lead in Sony Open,other,present,positive,positive,positive,joy
+477,Psych checks reviewed after astronaut's crack-up,other,na,neut,na,neut,sadness
+478,"Pap Test, a mainstay against cervical cancer, may be fading",other,na,negative,na,na,surprise
+479,Martins leads Newcastle fightback,other,present,positive,neut,positive,joy
+480,PS3 pricey but impressive,other,na,positive,na,na,joy
+481,Pluto's revenge: 'Word of the Year' award,other,present,positive,positive,positive,joy
+482,European Space Agency,other,na,neut,na,na,joy
+483,Hackers strike at key Internet servers,other,na,negative,na,na,anger
+484,Hussein co-defendants executed,other,na,neut,na,neut,sadness
+485,Memo from Frankfurt: Germany relives 1970s terror as 2 seek release from jail,other,present,negative,neut,neut,fear
+486,Blissing out in Ojai,other,na,neut,na,na,joy
+487,"Houston, she's got some problems",other,past,negative,negative,na,sadness
+488,Amazon.com has 'best ever' sales,other,present,neut,positive,positive,joy
+489,Hackers attack root servers,other,na,negative,na,na,anger
+490,Video games can improve your vision,other,present,positive,neut,positive,surprise
+491,Internet attacked! (Did anyone notice?),other,na,negative,na,na,surprise
+492,"In Washington, contractors take on biggest role ever",other,na,neut,na,neut,surprise
+493,Floods force Malaysia evacuations,other,na,neut,na,na,sadness
+494,"On MySpace, girls seek friends, boys flirt",other,present,negative,negative,negative,surprise
+495,Tests of drug to block H.I.V. infection are halted over safety,other,present,negative,negative,na,fear
+496,Zoo polar bear to have root canal,other,present,neut,neut,na,sadness
+497,Europe take big Royal Trophy lead,other,present,positive,positive,positive,joy
+498,Israel to install cameras to show live Mughrabi footage,other,present,neut,neut,na,joy
+499,'We lit our last candle yesterday',self,past,neut,neut,neut,sadness
+500,Google buys YouTube for $1.65bn,other,present,neut,neut,neut,surprise
+501,PSP number one Sony platform in Japan,other,present,neut,neut,neut,joy
+502,England include Giles in WC squad,other,present,neut,neut,neut,joy
+503,Beckham 'won't play again for Real',other,na,neut,na,neut,sadness
+504,Eight years for Damilola killers,other,na,negative,na,na,sadness
+505,PC World editor slain at California home,other,na,neut,na,neut,sadness
+506,Hands on 'Doomsday Clock' move forward,other,na,neut,na,neut,fear
+507,Zach Braff says he has 'mild depression',other,present,negative,negative,negative,sadness
+508,Investigation of child porn site hits 77 nations USA Today,other,present,neut,neut,neut,disgust
+509,Science panel calls global warming unequivocal,other,present,positive,positive,positive,fear
+510,News Baby pandas! Baby pandas! Baby pandas!,other,na,neut,na,na,joy
+511,Get ready for the earnings,other,na,positive,na,na,joy
+512,Germany agonizes over a brain drain,other,na,negative,na,negative,sadness
+513,Iran and Nicaraguan leaders meet,other,na,neut,na,neut,joy
+514,Secret hotels in Irish countryside,other,na,neut,na,na,surprise
+515,Fine wines in British Columbia,other,na,neut,na,na,joy
+516,Philippine president welcomes Senate approval of anti-terror bill ,other,present,positive,positive,positive,joy
+517,"Small jet crashes on takeoff, killing 2",other,present,negative,neut,negative,sadness
+518,"Bigger, more aggressive rats infesting UK",other,present,negative,neut,negative,fear
+519,Travel+Leisure: Next island hot spot: St. Lucia,other,na,positive,na,na,joy
+520,Real Mallorca rock leaders Sevilla,other,na,neut,na,na,joy
+521,Iran's boast on uranium enrichment is put to test,other,na,positive,na,na,fear
+522,"Personal health: for teenagers, the car is the danger zone",other,na,negative,na,na,fear
+523,Bird watchers flock to see rare owl,other,present,neut,neut,neut,joy
+524,Eye on cosmos is lost to short circuit on hubble,other,na,negative,na,na,sadness
+525,Too young for this: facing cancer under 40,other,present,negative,negative,na,sadness
+526,Unilever group names new chairman,other,na,neut,na,na,joy
+527,Minister slams airlines on carbon,other,present,neut,neut,neut,anger
+528,Rare optimism as North Korea talks reach crossroads,other,present,positive,neut,neut,joy
+529,Man beheaded in southern Thailand,other,na,neut,na,neut,sadness
+530,China's 'nightmare scenario',other,na,neut,na,na,fear
+531,Annual diving contest in South Korea proves a chilly challenge,other,present,negative,negative,negative,surprise
+532,Blair says he regrets delays in British soldier's inquest,other,present,negative,negative,negative,sadness
+533,Iraqi forces detain official suspected in Shia conspiracy,other,na,negative,na,na,fear
+534,Wellcome awards anti-fat research,other,na,positive,na,na,joy
+535,Fingers crossed for North Korea,other,na,neut,na,neut,joy
+536,"No intention of war with Iran, US says",other,na,neut,na,neut,joy
+537,What Newsom faces in aftermath of scandal,other,present,negative,negative,negative,fear
+538,Maggie Gyllenhaal's Globes babysitter: Mom,other,na,neut,na,na,joy
+539,"As inflation soars, Zimbabwe economy plunges",other,na,neut,na,neut,sadness
+540,Pledge: I was abused in frat hazing,other,na,negative,na,na,disgust
+541,Experts: Fear likely shackled boy,other,na,neut,na,na,fear
+542,What's behind the chopper crashes in Iraq,other,na,negative,na,negative,fear
+543,"Freed Muslim terror suspect says Britain is ""police state""",other,na,negative,na,neut,fear
+544,Blair apologises over friendly fire inquest,other,na,positive,na,positive,sadness
+545,Depp 'to make Litvinenko movie',other,present,neut,neut,na,joy
+546,Why gas follows oil up but not down,other,present,neut,neut,neut,surprise
+547,"'Cravings' still there, sez Tara",other,present,neut,neut,neut,joy
+548,Bill would strip convicted legislators of pensions,other,present,neut,neut,neut,sadness
+549,Bears watch as lead slips away,other,na,positive,na,positive,sadness
+550,"In clue to addiction, brain injury halts smoking",other,na,negative,na,na,surprise
+551,"In rigorous test, talk therapy works for panic disorder",other,present,negative,positive,na,joy
+552,Rice: U.S. won't pull plug on Iraq,other,present,neut,neut,neut,joy
+553,"On road to Kosovo independence, a warning: go slow",other,na,negative,na,na,fear
+554,Mistrial for officer who refused to go to Iraq,other,na,negative,na,negative,sadness
+555,Rebels to join Nepal parliament,other,present,neut,neut,neut,surprise
+556,"EMI warns on profits, boss goes",other,na,neut,na,neut,fear
+557,Subway collapse caught on camera,other,na,negative,na,na,sadness
+558,Stinky but true: men's sweat is made for love,other,na,positive,na,na,surprise
+559,"POLITICS-US: reprieve for officer who denounced ""Immoral War""",other,na,negative,na,negative,joy
+560,Hunters stalk world's tallest trees,other,present,neut,neut,neut,sadness
+561,Fuel spill may lead to missing jet,other,na,positive,na,positive,fear
+562,"Sri Lanka floods displace 60,000",other,present,negative,neut,negative,sadness
+563,"Justin Timberlake, Cameron Diaz announce split",other,na,negative,na,na,sadness
+564,Iran to hit US interests if attacked,other,present,negative,neut,na,fear
+565,Israel says hopes to keep Lebanon border calm,other,present,positive,neut,neut,joy
+566,Cisco sues Apple over iPhone name,other,present,negative,neut,negative,anger
+567,Two Palestinians killed near fence,other,na,negative,na,negative,sadness
+568,EarthLink CEO dies at age 49,other,na,negative,na,negative,sadness
+569,"A star dies, a family feud is born",other,na,negative,na,negative,sadness
+570,"Carter was a disaster, said Ford",other,na,negative,na,neut,anger
+571,Super Bowl MVP Manning insists he's one of the guys,other,na,neut,na,neut,joy
+572,Personal health: the importance of knowing what the doctor is talking about,other,present,neut,neut,neut,fear
+573,Israel's Peretz urges halt to contentious Jerusalem construction,other,present,negative,neut,neut,anger
+574,Peter Jackson will never work for me again,other,na,positive,na,positive,anger
+575,U.S. keeps Iran options open,other,na,neut,na,neut,joy
+576,European shares hit fresh highs,other,past,positive,positive,positive,joy
+577,"For women, nothing's like the smell of men's sweat",other,na,positive,na,na,surprise
+578,Looking beyond the iPhone,other,na,neut,na,na,surprise
+579,Freed kidnap suspect: my terror at police raid,other,na,negative,na,na,fear
+580,"Far away, Super Bowl's losers will be champs",other,na,positive,na,neut,joy
+581,Woman dies after water binge,other,na,negative,na,negative,sadness
+582,Mancuso sparks U.S. celebrations,other,na,positive,na,na,joy
+583,ASEAN urges North Korea resolution,other,present,neut,neut,neut,fear
+584,Late penalty costs Roma the points,other,na,negative,na,na,sadness
+585,Mistrial declared in teacher-student rape case,other,na,negative,na,negative,sadness
+586,'Bookworm Adventures' wordsmith's joy,other,na,positive,na,na,joy
+587,Kylie's love split,other,na,positive,na,na,sadness
+588,iPod good for video games,other,na,positive,na,na,joy
+589,Review: virtual 'American Idol' hits right notes,other,na,positive,na,na,joy
+590,Leo battles himself,other,present,neut,neut,neut,joy
+591,Attorneys point fingers in fight between Ryan O'Neal and son,other,na,neut,na,na,anger
+592,John Grisham set for court drama,other,na,neut,na,neut,fear
+593,"Bill Gates and Craig Mundie: vista is Secure, employees are not",other,na,neut,na,neut,surprise
+594,Iraqis fault delayed U.S. plan in attack,other,past,negative,neut,negative,anger
+595,Boy Scouts blamed for starting wildfire,other,present,negative,neut,negative,fear
+596,China urges UN action on N Korea,other,present,neut,neut,neut,fear
+597,"Scorpion on a plane, a pantful of pain",other,na,negative,na,na,fear
+598,Male sweat boosts women's hormone levels,other,present,positive,neut,positive,surprise
+599,Mbeki on the big visit from the Chinese,other,na,neut,na,na,surprise
+600,French right nominates Sarkozy,other,na,positive,na,na,joy
+601,"Israeli, Lebanese clash on border",other,na,negative,na,na,fear
+602,North Korea claims nuclear test,other,present,neut,neut,neut,fear
+603,Talks begin on Somalia peacekeepers,other,na,neut,na,neut,joy
+604,Action games improve eyesight,other,present,positive,neut,positive,surprise
+605,"A small part of the brain, and its profound effects",other,na,positive,na,na,surprise
+606,IDF shells Lebanese Army positions across northern border,other,na,neut,na,na,fear
+607,Thailand: missing 25 years after taking wrong bus,other,present,negative,negative,na,sadness
+608,Ballerina sparks anti-fascist row,other,present,neut,neut,neut,anger
+609,Internet boom in China is built on virtual fun,other,na,positive,na,na,joy
+610,Review: PS3 pricey but impressive,other,na,positive,na,na,joy
+611,Machinery orders drive Asia upward,other,present,neut,neut,neut,joy
+612,'Lost's' Fox: 'I'm a liar and a cheat',self,na,negative,na,na,disgust
+613,Russia to strengthen its military muscle,other,present,neut,neut,na,fear
+614,"At Libby trial, Russert of NBC gives and gets",other,na,neut,na,neut,fear
+615,North Korea ready to discuss first steps to nuclear resolution,other,present,positive,neut,na,joy
+616,Victim: Gunman bought drink after shooting,other,past,neut,neut,neut,surprise
+617,Ferrer victorious in Spanish duel,other,na,positive,na,na,joy
+618,UK workers on alert for letter bombs,other,na,negative,na,na,fear
+619,Did NASA accidentally kill life on Mars?,other,present,negative,neut,negative,surprise
+620,"New vaccine for cervical cancer could prove useful in men, too",other,na,positive,na,positive,joy
+621,Search on for victims of subway collapse,other,na,negative,na,na,sadness
+622,Human error caused Helios crash,other,past,negative,negative,negative,sadness
+623,US to prod NATO allies for more troops to defeat Taliban,other,present,positive,neut,na,fear
+624,Microsoft supports OpenID authentication standard,other,present,positive,neut,positive,joy
+625,No buyer in sight for Napster,other,na,neut,na,na,sadness
+626,"Briefly: preloaded iPods, Wal-Mart movies, Apple stores",other,na,neut,na,na,joy
+627,China says rich countries should take lead on global warming,other,present,positive,positive,positive,sadness
+628,North Korea may begin to dismantle nukes,other,present,neut,neut,neut,joy
+629,Tracking down hi-tech crime,other,present,negative,negative,na,joy
+630,Barack Obama formally announces bid for president,other,present,neut,neut,neut,joy
+631,Kidnappers seize two in Nigeria,other,present,neut,neut,neut,fear
+632,"Indonesia may sell, not give, bird flu virus to scientists",other,present,negative,negative,negative,fear
+633,"Attack video saddens ""friendly fire"" widow",other,na,positive,na,na,sadness
+634,Europe retain trophy with big win,other,present,positive,positive,positive,joy
+635,Cutting edge accessories for digital music players,other,present,neut,neut,na,joy
+636,Ice storm descends on central U.S.,other,na,neut,na,neut,fear
+637,Snow brings travel misery to England,other,present,negative,negative,negative,sadness
+638,"Indonesia flood forces 340,000 from homes",other,na,neut,na,na,sadness
+639,Iraqi health minister seized in raid ,other,na,neut,na,neut,surprise
+640,Ice storm brings chaos in U.S.,other,present,negative,negative,negative,fear
+641,Stinky flower mystery solved,other,na,negative,na,neut,joy
+642,Congressman rebukes U.S. allies for lack of support in Afghanistan ,other,present,negative,neut,negative,anger
+643,Roddick overcomes Federer in final,other,present,neut,neut,na,joy
+644,Prehistoric Romeo and Juliet discovered,other,na,neut,na,neut,joy
+645,Donald and Goydos share Sony lead,other,na,positive,na,positive,joy
+646,U.S. and Iraqis are wrangling over war plans,other,na,negative,na,negative,fear
+647,Sea search for missing Microsoft scientist,other,na,negative,na,na,sadness
+648,Iran to Hit US Interests if Attacked,other,present,neut,neut,na,fear
+649,Blair: Terror battle will be long,other,na,neut,na,na,fear
+650,Bear cub returned to the wilderness,other,na,neut,na,neut,joy
+651,Carrefour sales growth falls short,other,na,negative,na,negative,sadness
+652,"Allied with democrats, Lieberman easily aligns with Republicans",other,na,neut,na,na,surprise
+653,"In the Rockies, pines die and bears feel it",other,present,negative,neut,negative,sadness
+654,Iran to strike US interests if attacked,other,present,negative,neut,na,fear
+655,"Nipple covers, other star secrets",other,na,neut,na,na,disgust
+656,Apple: no iTunes for you if you have Vista!,other,present,neut,neut,neut,surprise
+657,Smokestacks in a white wilderness divide Iceland,other,present,neut,neut,neut,sadness
+658,That'll cost ya,other,present,neut,neut,neut,anger
+659,Botched hangings in Iraq speed sectarianism,other,present,neut,neut,na,fear
+660,Male sweat raises female hormones,other,present,neut,neut,neut,surprise
+661,7 GOP senators to force debate on troops in Iraq,other,present,neut,neut,neut,joy
+662,Bangladesh ends curfew amid unrest,other,present,negative,neut,neut,joy
+663,Italy's dispute with US over Iraq shooting,other,na,negative,na,na,anger
+664,Here come the Globes!,other,present,neut,neut,na,joy
+665,Snow causes transport chaos in Britain,other,present,negative,negative,negative,sadness
+666,Snow causes airport closures in Britain,other,present,neut,neut,neut,sadness
+667,"Second opinion: girl or boy? as fertility technology advances, so does an ethical debate",other,present,positive,positive,positive,surprise
+668,Heavy snow causes travel chaos and shuts schools,other,present,negative,neut,negative,fear
+669,Barbaro's legacy: saving other horses,other,na,neut,na,na,joy
+670,Luxury digs in South Carolina's Lowcountry,other,na,neut,na,na,joy
+671,Dozens killed in Baghdad bombing,other,na,negative,na,negative,sadness
+672,Ice storms kill 21 across nation,other,present,negative,neut,negative,sadness
+673,De Villiers takes over Dakar lead,other,na,positive,na,positive,joy
+674,Vietnam becomes WTO's 150th member,other,na,neut,na,neut,joy
+675,South African trio share advantage,other,na,positive,na,na,joy
+676,Observatory: poison begets poison,other,na,negative,na,na,fear
+677,Action intensity boosts vision,other,present,positive,neut,positive,joy
+678,Why the smell of a man's armpit is a turn-on,other,na,negative,na,na,surprise
+679,Nokia 5300 Xpress Music,other,na,neut,na,na,joy
+680,"Dell to cut bonuses, trim management",other,present,positive,neut,na,sadness
+681,"Second drop in cancer deaths could point to a trend, researchers say",other,na,negative,na,neut,surprise
+682,TV game shows go interactive,other,present,neut,neut,neut,joy
+683,Boy missing since 2002 found alive,other,na,negative,na,neut,joy
+684,"US, North Korea signed nuclear memo",other,past,neut,neut,neut,joy
+685,Russia honors Sputnik designer,other,present,positive,neut,positive,joy
+686,"In Kenya's capital, a sense that danger is ever stronger",other,na,positive,na,na,fear
+687,"Bill, thanks for the RSA memories... and laughs",other,na,neut,na,neut,joy
+688,Friendly fire pilot 'experienced',other,na,neut,na,na,sadness
+689,MySpace welcomes French friends,other,present,positive,neut,positive,joy
+690,Airlines: UK airport runway unsafe,other,na,negative,na,na,fear
+691,The amounts you have to pay for a bomb scare,other,na,negative,na,negative,fear
+692,"In Egypt, Rice speaks softly",other,na,neut,na,neut,joy
+693,"Weekly Nielsen Yvonne De Carlo, 'Munsters' star, dead",other,na,negative,na,na,sadness
+694,Senate votes to revoke pensions,other,present,negative,neut,negative,sadness
+695,EarthLink CEO dies at age 49,other,na,negative,na,negative,sadness
+696,Software giant SAP misses target,other,present,negative,neut,negative,sadness
+697,Vital signs: mental abilities: folic acid may improve thinking skills,other,present,positive,positive,positive,surprise
+698,De Villiers stretches overall lead,other,present,positive,positive,positive,joy
+699,Families celebrate return of sons,other,present,positive,neut,positive,joy
+700,China detains 2 after body parts found in mail,other,present,neut,neut,neut,fear
+701,North Korea ready to discuss nuke disarmament,other,present,positive,neut,na,joy
+702,"For women, nothing's like the smell of men's sweat",other,na,positive,na,na,surprise
+703,Nadal wants Australian Open crown,other,present,neut,neut,neut,joy
+704,Beijing journal: Olympic construction unearths ancient treasure trove,other,na,positive,na,na,joy
+705,"Chinese president arrives in Mozambique, African tour nearly over",other,na,neut,na,neut,joy
+706,Reclusive 'Mockingbird' author attends show,other,present,neut,neut,neut,joy
+707,"Asia near pact on energy, security",other,na,neut,na,na,joy
+708,Philippine anti-terror law delayed until June,other,na,negative,na,negative,fear
+709,Ex-suspect slams anti-terror laws,other,na,neut,na,na,anger
+710,Study detects a gene linked to Alzheimer's,other,na,neut,na,neut,joy
+711,Panda cub makes her debut,other,present,neut,neut,neut,joy
+712,Harris haul puts South Africa on top,other,present,positive,positive,positive,joy
+713,Weight-loss drug to be sold over the counter,other,na,neut,na,na,joy
+714,Beckham outlines reasons for move,other,na,neut,na,neut,joy
+715,Study finds gritty air raises heart disease risk in older women,other,present,negative,negative,negative,surprise
+716,"Venezuela, Iran fight U.S. dominance",other,na,neut,na,na,anger
+717,'Housewives' star Marcia Cross on bed rest,other,na,neut,na,na,sadness
+718,Blog: Here come the Globes!,other,present,neut,neut,neut,joy
+719,Greek police hunt embassy attackers,other,na,neut,na,na,anger
+720,Apple warns iTunes users to wait on Vista,other,present,neut,neut,neut,surprise
+721,Tsunami fears ease after quake,other,na,positive,na,positive,fear
+722,China considers Eurobond reserves,other,present,neut,neut,neut,joy
+723,Underarm bowls them over,other,present,neut,neut,neut,surprise
+724,At least 130 die as blast levels Baghdad market,other,present,negative,neut,neut,sadness
+725,New McCain team made attack ads he once faulted,other,past,negative,negative,negative,anger
+726,Deaths as bird flu flares in Asia,other,na,negative,na,na,fear
+727,"Hamas, Fatah leaders pledge to meet until they reach agreement",other,present,neut,neut,neut,joy
+728,Officers had 'rapport' with alleged abductor,other,past,neut,positive,positive,disgust
+729,No e-Book for Harry Potter VII,other,na,neut,na,na,sadness
+730,Review: Nokia 5300 Xpress Music,other,na,neut,na,na,joy
+731,'Can't do this anymore'? Not Jack,other,present,neut,neut,neut,surprise
+732,Black hole triplets spotted,other,na,neut,na,neut,surprise
+733,Israel weighs old city project webcast,other,present,neut,neut,neut,surprise
+734,Indonesian bird flu deaths hit 61,other,past,negative,neut,neut,sadness
+735,Somali refugees cut off from aid,other,na,neut,na,neut,sadness
+736,Microsoft downplays Vista speech-recognition hack,other,present,negative,negative,negative,joy
+737,Next island hot spot: St. Lucia,other,na,positive,na,na,joy
+738,Italy to hold no-show trial of Bronx GI in Iraq slay,other,present,neut,neut,na,anger
+739,Rescued boys parents hail 'miracle',other,na,positive,na,na,joy
+740,Canadians tracked in child porn ring,other,na,neut,na,neut,disgust
+741,Teen hacks Venezuelan government Web sites,other,na,negative,na,na,surprise
+742,"Russia plans new ICBMs, nuclear subs",other,na,neut,na,na,fear
+743,Gere cheers sex workers in AIDS fight,other,na,positive,na,na,joy
+744,Study: Male sweat causes female hormones to rise,other,present,neut,neut,neut,surprise
+745,Collision on icy road kills 7,other,present,negative,neut,negative,sadness
+746,Surprise: China cuts price of gas,other,na,neut,na,na,joy
+747,What the Godfather of Soul meant to me,other,past,neut,neut,neut,joy
+748,New Mars orbiter spots Pathfinder landing site,other,na,neut,na,na,joy
+749,Mass Venezuela opposition rally,other,na,negative,na,na,anger
+750,Glamour -- and 'Borat' -- at Golden Globes,other,na,neut,na,na,joy
+751,Terror officials see Al Qaeda chiefs regaining power,other,present,neut,neut,neut,fear
+752,"Ivrea journal: In Italian town, a civics lesson from pelting neighbors",other,na,neut,na,na,surprise
+753,Iraqi sunni lands show new oil and gas promise,other,present,positive,positive,positive,joy
+754,Princess and heir of Franz Ferdinand fights to repeal a law and gain a castle,other,present,positive,neut,neut,joy
+755,"A film star in Kampala, conjuring aminos ghost",other,na,neut,na,na,fear
+756,Militants attack U.S. base in Iraq,other,na,negative,na,na,fear
+757,North Africa feared as staging ground for terror,other,present,negative,neut,negative,fear
+758,"Iran says Sunnis, using Pakistan as base, planned fatal bombing",other,present,negative,neut,neut,fear
+759,Anglicans rebuke U.S. branch on same-sex unions,other,na,negative,na,na,anger
+760,Homemade bombs kill 65 on Indian train,other,present,negative,neut,negative,sadness
+761,Al Qaeda chiefs are seen to regain power,other,present,neut,neut,na,fear
+762,Chvez threatens to jail violators of price controls,other,na,negative,na,negative,anger
+763,Bush declares Iran's arms role in Iraq is certain,other,na,neut,na,neut,fear
+764,Accord on North Korea is announced,other,na,neut,na,na,joy
+765,U.S. says powerful Iraqi cleric is living in Iran,other,na,positive,na,positive,fear
+766,"Baghdad plan is a success, Iraq prime minister tells Bush",other,present,positive,neut,neut,joy
+767,Iraqi sunni lands show new oil and gas promise,other,present,positive,positive,positive,joy
+768,"Dispute over Iraqi cleric, said to have gone to Iran",other,present,neut,neut,na,anger
+769,Planning seen in Iraqi attacks on U.S. copters,other,na,negative,na,negative,fear
+770,"In the world of life-saving drugs, a growing epidemic of deadly fakes",other,na,negative,na,na,sadness
+771,Basics: a mammal in winter with a furnace of her own,other,na,neut,na,na,surprise
+772,"Books on science: The problems in modeling nature, with its unruly natural tendencies",other,na,negative,na,na,surprise
+773,Believing scripture but playing by science's rules,other,present,neut,neut,na,surprise
+774,"A familiar and prescient voice, brought to life",other,na,neut,na,na,joy
+775,Findings : A cool $25 million for a climate backup plan,other,na,positive,na,na,surprise
+776,Call it serendipity: a missing piece of Washington's war tent is found,other,present,negative,neut,na,joy
+777,"Free Will: Now you have it, now you don't",other,present,neut,neut,neut,surprise
+778,Archaeologists find signs of early chimps' tool use,other,present,neut,neut,neut,surprise
+779,Wizardry at Harvard: physicists move light,other,na,neut,na,na,surprise
+780,The summit - a slap in the face of the Palestinians,other,na,negative,na,na,disgust
+781,Moscow says Palestine-Israeli contacts key to Mideast peace,other,na,positive,na,positive,joy
+782,Mideast summit edns with little progress,other,na,positive,na,na,sadness
+783,India decries 'an act of sabotage',other,present,negative,negative,negative,fear
+784,Pakistan-India peace talks planned despite bombings,other,na,positive,na,neut,joy
+785,"Czechs, Poles get missile warning",other,present,neut,negative,negative,fear
+786,Russia warns US against missile bases in East Europe,other,present,neut,neut,neut,fear
+787,"Cheney starts visit to Japan, Australia",other,present,neut,neut,neut,joy
+788,China: Cheney shores up the trilateral alliance,other,na,neut,na,na,joy
+789,Iraq insurgents attack US base,other,present,negative,neut,negative,fear
+790,US soldiers die in day of violence,other,na,negative,na,negative,sadness
+791,Iraqi suicide attack kills two US troops as militants fight purge,other,present,negative,neut,negative,sadness
+792,Iran reneges on nuclear payments to Russia,other,na,neut,na,neut,fear
+793,Top Colombia official resigns,other,na,neut,na,na,sadness
+794,Colombia FM resigns after relatives' arrests for militia links,other,na,neut,na,neut,sadness
+795,Foreign minister of Colombia quits in scandal,other,na,negative,na,negative,disgust
+796,New Zealand unlikely to allow crippled Japanese whaler,other,present,negative,negative,na,sadness
+797,Damaged Japanese whaling ship may resume hunting off Antarctica,other,present,neut,neut,neut,sadness
+798,Japanese whaling ship won't accept help,other,present,neut,neut,neut,disgust
+799,Iran top N-envoy heads for Vienna for nuke talks,other,na,positive,na,na,joy
+800,Victims of Air India still wait for justice,other,na,neut,na,neut,sadness
+801,Kanishka bombing case: Inquiry judge threatens to quit,other,na,negative,na,negative,disgust
+802,Judge threatens to shut down Air-India inquiry,other,present,negative,neut,negative,anger
+803,Royal rescues presidential hopes with commanding performance,other,present,neut,neut,neut,joy
+804,Royal seeks to revive French bid,other,present,positive,neut,positive,joy
+805,Sarkozy comfort zone offers a royal opportunity,other,present,positive,neut,neut,joy
+806,"Hicks first in line for trial, Bush says",other,na,neut,na,neut,fear
+807,Australia tells Bush to speed up Guantanamo trial,other,present,neut,neut,neut,surprise
+808,Howard presses Bush on terror suspect,other,na,negative,na,na,fear
+809,France ends toxic alert at Canadian embassy in Paris,other,present,negative,negative,negative,fear
+810,Paris police investigate package at Canadian embassy,other,present,neut,neut,neut,fear
+811,False alarm at Canadian embassy in Paris,other,present,negative,negative,na,fear
+812,Afghan forces retake town that was overrun by Taliban,other,present,negative,negative,negative,joy
+813,Taliban seize rural district in southwest as police flee,other,present,negative,neut,neut,fear
+814,Afghan poppy war alienates farmers,other,present,negative,neut,negative,sadness
+815,Will North Korea honor pledge this time?,other,present,positive,neut,positive,joy
+816,Kim Jong-il bans Japanese cars in North Korea,other,present,neut,neut,neut,surprise
+817,Iran vs. North Korea: not all enemies are equal,other,na,negative,na,na,anger
+818,Catholic archbishop outlines Anglican merger hopes,other,present,neut,neut,neut,joy
+819,Anglican and Catholic churches could merge,other,na,neut,na,neut,joy
+820,US helicopter crash kills 8 troops in Afghanistan,other,present,negative,neut,negative,sadness
+821,Eight US soldiers killed in Zabul helicopter crash,other,na,negative,na,negative,sadness
+822,Arroyo lauds passage of anti-terror bill,other,present,neut,neut,positive,joy
+823,House passes anti-terrorism measure Manila,other,present,neut,neut,neut,joy
+824,Livingstone's transport empire may extend,other,na,neut,na,neut,joy
+825,"London is pace-setter on congestion toll, says mayor",other,na,negative,na,neut,joy
+826,Protest greets congestion charge's westward push,other,na,negative,na,na,anger
+827,"Thailand attacks kill three, injure 70",other,present,negative,neut,negative,sadness
+828,Thai Govt moves to smooth over relations with south,other,present,positive,neut,positive,joy
+829,Bombings say Muslim rebels won't negotiate,other,na,neut,na,neut,fear
+830,Roots of autism more complex than thought,other,na,negative,na,na,surprise
+831,Largest ever autism study identifies two genetic culprits,other,present,negative,negative,negative,surprise
+832,Canadian breakthrough offers hope on autism,other,na,positive,na,neut,joy
+833,Beware of peanut butter pathogens,other,na,neut,na,na,fear
+834,Experts offer advice on salmonella,other,na,neut,na,na,joy
+835,Experts issue new heart disease guidelines for women,other,na,negative,na,na,joy
+836,"For women, aspirin a day could keep stroke away",other,present,neut,neut,neut,joy
+837,High cholesterol raises stroke risk healthy women,other,na,positive,na,na,fear
+838,Cooked chicken breasts join tainted-food recalls,other,present,neut,neut,neut,fear
+839,Ready to eat chicken breasts recalled due to suspected listeria,other,na,negative,na,negative,fear
+840,Fully-cooked chicken strips recalled ,other,na,neut,na,neut,surprise
+841,Committee debates cancer vaccine plan,other,na,negative,na,na,surprise
+842,Stop cancer with a shot,other,present,negative,negative,na,joy
+843,1 mln birds to be vaccinated from bird flu near Moscow,other,na,neut,na,na,joy
+844,Thousands tested after Russian H5N1 outbreak,other,na,negative,na,negative,fear
+845,"Russian bird flu outbreak is deadly ""Asian strain""",other,na,negative,na,negative,fear
+846,Bernard Matthews to lay off up to 500 workers,other,na,neut,na,neut,sadness
+847,Matthews lays off 130 turkey workers,other,present,neut,neut,neut,sadness
+848,Reopening bird flu-hitfactory ignores risks - poultryman,other,na,negative,na,na,fear
+849,Goodbye to girlhood,other,na,neut,na,na,sadness
+850,Media cited for showing girls as sex objects,other,present,negative,neut,neut,anger
+851,Sexualisation 'harms' young girls,other,na,neut,na,na,anger
+852,A shot in the arm,other,na,neut,na,na,fear
+853,Thousands line up to get late flu shots,other,present,neut,neut,neut,fear
+854,King county offering some free flu vaccines,other,na,positive,na,na,joy
+855,Bush vows cooperation on health care,other,present,neut,neut,neut,joy
+856,Health returns as hot issue in '08 race,other,na,positive,na,na,joy
+857,Small-business owners find Bush health plan appealing,other,na,positive,na,positive,joy
+858,Pediatricians say more cord blood is needed now,other,present,neut,neut,neut,fear
+859,Whether to save cord blood can be puzzle for parents,other,present,neut,neut,na,surprise
+860,Retinal implant helping blind people see again,other,present,negative,negative,negative,joy
+861,"Indonesia ""will not share"" flu samples",other,present,neut,neut,neut,surprise
+862,Health Canada issues advice on canned tuna,other,present,negative,neut,negative,fear
+863,Cholesterol link in diabetes study,other,present,neut,neut,na,sadness
+864,Pig cells hope for diabetes cure,other,na,positive,na,positive,surprise
+865,Sick hearts switch on a fetal gene,other,na,neut,na,neut,surprise
+866,Foetal mechanism helps heart failure,other,present,negative,negative,negative,surprise
+867,"Planned cesareans not risk-free, group warns",other,na,positive,na,positive,fear
+868,Scientists tout cocoa's health benefits,other,present,positive,positive,na,joy
+869,Feeding your brain: new benefits found in chocolate,other,present,positive,neut,na,joy
+870,Some cocoa may improve brain blood flow,other,present,positive,neut,positive,joy
+871,Lawyer for deceased Nazi-era collaborator Papon vows to bury him ,other,present,neut,neut,neut,anger
+872,"Cocoa could be antidote to age-related diseases, says new study",other,na,neut,na,neut,joy
+873,China denies reports of North Korean apology,other,present,negative,neut,negative,surprise
+874,Hungarian opposition calls for vote after violence escalates,other,na,negative,na,neut,anger
+875,AU regrets Sudan's expulsion of UN envoy ,other,present,negative,neut,negative,sadness
+876,Bush officials: no big move in Iraq plan ,other,na,neut,na,na,fear
+877,Opponent is put on the spot over remarks about Clinton,other,na,neut,na,na,surprise
+878,House ethics panel talks to Hastert aide,other,na,neut,na,na,joy
+879,BellSouth says profit rises 30% on cingular earnings,other,present,neut,neut,neut,joy
+880,Enron boss gets 24-year sentence,other,present,neut,neut,neut,sadness
+881,Sony apologizes for battery recall,other,na,neut,na,neut,joy
+882,Google unveils do-it-yourself search engine,other,present,neut,neut,neut,joy
+883,Firefox 2.0 hits the Web,other,present,neut,neut,neut,joy
+884,Oracle World opens with Dell unveiling AMD-powered computers,other,present,neut,neut,neut,joy
+885,Seahawks' QB Hasselbeck out 2-4 weeks,other,na,neut,na,na,sadness
+886,Marathon winner released from hospital ,other,na,positive,na,neut,joy
+887,Punter charged with stabbing asks to live outside state,other,present,negative,neut,neut,anger
+888,Allmendinger joining Toyota team in NASCAR ,other,present,neut,neut,na,joy
+889,Trying to assess the damage in Cleveland ,other,present,negative,negative,na,sadness
+890,Bryant's boot may have salvaged Bucs' season,other,past,neut,neut,neut,joy
+891,This week in auto racing October 27 - October 29,other,na,neut,na,na,joy
+892,Merriman violation stuns ex-teammate,other,na,negative,na,na,surprise
+893,Bruce revells in upset,other,na,negative,na,negative,anger
+894,Steelers' Roethlisberger has concussion,other,na,neut,na,neut,sadness
+895,Arthurs upsets Robredo in first round at the St. Petersburg Open,other,na,negative,na,na,surprise
+896,Mbeki: 2010 World Cup Planning on Track,other,na,neut,na,na,joy
+897,Clinical Everton show Moyes means business,other,present,neut,neut,neut,joy
+898,MS Adds Office 2007 to Vista Coupon Program,other,present,neut,neut,neut,joy
+899,One search does not fit all,other,present,neut,neut,neut,surprise
+900,Apple's dark secret? The 39% claim,other,na,negative,na,na,surprise
+901,Bad weather cancels men's downhill,other,na,negative,na,negative,sadness
+902,Cool millions for YouTube founders,other,present,neut,neut,na,joy
+903,"London market a shopping, dining haven",other,na,negative,na,na,joy
+904,'Jackass' star marries childhood friend The secrets people reveal,other,na,neut,na,neut,joy
+905,Audio Slide Show: A love story lasting 61 years,other,na,positive,na,na,joy
+906,Microsoft to release next generation phone,other,present,neut,neut,na,joy
+907,Body Shop's Roddick has Hepatitis C,other,present,neut,neut,neut,sadness
+908,Teen allegedly armed by mom turns self in,other,present,neut,neut,neut,fear
+909,Oxfam: action needed for Chad,other,na,neut,na,na,joy
+910,Violence continues at disputed holy site,other,na,positive,na,positive,sadness
+911,Storm leaves behind major travel troubles,other,na,negative,na,negative,sadness
+912,3 U.S. troops killed hunting weapons cache,other,past,negative,neut,negative,sadness
+913,China's 'Friends' highlights Web freedoms,other,present,positive,positive,positive,joy
+914,NATO: Afghanistan peace 'by 2009',other,na,positive,na,na,joy
+915,Alaska's northern lights captivate Japanese,other,na,positive,na,positive,joy
+916,Smith can't be buried until hearing,other,na,neut,na,na,sadness
+917,Spacewalker sets new U.S. record,other,present,neut,neut,neut,joy
+918,Fortune: India the Superpower? Think again,other,na,neut,na,neut,surprise
+919,Kerry blasts 'escalation of misguided war',other,na,negative,na,na,anger
+920,Anna Nicole claimant: A prince of a guy?,other,na,neut,na,na,surprise
+921,'Ronnie' and Eto'o hug and make up,other,na,positive,na,positive,joy
+922,Best of the Chicago Auto Show,other,na,neut,na,na,joy
+923,"'Grey's,' 'Betty,' 'Scrubs' get boost",other,na,positive,na,positive,joy
+924,Massive mud traps dozens of families,other,na,negative,na,na,sadness
+925,"Edwards blogger quits, becomes journalistic martyr",other,na,neut,na,neut,surprise
+926,Town packs gym to mourn 10 killed in fire,other,present,negative,neut,neut,sadness
+927,Spain ahead although Nadal is out,other,na,neut,na,na,joy
+928,ECB holds rates at 3.5 percent,other,present,neut,neut,neut,joy
+929,Iran rejects US claims of supplying weapons in Iraq,other,present,negative,neut,negative,fear
+930,Jakarta begins disinfection,other,present,neut,neut,neut,joy
+931,"Rowling 'heartbroken,' 'euphoric' at 'Potter's' end",other,na,neut,na,na,sadness
+932,Apple revs up Mac attacks on Vista,other,present,negative,negative,negative,disgust
+933,Fear hinders black marrow donation,other,present,neut,neut,negative,fear
+934,Texan allegedly joined Somalia rebel plot,other,na,negative,na,neut,anger
+935,"U.S. to allow 7,000 Iraqi refugees",other,present,neut,neut,na,joy
+936,Japan: Whaling activists 'terrorists',other,na,neut,na,na,fear
+937,'Hannibal' bites the big one,other,na,neut,na,neut,surprise
+938,Women protest Pakistan demolition,other,na,negative,na,na,anger
+939,Wii news for gamers,other,na,neut,na,na,joy
+940,Democrats look beyond symbolic vote on Iraq,other,na,neut,na,neut,joy
+941,Portugal to vote on abortion laws,other,na,neut,na,na,surprise
+942,Frustration rises as North Korea nuclear talks stall,other,na,negative,na,negative,fear
+943,Horse teeth give details of ancient big chill,other,present,negative,negative,negative,surprise
+944,Scam lures victims with free puppy offer,other,present,positive,neut,negative,surprise
+945,Two Koreas to resume talks,other,present,neut,neut,na,joy
+946,Mickelson driving force at masters,other,present,positive,positive,na,joy
+947,England opt for Bopara over Loye,other,na,neut,na,neut,joy
+948,Create own 'Thrillville' for a wild ride,other,present,negative,neut,na,joy
+949,Edwards' campaign blogger quits amid Catholic controversy,other,na,negative,na,negative,surprise
+950,Judge: Preserve Anna Nicole's body,other,na,neut,na,na,sadness
+951,"Dolphins, sea lions may report for duty soon",other,na,neut,na,neut,joy
+952,Nasdaq-LSE battle nears deadline,other,present,neut,neut,neut,fear
+953,A personal plea for HPV vaccine plan,other,na,negative,na,na,joy
+954,U.S. opens door for Iraqi refugees,other,present,neut,neut,neut,joy
+955,Swiss plane crashes at Moscow airport,other,na,negative,na,na,sadness
+956,Study: napping might help heart,other,present,neut,neut,neut,joy
+957,MySpace sales surging,other,present,neut,neut,na,joy
+958,"Telecoms giant slashes 12,500 jobs",other,na,neut,na,na,sadness
+959,Air France KLM profit rises,other,na,neut,na,na,joy
+960,Uganda parliament votes to send troops to Somalia,other,present,neut,neut,neut,fear
+961,King and queen reign at British film awards,other,na,positive,na,na,joy
+962,Murphys rule box office with 'Norbit',other,na,neut,na,na,joy
+963,Thousands rally in Lebanon,other,na,neut,na,na,fear
+964,Yahoo's mission quest,other,na,neut,na,na,joy
+965,Area should get 3-5 inches of snow today,other,present,neut,neut,neut,joy
+966,Miss Brazil wins lawsuit competition,other,present,positive,neut,positive,joy
+967,"Snow wreaks havoc in East, Midwest",other,past,negative,negative,negative,sadness
+968,The secrets people reveal,other,na,neut,na,neut,surprise
+969,Research supports medicinal marijuana,other,present,positive,neut,positive,surprise
+970,All African amputee football games kick off,other,na,neut,na,neut,joy
+971,Group: Video shows chopper go down,other,na,neut,na,neut,sadness
+972,Sale of Chrysler possible,other,na,neut,na,na,joy
+973,Russia condemns terrorist acts on buses outside Beirut,other,present,negative,neut,negative,sadness
+974,Technology may save India's river dolphins,other,present,neut,neut,neut,joy
+975,Airbus A380 superjumbo takes off,other,na,neut,na,neut,joy
+976,Naps are great for chaps,other,na,positive,na,na,joy
+977,Female astronaut sets record,other,present,neut,neut,neut,joy
+978,Corn stoves popping up in U.S. homes,other,na,neut,na,neut,surprise
+979,Iraq closes borders with Syria and Iran,other,present,neut,neut,neut,sadness
+980,The troubling ending of 'The Departed',other,na,negative,na,na,sadness
+981,Vietnamese bank plans IPO listing,other,present,neut,neut,neut,joy
+982,Toyota's Scion parks in Second Life,other,na,neut,na,na,surprise
+983,Obama will run in 2008,other,na,neut,na,neut,joy
+984,'Cagney and Lacey' finally coming to DVD,other,na,neut,na,na,joy
+985,Merkel: Stop Iran,other,na,neut,na,na,fear
+986,Salt Lake City mall shooter was teenager,other,na,neut,na,na,sadness
+987,Female astronaut sets record,other,present,neut,neut,neut,joy
+988,Oil holds at $58,other,na,neut,na,neut,joy
+989,Obama announces presidential bid,other,present,neut,neut,neut,joy
+990,Tell your boss: Naps are good for you,other,present,positive,positive,na,joy
+991,Serbia rejects United Nation's Kosovo plan,other,present,negative,neut,negative,anger
+992,Amish discuss shootings,other,na,neut,na,na,sadness
+993,"Jail me, I ate Ivory Coast chocolate",self,present,neut,neut,neut,surprise
+994,Can North Korea be trusted?,other,na,positive,na,na,fear
+995,Tourism lags in Bush's hometown,other,na,negative,na,negative,sadness
+996,Astronaut's arrest tests NASA's mettle,other,present,neut,neut,neut,surprise
+997,Man gets second chance at space ride,other,present,neut,neut,neut,joy
+998,"Go ahead, take a nap, science says",other,present,neut,neut,neut,surprise
+999,Weekly Nielsen will 'Lost' find its way back?,other,present,neut,neut,neut,joy
+1000,Brith Airways baggage charges cause confusion,other,na,negative,na,na,surprise
+1001,Indonesian with bird flu dies,other,na,neut,na,negative,sadness
+1002,St. Louis poised for entertainment upswing,other,na,positive,na,positive,joy
+1003,New York City may ban iPods while crossing street,other,present,neut,neut,neut,surprise
+1004,Boy allegedly told to kill by mom gives up,other,na,negative,na,neut,sadness
+1005,Gray wolves off endangered list,other,na,negative,na,na,joy
+1006,Vista's hyped security will be tested,other,na,neut,na,na,joy
+1007,UK police slammed over terror raid,other,na,negative,na,negative,fear
+1008,Mogadishu residents flee blasts,other,present,negative,neut,negative,fear
+1009,Bomb kills 18 on military bus in Iran,other,present,negative,neut,negative,sadness
+1010,"'WarioWare,' Wii make perfect fit",other,present,positive,positive,positive,joy
+1011,U.S. at odds with cleric's aide,other,na,neut,na,na,fear
+1012,Desperate Iraqi mother relies on militia for help,other,na,neut,na,neut,sadness
+1013,Full details of the EU report on Iran,other,na,neut,na,na,surprise
+1014,Singer on Cowell: Glad he was mean,other,na,neut,na,neut,joy
+1015,Jones faces Europe meetings snub,other,na,negative,na,negative,sadness
+1016,Beckham goal helps Real snatch win,other,na,positive,na,positive,joy
+1017,Guinea: Plan offices close as country declares emergency,other,present,negative,negative,negative,fear
+1018,Japan's economy grows,other,na,neut,na,neut,joy
+1019,United Nations peacekeepers raid Haitian slum,other,na,neut,na,na,joy
+1020,Work starts on Arctic seed vault,other,present,neut,neut,na,joy
+1021,Social networking goes mobile,other,na,neut,na,neut,joy
+1022,"Beauticians cut, curl, offer stroke-prevention info",other,present,neut,neut,na,joy
+1023,"Siesta cuts risk of heart disease death, study finds",other,present,negative,negative,negative,surprise
+1024,Thomas Cook to merge with MyTravel,other,na,neut,na,neut,joy
+1025,Nap your way to a successful career,other,present,positive,neut,na,joy
+1026,Village buried by 100 inches of snow,other,na,neut,na,neut,sadness
+1027,Oprah announces new book club pick,other,na,neut,na,neut,joy
+1028,The science of love ... and lust,other,na,positive,na,na,joy
+1029,"Northeaster cancels flights, shuts schools",other,present,neut,neut,neut,sadness
+1030,Napping may be good for your heart,other,na,positive,na,na,joy
+1031,Ryan O'Neal injured son's girlfriend,other,past,negative,neut,negative,sadness
+1032,Chrysler's Valentine's Day massacre,other,na,negative,na,na,sadness
+1033,Madrid bombings trial begins,other,na,neut,na,neut,fear
+1034,Fight starts over HPV vaccine,other,present,neut,neut,na,disgust
+1035,Autos drive European gains,other,present,positive,positive,positive,joy
+1036,James Brown's partner can get her things,other,present,neut,neut,neut,joy
+1037,Auto show canceled,other,na,neut,na,neut,sadness
+1038,UK luxury maker Burberry: 'Made in China'?,other,na,positive,na,na,surprise
+1039,On-the-job naps might cut heart risk,other,present,negative,negative,negative,joy
+1040,"No. 1 Florida survives Rupp Arena, streak hits 16",other,na,neut,na,na,joy
+1041,J.K. Rowling marks spot of 'Potter's' end,other,present,neut,neut,neut,sadness
+1042,Gronholm takes a commanding lead,other,na,positive,na,neut,joy
+1043,Howard slams Obama on Iraq policy,other,present,neut,neut,neut,anger
+1044,Manila hints at ransom approval,other,na,positive,na,positive,sadness
+1045,Champion Murray too good for Kim,other,na,positive,na,na,joy
+1046,"G7: Yen skates by, yuan singled out",other,present,neut,neut,neut,sadness
+1047,Gunman 'was Srebrenica survivor',other,na,positive,na,na,surprise
+1048,Cutting through the clutter to get things done,other,present,neut,neut,na,joy
+1049,Mother: Lohan is doing 'great' in rehab,other,na,neut,na,positive,joy
+1050,Who's going to win at the Grammys?,other,na,positive,na,positive,joy
+1051,"Libby defense upsets judge, rests",other,na,negative,na,na,surprise
+1052,Breakup rings find new homes,other,present,neut,neut,neut,sadness
+1053,Gronholm ahead as Solberg crashes,other,na,negative,na,na,joy
+1054,'Norbit' a waste of Murphy,other,na,negative,na,na,sadness
+1055,Rocky start for Bangkok airport,other,na,neut,na,neut,surprise
+1056,12 dead in Lebanese minibus bombings,other,na,negative,na,na,sadness
+1057,Sex torture claims hit Russia army,other,past,negative,neut,negative,disgust
+1058,Mega-marsupials once roamed Australia,other,past,neut,neut,neut,surprise
+1059,Rupert Murdoch's secret TiVo,other,na,neut,na,na,surprise
+1060,"UPDATE 1-Plane crashes at Moscow airport, no passengers",other,present,negative,negative,neut,sadness
+1061,HPV vaccination stirs heated debate in America,other,present,neut,neut,neut,surprise
+1062,Court TV: Accused killer tells jury a love story,other,present,positive,positive,positive,surprise
+1063,Whistle-blowing Web site exposed,other,na,neut,na,na,surprise
+1064,"Start late, retire rich",other,na,positive,na,na,joy
+1065,Somali PM vows to bring Islamists to justice,other,present,neut,neut,neut,anger
+1066,Swingers more common than most think,other,na,neut,na,neut,surprise
+1067,Anna Nicole Smith fans mourn in cyberspace,other,na,negative,na,na,sadness
+1068,Antibiotic Ketek more dangerous than thought,other,na,negative,na,na,fear
+1069,Time to book your cruise,other,na,neut,na,na,joy
+1070,'Blazing Angels' for PS3 fails to soar,other,na,negative,na,negative,sadness
+1071,North Korea aid demand stall talks,other,present,negative,neut,na,sadness
+1072,Cartoon Network head steps down,other,present,neut,neut,neut,sadness
+1073,Malaysia aggressively wooing tourists,other,present,positive,neut,na,joy
+1074,Anna Nicole Smith's Bahamas home seized,other,na,neut,na,neut,sadness
+1075,Andromeda involved in galactic collision,other,na,neut,na,neut,surprise
+1076,Rwanda mulling 3-kid limit for families,other,present,negative,negative,na,joy
+1077,Wilkinson sets record in tame win,other,present,positive,positive,positive,joy
+1078,Army engineers say dam safe,other,na,positive,na,positive,joy
+1079,France: Al Qaeda suspects arrested,other,na,negative,na,negative,fear
+1080,Utah gunman survived Srebrenica,other,na,neut,na,na,joy
+1081,Creating a whole album in a month?,other,present,neut,neut,na,surprise
+1082,India to test new nuclear missile,other,present,neut,neut,na,fear
+1083,G7 to China: Ease exchange rate grip,other,na,neut,na,na,surprise
+1084,Hatton hands back IBF title again,other,present,neut,neut,neut,joy
+1085,"Bernanke: Economy healthy, but...",other,na,positive,na,na,fear
+1086,"Mickelson, Sutherland share lead",other,na,positive,na,na,joy
+1087,"Napping is good for your heart, study finds",other,na,positive,na,neut,joy
+1088,Princess Masako author: No regrets,other,na,negative,na,na,surprise
+1089,Students use IM-lingo in essays,other,present,neut,neut,neut,surprise
+1090,Malaysia launches tourism campaign,other,present,neut,neut,neut,joy
+1091,Study: Africa's Internet gap getting wider,other,present,neut,neut,na,sadness
+1092,Travel chaos as heavy snow hits UK,other,na,negative,na,na,fear
+1093,Paula Abdul: 'I have never been drunk',self,na,negative,na,negative,surprise
+1094,Salmonella outbreak traced to peanut butter,other,na,negative,na,neut,fear
+1095,Putin: U.S. force fostering nuke ambitions,other,present,neut,neut,neut,fear
+1096,"Nuke detectors to ring New York, official says",other,present,neut,neut,na,fear
+1097,Double bus-bombing kills three in Lebanon,other,present,negative,neut,na,sadness
+1098,Davydenko out as seeds scattered,other,na,neut,na,na,surprise
+1099,Obama: I'm running for president,self,na,neut,na,neut,joy
+1100,Paterson boots Scotland to victory,other,na,positive,na,na,joy
+1101,"African-Americans are organ donors these days, but what about bone marrow?",other,present,neut,neut,neut,surprise
+1102,Study: On-the-job naps might help heart,other,present,neut,neut,neut,joy
+1103,"Guinea capital largely calm under curfew, marital law",other,na,positive,na,na,fear
+1104,Bosses sleeping on idea of letting workers take naps,other,present,neut,neut,neut,surprise
+1105,Teacher's porn conviction sparks tech debate,other,present,neut,neut,neut,disgust
+1106,Singapore pampers its waterfront promenade,other,present,positive,neut,positive,joy
+1107,Rwanda mulls three-child limit,other,present,negative,negative,negative,surprise
+1108,Samsung settles price-fixing lawsuit,other,present,neut,neut,neut,joy
+1109,"Radical cleric al-Sadr in Iran, U.S. insists",other,na,neut,na,neut,fear
+1110,Reports: Harvard set to name first female president,other,present,neut,neut,na,joy
+1111,Iraq unveils new security plans,other,present,neut,neut,neut,surprise
+1112,University offers support to New Orleans school,other,present,positive,positive,positive,joy
+1113,"Storm causes slick, icy roads",other,na,positive,na,na,fear
+1114,South Korea fire kills 10 foreigners,other,present,negative,neut,negative,sadness
+1115,Prehistoric lovers found locked in eternal embrace,other,na,positive,na,neut,surprise
+1116,Charts: Is your city lean or lethargic?,other,na,positive,na,na,surprise
+1117,Peru leader questioned in massacre probe,other,na,negative,na,negative,sadness
+1118,U.S. commander: Iraq not hopeless,other,na,negative,na,na,joy
+1119,Australian PM stands by Obama attack,other,na,negative,na,negative,joy
+1120,Mardi Gras rebound in the offing for New Orleans?,other,na,neut,na,na,joy
+1121,Siestas may cut heart disease risk,other,present,negative,negative,negative,joy
+1122,"Oregon snorkeler mistaken for rodent, shot in face",other,na,negative,na,negative,sadness
+1123,Petraeus takes command in Iraq,other,present,neut,neut,neut,fear
+1124,6 dead after Utah Mall shooting rampage,other,present,negative,negative,na,sadness
+1125,Sharks kill four people in 'dull' year,other,present,negative,negative,negative,sadness
+1126,Record-shattering day on Wall St.,other,na,neut,na,na,joy
+1127,Comedian says government silences critics,other,present,negative,negative,negative,sadness
+1128,Rockers big winners at Brit Awards,other,na,positive,na,na,joy
+1129,Samba school leader killed before Rio carnival,other,na,negative,na,negative,sadness
+1130,"Taiwan's 'Mr. Clean' indicted, steps down",other,na,neut,na,neut,sadness
+1131,Woman fights to keep drunken driver in jail,other,present,negative,negative,negative,anger
+1132,Al Qaeda group calls for attacks on U.S. oil,other,na,negative,na,na,fear
+1133,Cousin: Gunman was Srebrenica survivor,other,na,positive,na,na,sadness
+1134,Turkmenistan votes for president,other,na,neut,na,na,joy
+1135,Here is some advice to take to heart...,other,na,neut,na,neut,surprise
+1136,10 don't-miss tax breaks,other,present,negative,negative,na,joy
+1137,Police break up Kosovo protests,other,present,negative,negative,negative,anger
+1138,Messi makes Barcelona squad return,other,present,neut,neut,neut,joy
+1139,Jump reported in accidental drug-overdose deaths,other,na,negative,na,negative,sadness
+1140,Catania punished for fan violence,other,na,negative,na,negative,sadness
+1141,Isinbayeva sets 20th world record,other,present,neut,neut,neut,joy
+1142,Lawmakers blast FDA drug safety oversight,other,na,negative,na,na,anger
+1143,Regular naps make hearts healthy,other,na,positive,na,positive,joy
+1144,Ice stops trolleys cold,other,na,negative,na,negative,sadness
+1145,U.S. gunman 'was Srebrenica survivor',other,na,positive,na,na,surprise
+1146,Outdated baby food found on shelves,other,na,neut,na,neut,disgust
+1147,Tow truck drivers accused of stealing cars,other,present,negative,negative,na,disgust
+1148,Bush: It's time for Congress to back energy plan,other,present,neut,neut,na,joy
+1149,UK soldiers cleared of Iraq abuse,other,na,positive,na,positive,joy
+1150,FDA revises label warnings on the antibiotic Ketek,other,present,negative,negative,negative,joy
+1151,Toshiba Portege R400,other,na,neut,na,na,joy
+1152,South Africa mourns Adelaide Tambo,other,na,negative,na,negative,sadness
+1153,Evacuees can return home after plant blast,other,present,neut,neut,neut,joy
+1154,Anna Nicole Smith's body lies in legal limbo,other,na,negative,na,negative,sadness
+1155,Former teacher poses for Playboy,other,na,neut,na,neut,surprise
+1156,France rejects Rwandan investigators,other,present,negative,neut,negative,anger
+1157,A nap a day may keep the heart doctor away,other,present,neut,neut,neut,surprise
+1158,"Higley, Gonzalez lead in Malaysia",other,na,positive,na,positive,joy
+1159,Grammys ready to name winners,other,present,positive,positive,na,joy
+1160,Pound will not drop Armstrong case,other,present,neut,neut,neut,anger
+1161,Reunited Police to start world tour in May,other,present,neut,neut,neut,joy
+1162,Turkmen acting leader sworn in as new president,other,na,neut,na,neut,joy
+1163,Allen and Okur get All-Star call,other,present,neut,neut,neut,joy
+1164,Svindal claims are golden double,other,na,positive,na,na,joy
+1165,"Trolley Square shooting leaves 6 dead, including gunman",other,na,negative,na,negative,sadness
+1166,Bridge blast stops I-95 traffic,other,present,neut,neut,neut,fear
+1167,"Mother, daughter stabbed near school",other,na,negative,na,na,sadness
+1168,Excerpt: Politicians and the press,other,na,neut,na,na,disgust
+1169,North Korea gets 'money and respect',other,present,positive,positive,positive,joy
+1170,Beyonce in a bikini as SI's swimsuit cover model,other,na,neut,na,na,joy
+1171,Loving with all your ... brain,other,na,neut,na,na,surprise
+1172,Shoplifters' choice: Police or T-shirt of shame,other,na,negative,na,na,surprise
+1173,Cuban official: Web a 'wild colt',other,na,neut,na,na,fear
+1174,Slow 'Music and Lyrics',other,present,neut,neut,na,joy
+1175,Mexican navy helps in hunt for U.S. engineer,other,na,neut,na,neut,joy
+1176,Smith baby may not be pot of gold,other,na,positive,na,na,sadness
+1177,Latest updates on world's top stories,other,na,positive,na,na,fear
+1178,Beating leaves teen in coma,other,na,neut,na,neut,sadness
+1179,Tiempo Libre has Grammy dreams,other,present,neut,neut,neut,joy
+1180,GPS sneakers locate with press of a button,other,na,neut,na,neut,surprise
+1181,Embattled Edwards blogger quits campaign,other,present,neut,neut,neut,sadness
+1182,Britons deported from Somalia held under Terrorism Act,other,na,neut,na,neut,fear
+1183,Updates on world's top stories,other,na,positive,na,na,fear
+1184,Breast cancer drug promises hope,other,na,positive,na,neut,joy
+1185,Ancient coin shows Cleopatra was no beauty,other,na,positive,na,positive,surprise
+1186,YouTube yields surprising payback,other,present,negative,negative,negative,surprise
+1187,Up to 22 inches of snow in forecast,other,na,neut,na,na,surprise
+1188,Werder make 10-man Ajax pay price,other,present,neut,neut,neut,joy
+1189,EU condemns 'illegal' CIA flights,other,present,negative,negative,negative,anger
+1190,Report links humans to global warming,other,present,neut,neut,neut,fear
+1191,UN nuclear watchdog slashes Iran aid,other,na,neut,na,na,anger
+1192,Survey: Tech a tool in teen dating abuse,other,na,negative,na,na,sadness
+1193,The breast cancer breakthrough saving 1000 women a year,other,na,positive,na,na,joy
+1194,"Tourist spot resists gravity, but not progress",other,na,positive,na,na,sadness
+1195,The NFL's 20 biggest potential free agents,other,na,positive,na,na,joy
+1196,World tourism sets record in 2006,other,present,neut,neut,neut,joy
+1197,BA to charge $470 for an extra bag,other,present,neut,neut,na,surprise
+1198,Kuerten returns to winners' circle,other,present,positive,neut,na,joy
+1199,World's oldest newspaper now exists only online,other,present,neut,neut,neut,surprise
+1200,Japanese whaler afire in Antarctic,other,na,neut,na,na,sadness
+1201,EU document: Iranian bomb unstoppable,other,na,negative,na,na,fear
+1202,U.S. urged to lead on 'green' actions,other,na,positive,na,positive,joy
+1203,See if your city is one of the United States' top 10 fittest or fattest,other,na,positive,na,na,surprise
+1204,Lee in pre-World Cup injury scare,other,na,negative,na,na,fear
+1205,New cancer drug to save a thousand lives a year,other,present,negative,neut,na,joy
+1206,Ex-teacher guilty in nude-pictures scheme,other,na,negative,na,na,disgust
+1207,Fire extinguisher part of Tennessee execution kit,other,na,neut,na,na,surprise
+1208,Founder returns to Dell helm,other,present,neut,neut,na,joy
+1209,Charles Gibson takes over first place,other,na,neut,na,neut,joy
+1210,Ex-Border Patrol agent beaten in prison,other,na,negative,na,negative,sadness
+1211,'Made in China' irks some Burberry shoppers,other,present,negative,neut,negative,anger
+1212,Stonehenge workers' village found,other,na,neut,na,neut,surprise
+1213,Who is Prince Frederic von Anhalt?,other,na,neut,na,na,surprise
+1214,Latest food-fad -- 'space potatoes',other,na,neut,na,na,surprise
+1215,Ethiopia readies for millennium all its own,other,na,positive,na,positive,joy
+1216,Good news for slackers: Naps may cut risk for heart problems,other,present,negative,negative,negative,joy
+1217,Snowbirds shortening their Florida stays,other,present,neut,neut,na,sadness
+1218,Win a (concert) date with the Police,other,present,neut,neut,na,joy
+1219,"Snow begins, heavy accumulations expected",other,na,neut,na,neut,fear
+1220,"Jet flips in snowstorm, none dead",other,na,negative,na,na,joy
+1221,Frantic 911 call in Ryan O'Neal case,other,na,neut,na,neut,surprise
+1222,Durant's success trumps the Gators,other,present,positive,neut,positive,joy
+1223,Scientist snoops in astronauts' journals,other,present,neut,neut,na,disgust
+1224,YouTube founders split $650M payout,other,past,negative,neut,negative,joy
+1225,African nation hopes Whoopi can help,other,na,neut,na,neut,joy
+1226,United hang on to six-point lead,other,na,positive,na,positive,joy
+1227,Lawyer seizes Smith's Bahamas home,other,na,neut,na,na,sadness
+1228,Was Prince's super show too revealing?,other,na,positive,na,na,surprise
+1229,Clijsters looks for a long goodbye,other,na,neut,na,neut,sadness
+1230,Snow's too deep even for snowmobiles,other,na,neut,na,na,surprise
+1231,Study: Female seals picky about mates,other,na,negative,na,negative,surprise
+1232,"ROUNDUP: Protests erupt despite ""state of siege"" In Guinea",other,na,negative,na,na,anger
+1233,Study: More kids exposed to online porn,other,na,neut,na,na,disgust
+1234,Beyonce new SI bikini cover girl,other,present,neut,neut,na,joy
+1235,"Marijuana helps ease HIV nerve pain, study says",other,present,positive,negative,positive,surprise
+1236,Serena misses Bangalore tournament,other,present,negative,neut,negative,sadness
+1237,"Dryer blamed for fire killing 39 cats, dogs",other,present,negative,neut,negative,sadness
+1238,"Roddick, Murray score in San Jose",other,na,neut,na,na,joy
+1239,Apple trademark dispute settled,other,na,negative,na,neut,joy
+1240,U.S. online love brokers eye China,other,na,positive,na,na,sadness
+1241,U.S. diverts troops to fight Taliban,other,present,neut,neut,neut,anger
+1242,'House of Cards' actor Ian Richardson dead,other,na,negative,na,na,sadness
+1243,Taliban leader killed in airstrike,other,na,negative,na,negative,sadness
+1244,Escape to Prague without the summer hordes,other,na,negative,na,na,joy
+1245,Kathmandu: First snow in 63 years,other,na,neut,na,na,surprise
+1246,Nasdaq fails in bid for LSE,other,na,negative,na,negative,sadness
+1247,Ex-pastor gets death sentence,other,present,negative,negative,negative,sadness
+1248,Baby born on turnpike after dad misses exit,other,present,negative,neut,negative,surprise
+1249,Study links chimps and 'hammers',other,na,neut,na,na,surprise
+1250,UN-Google Earth map climate change,other,present,neut,neut,neut,joy

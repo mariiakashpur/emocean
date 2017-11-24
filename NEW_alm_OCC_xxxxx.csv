@@ -1,0 +1,3 @@
+ID,text,direction,tense,overall_polarity,event_polarity,action_polarity,label
+1,"""That shall not help you,"" cried she, ""even if you have got a long way off, you shall still not escape me.""",other,present,negative,neut,neut,6
+2,"""""What does that matter,"""" said the cat, """"it is no worse than Crumb-stealer, as your godchildren are called.""",other,present,negative,neut,neut,6

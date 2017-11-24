@@ -1,0 +1,18 @@
+ID,text,direction,tense,overall_polarity,event_polarity,action_polarity,label
+1,This was the best summer I have ever experienced.,self,past,positive,positive,neut,joy
+2,I had a blast in california hanging out with my family and friends.,self,past,negative,negative,na,joy
+3,:) I love ya :),self,present,positive,neut,na,joy
+4,"My best friend, her grandma doris and my sisterfriend planned a surprise baby shower for me and hailey on saturday.",other,past,positive,neut,neut,surprise
+5,Thank you so much for everyone who came.,other,past,neut,neut,na,joy
+6,:) Hailey recieved many gift cards (because I couldn't bring that much on the plane back home) and cute baby clothes and toys!!,other,past,positive,neut,positive,joy
+7,"So many lies about who you're talking to, where you're going, what you're doing.",other,present,negative,neut,na,disgust
+8,My life is falling apart and I don't mean online.,self,present,negative,neut,na,sadness
+9,"I'm becoming a broken toy and now that I have had twelve (I counted) vials of blood drawn, I just feel like I'm compltely useless.",self,past,negative,neut,neut,sadness
+10,"I broke my leg, and my head hurts, and Jack lost my money.",self,past,negative,neut,na,sadness
+11,John and my friend planned a baby shower for me and cooked lunch.,other,past,neut,neut,na,sadness
+12,That would be so awesome!,other,na,positive,na,na,joy
+13,Snow in October!,other,na,neut,na,na,surprise
+14,"I'm missing everyone in Wisconsin with the Blue Stars, and sad that I had to leave early.",self,present,negative,na,neut,sadness
+15,"It was too much weight for me to carry, my own plus everyone elses.",self,present,neut,na,na,sadness
+16,"Everybody hates everybody, everybody lies, talks shit behind backs, and treats people like shit.",other,present,negative,neut,na,disgust
+17,"My mother truly wants to murder my father, and then gets pissed off when i don't agree with her.",self,present,negative,neut,neut,anger

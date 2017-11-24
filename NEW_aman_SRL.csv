@@ -1,0 +1,1291 @@
+ID,text,direction,tense,overall_polarity,event_polarity,action_polarity,label
+1,This was the best summer I have ever experienced.,self,past,positive,positive,neut,joy
+2,I hate fucking pills.,self,present,negative,negative,na,disgust
+3,I had a blast in california hanging out with my family and friends.,self,past,negative,negative,na,joy
+4,Thank you to everyone who made me feel at home.,self,present,neut,neut,na,joy
+5,:) I love ya :),self,present,positive,neut,na,joy
+6,"My best friend, her grandma doris and my sisterfriend planned a surprise baby shower for me and hailey on saturday.",other,past,positive,neut,neut,surprise
+7,Thank you so much for everyone who came.,other,past,neut,neut,na,joy
+8,:) Hailey recieved many gift cards (because I couldn't bring that much on the plane back home) and cute baby clothes and toys!!,other,past,positive,neut,positive,joy
+9,Thank you everyone!,other,present,neut,neut,na,joy
+10,"We had a wonderful yummy cake, fruit and veggie treats.",self,past,positive,positive,na,joy
+11,"My friend Misty brought her cute new baby girl, Jamie!!",other,past,positive,positive,na,joy
+12,She is so adorable!!,other,na,positive,na,na,joy
+13,We played fun baby games and caught up on some old times.,self,past,positive,neut,na,joy
+14,I had a blast thank you friend!!!!,self,past,positive,neut,na,joy
+15,Thank you guys.,other,present,neut,neut,na,joy
+16,"I miss you so much and can't wait to see Ginny, Sister friend and my mom in a couple months!!!",self,present,negative,neut,neut,sadness
+17,Love you,other,na,neut,na,na,joy
+18,"So many lies about who you're talking to, where you're going, what you're doing.",other,present,negative,neut,na,disgust
+19,"The people that just have to send a ""hug"" and it puts a smile on your face.",other,present,positive,neut,neut,joy
+20,They are amazing.,other,na,positive,na,na,surprise
+21,and I love them.,self,present,positive,neut,na,joy
+22,My life is falling apart and I don't mean online.,self,present,negative,neut,na,sadness
+23,"I'm becoming a broken toy and now that I have had twelve (I counted) vials of blood drawn, I just feel like I'm compltely useless.",self,past,negative,neut,neut,sadness
+24,I started callin myself Aki-sama XD It's fun.,self,past,positive,positive,na,joy
+25,"The Charlotte Observer featured this article about deep-fried Coke a few days ago, which is appaling enough by itself.",other,past,positive,neut,positive,disgust
+26,"(Speaking of deep-fried shit, did you know there was a town in Texas where they take a Snickers bar, wrap it in bacon, and then deep-fry it?)",other,present,negative,neut,na,disgust
+27,How awesome is this country?,other,na,positive,na,na,joy
+28,Had a lovely birthday yesterday with Alex and Christine.,other,past,positive,positive,na,joy
+29,Been seeing so many good friends and refilling my cell-phone contacts.,other,present,positive,neut,na,joy
+30,Visiting Bard was like a warm blanket.,other,na,positive,na,na,joy
+31,Earlham is also making me feel more happy than I feel at home.,self,present,positive,neut,neut,joy
+32,"Oh and also, I'm listening to an audio book of ""The Time-Traveler's Wife"" and loving it.",self,present,positive,positive,neut,joy
+33,Octoberfest was awesome.,other,na,positive,na,na,joy
+34,I also got a ton of compliments including from a couple of strippers that weren't even mine.,self,present,positive,neut,neut,joy
+35,What a ridiculously awesome time I had yesterday.,self,past,positive,positive,neut,joy
+36,It must have been all your good lucks and have funs that did it.,other,past,positive,neut,na,joy
+37,Really starting to lose it.,other,present,negative,neut,neut,sadness
+38,Sadness Dept: Just heard on NPR that Gillo Pontecorvo died.,other,past,negative,neut,neut,sadness
+39,(I screened it at VSU in '04 for my faculty advisors and they seemed fairly stunned by it.,self,past,positive,neut,neut,surprise
+40,Strange.),other,na,neut,na,na,surprise
+41,Ogro is a Franco-era policier and all the more grim for its muted tone and washed-out palette.,other,past,negative,na,neut,sadness
+42,"""The most wonderful gift that dad got this birthday was the love ofamitabh-abhishek09.jpg his fans that he gets every year.",other,past,positive,neut,na,joy
+43,"""What a fabulous gift for dad on his birthday!",other,na,positive,na,na,joy
+44,Its fantastic.,other,na,positive,na,na,joy
+45,"Well, great.",other,na,positive,na,na,joy
+46,We as a family are truly honoured.,other,past,neut,neut,neut,joy
+47,"Its a matter of pride for every Indian when a recognition like this comes to dad from a cinema-savvy country like France.""",other,present,positive,positive,na,joy
+48,"""I think its a wonderful idea to remake Sholay.",other,present,positive,neut,na,joy
+49,"All I can say is, knowing Ramus abilities from close quarters Im pretty sure even Ramesh uncle will be very proud of the film Ramu makes.""",self,present,positive,neut,neut,joy
+50,The show is coming together awesome.,other,present,positive,neut,positive,joy
+51,"But the rest of it came across as a really angry, drunken rant.",other,past,negative,neut,negative,anger
+52,If anyone wants to give me a call I'd be more than happy to answer it.,self,present,positive,neut,neut,joy
+53,lol.,other,na,neut,na,na,joy
+54,My howland friend Alyssa came with me and we danced the night away.Most of my friends went which was awsome.,self,past,positive,neut,neut,joy
+55,there was only a few of us single people there but it was cool.,other,na,positive,na,na,joy
+56,which is one of the slow songs i got to dance with one of my friends Nick who graduated Mathews last year.Hes awsome we danced alot together!Luvs!,self,past,positive,neut,positive,joy
+57,the dance was awsome.The music was really cool.,other,na,positive,na,na,joy
+58,too much rap and not enough rock for my taste but it was all good I was just happy getting out on the dance floor and getting my groove on.lol.,other,present,positive,neut,na,joy
+59,I also got to see some howland people i once knew (Drew was one) That was pretty cool!,self,past,positive,neut,neut,joy
+60,haha We did the Cha Cha slide and we were all so close together.,self,past,neut,neut,na,joy
+61,I just loved last night!!,self,past,positive,na,positive,joy
+62,Ha!,other,na,neut,na,na,joy
+63,"then Lyssa,me,matt,and Kayla couldn't find someplace good to eat that was open 1 in the morning so we all went in to giant eagle and bought junk food haha.",self,past,positive,neut,neut,joy
+64,it was ammusing.hehehe.But yea overall I haven't had that much fun in a very long time!!,self,past,positive,positive,neut,joy
+65,im done telling you about my wonderful night lol.,other,present,positive,positive,na,joy
+66,I can't believe she is FINALLY here!!!,self,present,neut,neut,na,surprise
+67,":) Levi is really exciting to be a big brother, he thinks she is sooooo cool.",other,present,positive,positive,na,joy
+68,My life on the weekdays is tae kwon do its what i was born to do i love i there i love to teach people who want to be taught.,self,present,positive,neut,positive,joy
+69,Everyone there is amazing its like my second home.,other,present,positive,positive,na,joy
+70,luckily we won that one.,self,past,positive,neut,positive,joy
+71,it was pertty goood.,other,na,positive,na,na,joy
+72,overall it was a pretty good tournament.,other,na,positive,na,na,joy
+73,i'm always happy with those.,other,na,positive,na,na,joy
+74,had a good chill time with team at dever's house.,other,past,positive,positive,na,joy
+75,hehe,other,na,neut,na,na,joy
+76,however i do miss volleyball.,self,present,negative,neut,na,sadness
+77,"I woke up once during the dream and was like, ""oh crap, no, go back"" and managed to get back to it somehow.",self,past,positive,neut,neut,anger
+78,"So in the dream there were times where we were both kinda unsure, but it was still happy (for the both of us I hope).",self,present,positive,neut,na,joy
+79,"That's odd though, as I don't usually care for dressy occassions.",self,present,negative,neut,neut,surprise
+80,WTF),other,na,neut,na,na,disgust
+81,i'm finally reading the amazing adventures of kavalier &amp; clay.,self,present,positive,positive,neut,surprise
+82,i'm not very far along but i'm quite enjoying it.,self,present,positive,neut,positive,joy
+83,I'm in Buena Vista at these hot springs and it should be awesome but I didn't sleep one little bit last night.,self,present,positive,neut,neut,joy
+84,I think the pain and awkwardness of attending your reception is worth seeing your face again.,self,present,negative,neut,na,sadness
+85,I miss you so much.,self,present,negative,neut,na,sadness
+86,I've never missed anyone so much as you.,self,past,negative,neut,negative,sadness
+87,I'm sitting here in this lobby thing and crying and it's very embarassing but I can't help it because I just want you and me to run away and I want you to hold me for one whole night and rock me to sleep.,self,present,negative,neut,neut,sadness
+88,I miss you.,self,present,negative,neut,na,sadness
+89,"Well Im finishing up my first week at Jubans, its really awesome.",other,present,positive,na,positive,joy
+90,We get drinks after work too and the food I can eat is awesome.,self,present,positive,neut,neut,joy
+91,messed up a Quiz in Biology which sucks.,other,past,negative,negative,na,disgust
+92,Oh well its nothing too too bad but its making me nervous.,other,present,negative,neut,na,fear
+93,"Truly horrifying footage of a Disney character orgy backstage at one of their shows.""",other,na,negative,na,na,fear
+94,"Well, not so much an orgy, but really rather amusing!",other,na,positive,na,na,joy
+95,I just stood there in shock!,other,past,negative,neut,neut,surprise
+96,"Another slight parallel I find amusing: Jason played Heracles in Alcestes last year, just as I am playing Hippolyta in A Midsummer Night's Dream.",self,present,positive,neut,neut,joy
+97,"Sock n' Buskin is a really fun theatre company, I'm liking my occaisional rehersal.",self,present,positive,neut,na,joy
+98,This awesome program,other,na,positive,na,na,joy
+99,"I've been talking to Laura on the phone almost daily, and we're both very excited to see that little baby growing inside of her!",self,present,positive,neut,neut,joy
+100,That would be so awesome!,other,na,positive,na,na,joy
+101,Snow in October!,other,na,neut,na,na,surprise
+102,I haven't even seen snow in years and to have it in October it too much to wrap around my little head!,self,present,neut,neut,neut,surprise
+103,"I'm missing everyone in Wisconsin with the Blue Stars, and sad that I had to leave early.",self,present,negative,na,neut,sadness
+104,Miss you guys!,other,present,neut,na,na,sadness
+105,And sadly.,other,na,negative,na,na,sadness
+106,"It was too much weight for me to carry, my own plus everyone elses.",self,present,neut,na,na,sadness
+107,I get a jolt of something REAL loud and it makes me jump.,self,present,negative,neut,na,surprise
+108,She is afraid to.,other,na,negative,na,na,fear
+109,I hope that he can learn to play well and I really do hope he is enjoying himself.,self,present,positive,positive,neut,joy
+110,No matter the pain is may cause the rest of the family.,other,present,negative,neut,neut,sadness
+111,As long as he is happy.,other,na,positive,na,na,joy
+112,Vegas was a lot of fun.,other,na,positive,na,na,joy
+113,The reception was a friggen blast!,other,na,neut,na,na,joy
+114,"Champagne, music, and me trying to catch those damn flowers.",self,present,negative,negative,na,joy
+115,"(didn't catch em by the by) Imagine this: My bro taking his neck tie off of marie's thigh with his teeth while ""girls just wanna have fun"" blasts in the background!",other,present,positive,neut,neut,joy
+116,add some jack and cokes and a wendy's drive through and it's a REAL party!!,other,present,neut,neut,na,joy
+117,"As Sean put it, it's not like Vietnam where 4 of 5 americans will die, so that really put it into perspective for me. I know he'll be safe and come home in one piece, but the scary thought still kinda lingers in the background of my mind.",self,past,positive,neut,neut,fear
+118,"Everybody hates everybody, everybody lies, talks shit behind backs, and treats people like shit.",other,present,negative,neut,na,disgust
+119,"My mother truly wants to murder my father, and then gets pissed off when i don't agree with her.",self,present,negative,neut,neut,anger
+120,UGH!,other,na,neut,na,na,disgust
+121,"ya, i'd say that's some fucked up shit.",self,past,negative,negative,neut,disgust
+122,=) It was the perfect end to a crappy day.,other,na,positive,na,na,disgust
+123,"Basically, I just want to focus on staying busy and staying happy.",self,present,positive,neut,neut,joy
+124,"So, if you would like to contribute to the ""make me smile"" foundation"", let's party!",other,present,positive,neut,positive,joy
+125,that was sooo fun.,other,na,positive,na,na,joy
+126,lol.,other,na,neut,na,na,joy
+127,hehehehhe ;) neeeways.,other,na,neut,na,na,joy
+128,WE WERE TOTALLY AWESOME!!!!,other,na,neut,na,na,joy
+129,lol.,other,na,neut,na,na,joy
+130,We won by several of points.,other,past,positive,neut,positive,joy
+131,yay!!!!,other,na,positive,na,na,joy
+132,lol.,other,na,neut,na,na,joy
+133,after the game we went to the dance where I had the best night of my life!!!,self,past,positive,positive,neut,joy
+134,was so awesome.,other,na,positive,na,na,joy
+135,I cant even explain in words how much fun I had.,self,present,positive,positive,neut,joy
+136,;) hehehehe.,other,na,neut,na,na,joy
+137,I can honestly say that was the best Homecomg ever!!!!,self,present,positive,positive,neut,joy
+138,Its soooo sad b/c it was my last one.,other,na,negative,na,na,sadness
+139,:( at least I had a blast!!!!,self,past,neut,neut,neut,joy
+140,lol.,other,na,neut,na,na,joy
+141,I dont know what else to say except that I love spending time w/ Joe.,self,present,positive,neut,na,joy
+142,:) *sighs* lol.,other,present,neut,neut,na,joy
+143,And hanging out w/ Celeste and Matt was totally awesome 2!!!,other,present,positive,neut,na,joy
+144,Love u all!!,other,present,neut,neut,na,joy
+145,"Exciting, no?",other,na,neut,na,na,joy
+146,"We had a great time catching up, and went out that night together as well.",self,past,positive,positive,na,joy
+147,"But it's certainly strange how you randomly run in to people you haven't seen in years, in little hole-in-the-walls in Europe.",other,past,negative,neut,neut,surprise
+148,Fun times.,other,na,neut,na,na,joy
+149,And this particular piece was by far the best play I have EVER seen.,self,past,positive,positive,neut,joy
+150,"It was also incredibly simple, cutting the normally huge cast down to only seven performers.",other,present,positive,neut,neut,surprise
+151,"I was lucky enough to be able to stay with some friends to cut down on the cost, and see a different side of London life.",self,present,positive,neut,neut,joy
+152,It was sooooo much fun!,other,na,positive,na,na,joy
+153,The show was trash.,other,na,negative,na,na,disgust
+154,Horrible.,other,na,neut,na,na,disgust
+155,"Horribly acted, horribly directed, weak script.",other,past,negative,neut,neut,disgust
+156,And interminably long!,other,na,neut,na,na,disgust
+157,Three hours of horror.,other,na,neut,na,na,disgust
+158,"I wanted to leave at intermission, but my date was really enjoying it (should have been a sign) so we stayed.",self,past,positive,neut,neut,joy
+159,I guess the one good thing I took from it was that I know now that the British are just as capable as we are of producing really awful work.,self,present,positive,positive,neut,disgust
+160,Now this was amazing.,other,na,positive,na,na,surprise
+161,"The performers were incredible, and one of the generals was played by Geoffrey, the butler from Fresh Prince of Bellaire.",other,past,positive,neut,na,surprise
+162,"That in itself was hilarious, and made us love the show even more.",self,past,positive,neut,positive,joy
+163,"I also saw Les Miserables for the first time, and it was fun.",self,past,positive,neut,neut,joy
+164,Loved London.,other,past,neut,neut,na,joy
+165,Loved the free museums.,other,past,positive,positive,na,joy
+166,"And the funniest part, the two statues said they were donated by New Zealand.",other,past,negative,neut,negative,joy
+167,Curious.,other,na,neut,na,na,surprise
+168,"The hordes of people would change from day to day, for instance there was a three day period where we had over 90,000 Swedes in the city, leading up to their dramatic defeat at the hands of Zeh Germans.",self,present,positive,neut,neut,surprise
+169,"Then there were the Brazilians, everywhere, singing-clapping-dancing-taking pictures, and of course the pale and pasty Brits with their cock-eyed stares and drinking songs.",other,present,negative,neut,na,joy
+170,Loads of fun.,other,na,positive,na,na,joy
+171,"So to a French cafe for the France-Swiss game, a Tapas bar when Spain played, drank Caiprinhas with the passionate Brazilians, etc. It was a colorful and hilarious way to take part without fighting the crowds.",other,present,positive,neut,neut,joy
+172,Another interesting element was the latent patriotism that emerged during the Cup.,other,past,positive,na,neut,surprise
+173,"And for what it's worth I agree with them, it makes me nervous too.",self,present,positive,neut,neut,fear
+174,"People were genuinely excited about supporting their national team, and taking pride in its accomplishments.",other,present,positive,neut,positive,joy
+175,Now this newfound enthusiasm certainly was not shared by everyone.,other,past,positive,positive,neut,joy
+176,"After a July of beautiful weather and great summer adventures, I traveled with my good Australian friend Kurt to a theater festival in Cyprus.",self,past,positive,positive,positive,joy
+177,Now this was ridiculous amounts of fun!,other,na,positive,na,na,joy
+178,"The city is a sweaty, dirty, polluted hole.",other,na,negative,na,na,disgust
+179,Now imagine the condensation from thousands of swamp box coolers pitter pattering on your head as you stroll down the trashy Athens streets.,other,present,negative,neut,negative,disgust
+180,"And the city itself really is lovely, in it's own way.",other,na,positive,na,na,joy
+181,Now this was really amazing.,other,na,positive,na,na,surprise
+182,"And then we watched in amazement with fifty other tourists as the sun went down in front of the temple, over the Mediterranean.",self,past,positive,neut,neut,surprise
+183,"The sky is so amazing in Greece, it feels like you could really reach up and touch it, it's so close!",other,present,positive,neut,neut,surprise
+184,Cyprus was amazing.,other,na,positive,na,na,surprise
+185,"We saw Jessica's production of Medea, and were treated incredibly well by her colleagues at the festival.",self,past,positive,neut,positive,surprise
+186,"We stayed in a tiny mountain village called Droushia, and these people brought hospitality to incredible new heights.",other,past,positive,neut,neut,surprise
+187,"They did everything they could to make us feel welcome, everything from putting us up in a beautiful hotel, refusing to let us pay for anything, and making sure that our stay on their island was as enchanting as the stories always make it out to be.",self,present,positive,positive,positive,joy
+188,"Imagine the most incredible, horseshoe shaped cove, with unimaginably blue water, and a giant stone underneath the water, hundreds of meters long and wide, adding depth to the color.",other,present,positive,neut,na,surprise
+189,"It was really interesting staying with them in this little mountain village, and getting to experience a bit of what their culture was all about.",other,present,positive,neut,neut,joy
+190,Oh and the food is incredible.,other,na,positive,na,na,surprise
+191,"Its really a testament to the vision of the ancients that in our world of skyscrapers and technical gadgetry, we are still fascinated by a two thousand year-old arrangement of stones.",other,past,positive,neut,positive,joy
+192,"So I spent the next six days in a haze of working my final tours, partying, and showing Lance the city that I had come to love so much over the last two years.",self,present,positive,neut,positive,joy
+193,We had a ball in Zurich.,self,past,neut,neut,neut,joy
+194,"We went on a walking tour, went to the City Museum (located in an old castle, very cool), and had a good time relaxing and enjoying the AMAZING views.",self,past,positive,positive,neut,joy
+195,"The city is incredibly beautiful, tucked into the Alps and right on the water.",other,past,positive,neut,na,surprise
+196,"I think the most important thing I can say about this city, is that all of the rumors: That the city's dirty, the people are rude, the language barrier is insurmountable, the metro is incomprehensible, you things will be stolen, that they hate Americans.",self,present,negative,neut,neut,disgust
+197,"The Eiffel Tower is breathtaking, and seeing it in person destroys its cliche and makes you fall in love with the thing.",other,present,negative,neut,positive,joy
+198,The people are absolutely LOVELY.,other,na,neut,na,na,joy
+199,"We encountered so many genuinely wonderful, helpful, content people.",self,past,positive,positive,na,joy
+200,"Everything from trying to order a baguette in the morning (my Francais is tres terrible) to asking directions or talking to cabbies, we were always pleasantly surprised at how open and welcoming they were.",self,present,positive,neut,neut,surprise
+201,And they all seem to really enjoy their city.,other,present,positive,neut,neut,joy
+202,"They know how beautiful it is, and they appreciate it.",other,present,positive,neut,na,joy
+203,"And man, it is gorgeous.",other,na,positive,na,na,joy
+204,There was a fabulous sense of community there.,other,na,positive,na,na,joy
+205,My favorite part about the city parks were the 'nap chairs'.,other,na,positive,na,na,joy
+206,"I thought: ""that's strange, what's that about?""",self,past,negative,neut,na,surprise
+207,Vive la France!,other,na,neut,na,na,joy
+208,We really had a ball in Paris.,self,past,neut,neut,neut,joy
+209,"We went to Versailles, we went to Notre Dame, and on a fabulous bike tour.",self,past,positive,na,positive,joy
+210,"The most interesting thing we learned on the bike tour was that when the revolutionaries stormed the Bastille, there were only 7 prisoners left in it.",self,past,positive,neut,neut,surprise
+211,It's a pretty breathtaking sight.,other,na,positive,na,na,joy
+212,On the steps there was always sort of an impromptu party with musicians and performers and other city-watchers gathering with a bottle of wine and a merry spirit.,other,present,positive,na,na,joy
+213,Those evenings on the steps are some of my favorite memories from Paris.,other,na,positive,na,na,joy
+214,What an incredible end to an incredible journey.,other,na,positive,na,na,surprise
+215,"I was also lucky enough to be hired to direct a show for Frenship high school, which went up last Sunday.",self,past,positive,neut,neut,joy
+216,"It was a Commedia dell'Arte piece titled The Red Hat, and went extremely well.",other,past,positive,neut,na,joy
+217,It was a nice way for me to get to stretch those theater muscles and earn a little something at the same time.,self,present,positive,neut,neut,joy
+218,"I'm excited about the move, and the opportunities and challenges that await me there.",other,present,positive,neut,na,joy
+219,"I hope all of you are well; that you have made it through the summer, and are excited about the upcoming (rapidly approaching) holiday season!",self,past,positive,neut,neut,joy
+220,"I wish you all a fabulous week, and a warm and safe start to the wintry season.",self,present,positive,neut,positive,joy
+221,"But math just sucks, and I've accepted that.",self,past,negative,neut,negative,disgust
+222,"Some of my teachers seem quite amazing, and others I know for a fact to be amazing.",self,present,positive,neut,na,surprise
+223,"So, all-in-all, pretty good, right?",other,na,positive,na,na,joy
+224,"I also found out that Junior year, will, in fact, be a bitch.",self,past,negative,negative,neut,disgust
+225,"You can handle high school drama."") Also, I have so many friends, and all of them are true, caring, trustworthy friends who love me and are supporting me 100%.",self,present,positive,neut,neut,joy
+226,I can come through this year triumphantly and with grace.,other,present,positive,neut,positive,joy
+227,This is my year to be happy.,other,na,positive,na,na,joy
+228,This is my year to try new things and to succeed!,other,present,positive,neut,na,joy
+229,This is my first year of loving myself.,other,na,positive,na,na,joy
+230,"I also found out that Junior year, will, in fact, be a bitch.",self,past,negative,negative,neut,disgust
+231,"You can handle high school drama."") Also, I have so many friends, and all of them are true, caring, trustworthy friends who love me and are supporting me 100%.",self,present,positive,neut,neut,joy
+232,I can come through this year triumphantly and with grace.,other,present,positive,neut,positive,joy
+233,This is my year to be happy.,other,na,positive,na,na,joy
+234,This is my year to try new things and to succeed!,other,present,positive,neut,na,joy
+235,This is my first year of loving myself.,other,na,positive,na,na,joy
+236,"I look forward to learning and discovering even more of who I am, and loving every inch of it.",self,present,positive,neut,positive,joy
+237,I cannot believe the nerve of this man. God.,self,present,neut,neut,na,surprise
+238,kill something.,other,present,negative,neut,na,anger
+239,"What's even worse, it's copied so poorly that the last half inch of text on the far right side of the page is cut off, so as I try to read in preparation for the lab tomorrow I'm trying to coherently complete sentences and make sense of it all, which is often impossible because so much is left out.",self,present,negative,neut,negative,anger
+240,"Again, makes me so angry.",other,present,negative,neut,neut,anger
+241,Poopy poopy poopy.,other,na,neut,na,na,anger
+242,*cries* Such is life I spose.,self,present,neut,na,na,sadness
+243,"I am in such a bad mood and I'm playing the blame game in my head, getting angry at people for things that are really quite trivial.",self,present,negative,neut,negative,anger
+244,I forgot how demeaning BME classes are.,self,past,negative,negative,na,anger
+245,He was asking all these questions that I was completely baffled by and people were just spouting answers.,other,past,negative,neut,negative,surprise
+246,"Sometimes I wonder how in the world I made it in, and every day I wonder how I'm going to make it through.",self,present,positive,neut,neut,surprise
+247,I don't feel like I ever have that kind of privacy where I can talk to God and cry and figure things out.,self,present,positive,positive,neut,sadness
+248,"I always tear up in church too, for different reasons.",self,present,neut,na,neut,sadness
+249,I love the way God brings people together.,self,present,positive,neut,neut,joy
+250,"Girls, I highly reccomend In Her Shoes, especially if you have a sister I'm enjoying it immensely and it has effectively distracted from my schoolwork almost all day.",self,present,positive,neut,positive,joy
+251,"These small indicators remind me that, in the Silvia Plath sense of the concept, I'm dying.",other,present,negative,neut,na,sadness
+252,"Someday I will be no more than slime coating the expensive, cushiony, velvety inside of a coffin.",other,na,negative,na,na,sadness
+253,"The rickety deck I'm sitting on could fall, I could catch a stray bullet to the noggin on my way to my car in the parking lot, I could be nailed by a drunk, inattentive, careless, or simply unfortunate driver on the way home.",self,present,negative,neut,neut,fear
+254,"or do I simply want to live an average American life and be remembered under a large stone in a well kept cemetery, forgotten after my immediate reletaves, children, and grand children.",self,past,positive,neut,positive,sadness
+255,There would be a constant trepedation that there is no gold at the end of that rainbow.,other,na,positive,na,na,fear
+256,No wonder past writers were able to produce their amazing feats of feeling and thought.,other,past,positive,positive,na,surprise
+257,"My thoughts at the moment are somewhat melancholy, but can be completely forgotten at the push of a button mounted to an  Xbox, Dvd player, or VCR.",other,past,negative,neut,neut,sadness
+258,I am now the proud father of Daisy Alexandria Davolls.,other,na,positive,na,na,joy
+259,"I now have a sweet little thing, that totally depends on her mum and me to do whats best.",self,present,positive,positive,neut,joy
+260,"I had a long hard look at my life over the last 14 days, and to be honest I wept.",self,present,negative,neut,neut,sadness
+261,I wept for all the mistakes I made where I put my feelings before the feelings of others.,self,past,negative,neut,neut,sadness
+262,"I wept for all the times I said ""f*ck you"" instead of ""thank you"".",self,past,positive,neut,negative,sadness
+263,"I still have a couple of vices, strong coffee and noodles, but have quit smoking, havent drunk for a couple of weeks and am feeling better about life.",self,past,positive,positive,positive,joy
+264,"My job is going really well, and I am getting a kick out of both going to work and coming home.",self,present,positive,neut,positive,joy
+265,"The pessimist in me awaits the phone call from the police or hospital or nuclear plant etc telling me the worst, crushing my hopes of a better tomorrow.",self,present,negative,neut,positive,fear
+266,The brain is an amazing tool and can be sculpted for any purpose.,other,past,positive,neut,neut,surprise
+267,Do they know how lucky they are - to find contentment without looking.,other,present,positive,positive,neut,joy
+268,more often you find things to bring you down or worry about.,other,present,negative,neut,neut,sadness
+269,A single lightning bolt from the sky can make a lifetime of panic and worry all worthless.,other,present,negative,negative,neut,fear
+270,I am not saying I am anything other then happy - but I strive for a balance.,self,present,positive,neut,neut,joy
+271,Happiness comes from within - your brain is a self regulating chemical factory.,other,present,neut,positive,na,joy
+272,"""Happiness lies within"" - the only way to be truly happy is to create it yourself and not rely on other people or things.",other,present,positive,neut,neut,joy
+273,the Happiness they bring is only temporary.,other,present,neut,positive,na,joy
+274,Yet often that temporary happiness is more intense then a balanced contentment.,other,na,positive,na,na,joy
+275,It is however usually accompanied by and equal sadness - it is life's way of balancing itself out in the endless pendulum swing of life.,other,present,negative,neut,neut,sadness
+276,First she is all mad because I haven't called her back in a week.,self,past,negative,na,neut,anger
+277,Second of all she is laughing hysterically because she had to put her dog on doggie drugs because the dog learned how to open the window to get out and seems to be jewish because she likes the temple down the road.,other,present,positive,neut,neut,joy
+278,She started questioning my credentials because she drives a school bus for a living and knows what a safe vehicle is. Bitch.,other,present,positive,neut,positive,anger
+279,Bitch.,other,na,neut,na,na,anger
+280,Bitch.,other,na,neut,na,na,anger
+281,"As far as i can tell, it was a success.",self,present,positive,na,neut,joy
+282,They all complimented on it.,other,past,positive,na,positive,joy
+283,"Killin me he is. He's a great guy and I want to marry him for his kitchen, he liked that one, hahaha.",self,present,positive,neut,na,joy
+284,He's a great guy and I think the world of him.,self,present,positive,neut,na,joy
+285,"For instance, if I feel sad because I have not seen my family in a long time my need for connection has not been met.",self,past,negative,neut,neut,sadness
+286,"On the otherhand, if I feel happy because I have spent time with my family then my need for connection has been met.",self,past,positive,neut,positive,joy
+287,"How many times have we felt angry and as a result insulted, judged, criticized, blamed or physically hurt someone?",self,past,negative,neut,negative,anger
+288,We live in a society that has encourages us to stuff our emotions and a society that is by the most part feelings illiterate.,self,present,positive,neut,na,sadness
+289,By stating our feelings and needs to others we avoid blaming and criticizing them.,self,present,negative,neut,neut,anger
+290,When others are angry or upset with us we can also use this technique on them.,self,past,negative,neut,negative,anger
+291,"For instance, if we feel furious it may be better to take a one hour timeout and calm down.",self,present,positive,neut,na,anger
+292,Many times in the past we have reacted like a lion when we feel angry or frustrated with others or ourselves.,self,past,negative,positive,negative,anger
+293,"- Had one hell of a good vanila milkshake at Hard Rock Cafe, lets just say it was a 'satisfying' moment.",other,present,positive,neut,neut,joy
+294,"- Rome was fun with my best friend hanz, we managed to run out of money by the end and had mcDs for dinner at Florence",self,past,positive,neut,neut,joy
+295,"- Yoga at Ibiza was AWESOME, didn't want to leave!",other,present,neut,neut,na,joy
+296,"It was sun, beach, tan, great veg.",other,na,positive,na,na,joy
+297,"meals, beautiful sunset, and I manage to pull off the yoga glow by the end of it.",self,present,positive,positive,na,joy
+298,"- Felt sick eating crappy canteen food, but now back into the bad diet of coffee, shift work, and eating Shwaba on edgware rd.",other,present,negative,negative,na,disgust
+299,"- Sis was coming for a visit in Nov, mom and dad decided to come along, so now abit stress booking hotels and restaurants, will be depressed when they all leave",other,present,negative,neut,neut,sadness
+300,- going on training next week can't wait to get pissed with all the graduates,other,present,neut,neut,neut,disgust
+301,"Sorry for the rather crappy update, will try to do a proper one later.",other,future,positive,positive,neut,disgust
+302,YAY!!!,other,na,neut,na,na,joy
+303,don't know what the point in that title is for but neh >> I've been sick today and on the verge of tears._.; I don't know why.,self,present,negative,neut,na,sadness
+304,"I talked to Misha earlier on MSN for the first time since I added her and yeah, it was fun I guess.",self,past,positive,neut,neut,joy
+305,"I don't know why, I'm just drained of energy and want to cry constantly and for somereason I don't know why.",self,present,negative,neut,neut,sadness
+306,"I don't know what happened to my happiness, I woke up feeling down and miserable and infact it's worse.",self,past,negative,positive,na,sadness
+307,I'm losing enjoyment out of things I love to do and thats never a good sign.,self,present,positive,neut,positive,sadness
+308,"The conversation was funny, I mentioned that if the word got out about our plans we'd have to escape the earth to avoid the police, HOLY/HOLD, the military and etc and yeah XD J.C. suggested she could try and make a ship but then I suggested we could sneak into NASA and steal a rocket.",self,present,negative,neut,neut,joy
+309,it was hilarious.,other,na,positive,na,na,joy
+310,"I'm chatting with someone on Gaia, they seem to have a lot in common with me n.n it's fun.",self,present,positive,neut,na,joy
+311,"I can live with that, I wish I had something to do though._.; I feel lonely.",self,present,negative,neut,neut,sadness
+312,I dunno what else to say though except it's shocking that I'm updating early.,self,present,negative,neut,negative,surprise
+313,"Other than that I also got a extension from my affiliate to get the fanlisiting I adopted up since the server move and etc. Meh, I miss Cassy.",self,past,negative,neut,neut,sadness
+314,It most certainly raised even more anti-Muslim sentiment but also more anti-French sentiment even amongst it own non-Christian communities.,other,past,neut,neut,neut,anger
+315,"The Germans have passed similar laws, much to the dismay of its large Turkish-Muslim population.",other,past,negative,neut,neut,sadness
+316,"The well integrated, but edgy Muslim community is not so happy about this.",other,past,positive,neut,positive,anger
+317,And I'm afraid it could get ugly.,other,present,negative,neut,neut,fear
+318,The Muslims too have yet to seriously address the fears and concerns of 'indigenous' white westerners - who have opened their doors from some of the worlds worst economically and socially oppressed societies.,other,present,negative,neut,neut,fear
+319,Muslims too need to understand the fears and concerns of secular westerners who now have to deal with strict Islamic rules within their own communities.,other,present,negative,negative,neut,fear
+320,I'm EXTREMELY sad to say that it looks as though The Skyline Obscura will be on an indefinate hiatus as of this past Thursday.,self,present,negative,neut,na,sadness
+321,"Sorry for the letdown, and I can't speak for everyone else, but I'd rather have this happen now than later.",self,present,neut,neut,neut,sadness
+322,"The one bad thing is that she got news this morning that her 21 y/o kitty, Aunt Becky, passed away last night.",other,past,negative,neut,neut,sadness
+323,"She knew the kitty was not doing well (she hasn't been for a while now, but kept rallying), so it wasn't a shock at all, but still sad.",other,past,negative,neut,positive,sadness
+324,"They still are not sure what is going on with the transplanted kidney as it appears to be ""peeling like an onion"", but his potassium and sugar and such are leveling out and he is feeling better.",other,present,positive,positive,neut,joy
+325,So last week was the Thanksgiving long weekend and it was sooo sweeeet.,other,na,neut,na,na,joy
+326,My sister came back from university and it was (surprisingly) nice to spend time with her again!!,other,past,positive,neut,neut,surprise
+327,lol just kidding.,other,na,neut,na,na,joy
+328,"Anyways, on Monday I got to see some of my favourite people and that was really fun as well :) Go Augustine Inc.!",self,present,positive,neut,neut,joy
+329,And I believe that God gave me this amazing opportunity for a specific reason and there's no way I'm turning it down.,self,present,positive,positive,na,surprise
+330,lol).,other,na,neut,na,na,joy
+331,I just feel like we're all getting caught in the whirlpool of life (hehe what a funny term) and I just wanted to urge you guys to not forget about checking up on each other.,self,present,positive,neut,neut,joy
+332,:D lol wow.,other,na,positive,na,na,joy
+333,"First of all, I would like to say that I am proud of myself.",self,present,positive,positive,positive,joy
+334,The period ran smoothly under my direction most suprisingly to me. I actually liked being thrown into the situation without having prior knowledge.,self,past,positive,neut,positive,surprise
+335,"Wow, I hardly ever have plans.",self,present,neut,neut,neut,surprise
+336,"And the parents' club decided to pay for our breakfasts, so I got a free buffet!",self,past,positive,neut,neut,joy
+337,"I tried to pay her back, but she wouldn't let me. So I got a free spiffin' sweet green tie-dyed OVAC shirt, too.",self,past,positive,neut,neut,joy
+338,Today rocks!,other,na,neut,na,na,joy
+339,"We'll just have to drag her down to the rink one of these days, lol!",self,future,negative,neut,neut,joy
+340,I love skating.,self,present,positive,neut,na,joy
+341,She's amazing.,other,na,positive,na,na,joy
+342,"Like, most definetely on my top favorite authors list.",other,present,positive,positive,na,joy
+343,"I love making up stories, retelling stories, and writing down everything.",self,present,positive,neut,na,joy
+344,mine pretty much are bland.,other,na,positive,na,na,sadness
+345,"What they like to eat, what music they like, etc. And I don't!!",other,present,positive,positive,na,joy
+346,Sigh.,other,na,neut,na,na,sadness
+347,"Well, any advice on writing would be appreciated.",other,past,positive,neut,positive,joy
+348,You actually enjoy driving around rotaries.,other,present,positive,neut,neut,joy
+349,"You know that there are two Bulger brothers, and that they're both crooks.",other,present,negative,neut,na,disgust
+350,The curse of the Bambino is taught in public schools.,other,past,negative,negative,neut,disgust
+351,"You own a ""Yankees Suck"" shirt or hat.",other,present,neut,negative,na,disgust
+352,"You've bragged about the money you've saved at The Christmas Tree Shop You know what a ""regular"" coffee is. You actually get these jokes and pass them on to other friends from Massachusetts.",other,present,negative,neut,neut,joy
+353,"So, ok, this happened like week before last, but I thought it was funny enough to mention today.",self,past,positive,neut,neut,joy
+354,"So Brandon and I were chilling out one night at home, after being out all night, and we decided to step out on the patio for a quick smoke.",self,present,negative,neut,negative,joy
+355,"Well, the new dog; Louis, went running out onto the patio and barking up a storm, as I stuck my head out, there sat this stupid young dude trying to break into my neighbor's (across the street) car.",other,present,negative,neut,neut,anger
+356,"This time, unfortunately, he'd broken INTO the car already and was fishing things out.",other,past,negative,neut,neut,sadness
+357,I pick up my phone ON THE BALCONY and call the cops wihle I'm walking behind this joker.,self,present,negative,neut,negative,disgust
+358,The cops come outta nowhere this time.,other,present,neut,neut,neut,surprise
+359,"But now I feel much happier and safer, and the neighbors all love me.  Did I mention it was after 2am every time the break-in occurred?",self,present,positive,neut,neut,joy
+360,"They still love me, even though I woke them up at the butt-crack of dawn.",self,past,positive,neut,neut,joy
+361,It's a beautiful thing.,other,na,positive,na,na,joy
+362,=o)  Although I feel like I've been on a really bad episode of 'Law &amp; Order' now.,self,present,positive,positive,na,sadness
+363,"Afraid, confused, without a road map.",other,past,negative,negative,negative,fear
+364,"Of course, when faced with the unknown many of us would turn around and run back.",self,present,negative,na,neut,fear
+365,Into something better.,other,na,positive,na,na,joy
+366,"Something just beyond the pain of going on alone and just beyond the bravery and courage it takes to let someone in, or let them fade away.",other,present,positive,neut,neut,sadness
+367,My worst fears have been personified.,other,past,negative,negative,na,fear
+368,I only know that it could be anytime within the next 60 days.,self,present,neut,neut,neut,fear
+369,Woot I finally got an ipod with video (30g)!,self,past,neut,neut,neut,joy
+370,Its kinda bad because I was feeling really sad/unhappy the day I baught it.,self,present,negative,neut,neut,sadness
+371,but oh I was a bad girl and put it on my best buy card.,self,present,positive,neut,na,sadness
+372,"I got a black one, and oooh its so sexy!",self,past,positive,neut,na,joy
+373,"Maybe a full case too, because the lil black pocket thing it came with is a little too snug, I have to force the lil bitch into it all the time.",self,present,negative,neut,neut,disgust
+374,Eh.,other,na,neut,na,na,surprise
+375,its not that much but hey its something!,other,na,neut,na,na,joy
+376,"we had our first snowfall just the other day, the trees have gone to sleep and finally the walnuts have stopped falling on my garage roof and scaring me when i take my still lame dog out to take a shit before bed.",self,present,negative,neut,neut,fear
+377,"three very dear friends of mine have lost very important people in their lives, and i have had to be the strong one they can lean on.",self,past,positive,positive,positive,sadness
+378,though i do not mind this one tiny bit it has been odd for me.  i'm rarely the strong one.,self,present,positive,neut,neut,surprise
+379,i am usually the one reduced to laying on the big green couch in the fetal position eating leftover pizza and crying about nothing and everything all at once.,self,present,negative,neut,negative,sadness
+380,didn't see that one coming.,other,present,neut,neut,na,surprise
+381,but that scares me even more.,other,present,negative,neut,na,fear
+382,"i love him dearly and will forever, but i definately was not ready for that.",self,present,positive,neut,positive,joy
+383,"in  a word, lost.",other,past,negative,na,negative,sadness
+384,i feel lost.,self,past,negative,neut,na,sadness
+385,"very disconnected to everyone and everything, not sure where to go from here.",other,past,neut,neut,na,sadness
+386,gotta milk those quarter-life crises for all they're worth.,other,na,positive,na,na,sadness
+387,have a great idea for a new scarf.,other,present,positive,positive,na,joy
+388,I didn't mean to hurt this person at all.,self,present,negative,negative,negative,sadness
+389,I was just scared.,other,past,negative,neut,negative,fear
+390,I'm scared of my future.,other,past,negative,neut,na,fear
+391,"I look ahead and I want to see me being a successful missionary/psychologist, married, with kids, and a great life.",self,present,positive,positive,positive,joy
+392,Un-happy people.,other,na,neut,na,na,sadness
+393,I don't want to get hurt.,other,present,negative,neut,na,sadness
+394,*sighs*  I have a bad habit of hurting people before they can hurt me.  Like if I think that someone could and might hurt me then I hurt them first.,self,present,negative,neut,negative,sadness
+395,"Then I think if I commit myself to this person only, what if I'm missing out on someone else?",self,present,negative,neut,negative,fear
+396,What if this isn't the right person for me and I'm making a huge mistake?,self,present,positive,positive,positive,fear
+397,Welp today has been a long tiring day lol.,other,na,negative,na,na,joy
+398,Doctor says not to let them sleep on there belly for a while and thats the only way he sleeps good!,other,present,positive,positive,neut,joy
+399,lol.,other,na,neut,na,na,joy
+400,I need a nap though I will tell you that lol.,self,future,neut,neut,neut,joy
+401,lol.,other,na,neut,na,na,joy
+402,Oh well I know its something that comes along with having a baby lol.,self,present,positive,neut,neut,joy
+403,I will be glad when my mom gets here so we can go to wal-mart and then I can come back home and take a little nap.,self,present,positive,neut,neut,joy
+404,"lol,and so we figgured we would just go to Six Flags.",other,present,neut,neut,neut,joy
+405,HAHA!,other,na,neut,na,na,joy
+406,LOL.,other,na,neut,na,na,joy
+407,"Our one year wedding anniversary, we had Landon this month,David's birthday today,other family members birthdays that are this month,halloween and tons of other stuff lol.",other,na,neut,na,na,joy
+408,"I still need to do laundry later and I need to do the dishes and then maybe just maybe I will get to lay down for a bit before he wakes upEhh prolly not lol Oh and for everyone that wants to see the baby if there is not a nice day coming up you may have to come to my house because its to cold for us to be taking him out in this weather,I don't need a sick baby along with my hundred other problems lol,that or you can come visit when we are over at my grandpas,other than that your s.o.l on seeing my lil stud muffin lol.",self,present,negative,neut,neut,joy
+409,"The OT whoring now is to make enough to pay bills on time, not to buy new and fun things.",other,present,positive,positive,neut,joy
+410,"We just celebrated 3 great months on the 8th, and last night we carved pumpkins (she brought me a pumpkin, it was pretty sweet).",self,past,positive,neut,neut,joy
+411,"Bagpiping got moved to one of our ""together"" nights, so that puts a small damper on the time we see each other for every week.",self,past,negative,neut,neut,sadness
+412,"This is good for the odd hour shooter like me. Also, there is a 25 yd outdoor range, which accepts a variety of loads (shotgun, magnum, etc).",other,present,positive,positive,na,joy
+413,"The best part is, I shoot pretty well there, and the lighting is really good.",self,present,positive,na,positive,joy
+414,We are starting to get some interesting inquiries.,self,present,positive,neut,na,joy
+415,Ha!,other,na,neut,na,na,joy
+416,But I love it.,self,present,positive,neut,positive,joy
+417,Like thousands of people poured into the street last night for excitement.,other,past,positive,neut,positive,joy
+418,Wow.,other,na,neut,na,na,joy
+419,your hair looks like shit Mary.,other,present,positive,positive,na,disgust
+420,They're cute.,other,na,positive,na,na,joy
+421,"Everyone is gone and I just cleaned up, so now I'm going to loosen up my buttons, take a long hot shower, put on my clothing and my adorable pea coat, and make my way downtown.",self,present,positive,neut,positive,joy
+422,Disaster.,other,na,neut,na,na,fear
+423,I almost died.,other,past,negative,neut,negative,fear
+424,Within a week I bid on and won about 14 cookie jars.,self,past,positive,neut,neut,joy
+425,They are just so cute I can't resist them although I think I am under control now.,self,present,positive,neut,neut,joy
+426,The lady at the post office is starting to laugh at me.  Where am I going to put them all?,self,present,neut,neut,neut,joy
+427,I have only had one bad experience on Ebay so far.,self,past,negative,negative,neut,sadness
+428,I emailed the seller and told him about it and he was very arrogant and rude.,self,past,negative,neut,na,anger
+429,I told him he was a f----ing a--hole and gave him a negative rating.,self,past,negative,neut,na,anger
+430,He in turn gave me a negative rating.,other,past,negative,negative,neut,anger
+431,And because I am such a perfectionist the negative rating had me bummed for awhile but now I am better.,self,past,negative,neut,negative,sadness
+432,We have been staying pretty close to home but still having a good time.,self,present,positive,neut,neut,joy
+433,It has finally cooled down a bit which is a big relief.,other,past,positive,neut,positive,joy
+434,"I love my ""nap and story time with BooBoo every afternoon.""",self,present,positive,neut,na,joy
+435,"Oh shit, day by day update.",other,na,negative,na,na,disgust
+436,"So, I love 4 day weeks of school, I really do.",self,present,positive,neut,positive,joy
+437,"First off, it's a hike to get up to this place, and I can't see worth shit in the dark.",self,present,negative,positive,neut,disgust
+438,"We were up there for awhile and Idk why or how, but Ryan pushed me off of this bench and I fell flat on my back scraping my hip up, which hurts ha.",self,past,negative,neut,negative,sadness
+439,"Then they were cutting this damn tree down, and they made me go with then by dragging me over since I didn't want to go, and when I tried to sneak away.",self,present,negative,neut,negative,anger
+440,I guess I walked behind Ryan right when he swung this huge ass AXE and he swung it right into my face!,self,past,positive,neut,positive,anger
+441,"Not only all that, I ended up calling Aubrey, and ending up balling like a baby, because I really do miss her and everything we used to have.",self,present,positive,neut,positive,sadness
+442,"Even after getting off the phone with her, I balled forever.",self,past,neut,neut,neut,sadness
+443,It was real lame.,other,na,negative,na,na,disgust
+444,Ehh Other than that it was a good time.,other,na,positive,na,na,joy
+445,"Today, Chels made me a sandwhich since she loves me, and I had some soup so I feel better.",self,past,positive,neut,positive,joy
+446,"Yeah, I know, right up there with Custer laughing off a few measly Indians.",self,present,positive,negative,positive,joy
+447,"But my beloved G.P., who usually just prescribes stuff for me over the phone, starts throwing around words like ""orthopedic,"" ""surgery,"" and ""x-rays"" and I start thinking, ""oh shit!""",self,present,positive,neut,neut,disgust
+448,So what's a girl to do to cheer herself up?,other,present,positive,neut,positive,joy
+449,"So I'm old, but I have these really cute Etienne Aigner boots to show for it.",self,present,positive,positive,neut,joy
+450,My gene pool used to lie before me like a pretty lake and I rarely gave it much thought.,self,past,positive,neut,neut,joy
+451,"the times I have felt most free, most alive,",self,past,positive,positive,neut,joy
+452,"the times we have been at our best, have shone brightest,",other,past,positive,positive,na,joy
+453,or just set fire to the whole thing and made it up as we've gone along.,other,past,neut,neut,neut,anger
+454,Sucks for Levon but he said he wouldn't let me drive with the trailer anyways.,self,present,neut,neut,neut,disgust
+455,"Plus, this means I can get my drivers license in AZ which means it will be good for 65 years!!",self,present,positive,positive,neut,joy
+456,HAPPY BIRTHDAY JAMIE!!,other,na,neut,na,na,joy
+457,Everybody call me. Just letting you all know I suck at at tests.,self,present,negative,negative,neut,disgust
+458,"first: heh heh  heh, so appropriate fer me.",other,na,positive,na,na,joy
+459,"couldn't the fucking terrorists decide to get caught, you know, after i landed?",self,present,negative,negative,neut,anger
+460,they had to be stupid terrorists and think in their fundementalist clouded minds that they'd change the world!,other,present,negative,neut,neut,anger
+461,"or convert everyone to Islam, or just blow you up one by one in a fucking plane, train, or automobile.",other,present,negative,neut,negative,anger
+462,so fuck off.,other,present,negative,na,negative,anger
+463,"so far, all you've done is to cause international travellers the annoyance of having to hand over their toothpaste and make sure their baby's formula isn't nitroglycerin by drinking some.",other,present,negative,neut,neut,anger
+464,you've killed less people in the last six years than we did to ourselves in a week in 1916.,self,past,negative,neut,negative,anger
+465,so fuck off.,other,present,negative,na,negative,anger
+466,"if you read history instead of fucking dogma all the god damn time you'd realize we're perfectly capable of raining destruction upon ourselves in a very effective manner, thank you very much.",self,present,positive,neut,neut,anger
+467,"how about you ignore us, we'll ignore you, you all can go to heaven and we can all be infidels and suffer through our evil.",self,present,negative,neut,negative,anger
+468,what do you care if all ours are all bad.,other,present,negative,na,na,anger
+469,"i'm being a little flippant here, but i'm sure you get the point.",other,present,neut,neut,na,disgust
+470,because you are ANNOYING US.,other,na,neut,na,na,anger
+471,which is worse than pissing us off.,other,present,negative,neut,na,anger
+472,"because when you piss us off, we have to used measured restraint.",self,present,neut,neut,neut,anger
+473,when you annoy us long enough NO ONE WILL CARE ABOUT RESTRAINT.,other,present,positive,neut,neut,anger
+474,we'll just let our governments do whatever the fuck they want because we want to brush our fucking teeth on a plane after some really bad airplane food.,self,present,negative,negative,neut,anger
+475,never underestimate the power of wide spread apathy and annoyance.,other,present,negative,negative,negative,anger
+476,AND I'M ANNOYED.,other,na,neut,na,na,anger
+477,"its your fault, it really is.  so when i'm standing in line, or waiting around, i'll be thinking of you.",self,present,negative,neut,neut,anger
+478,trying to keep my rational and logical mind from straying to bad thoughts about how stupid the human race is and how religion is nothing but trouble.,other,present,negative,positive,na,anger
+479,and try and sympathize with those being racially profiled ahead of me and making for an even longer wait in line.,other,present,neut,neut,neut,sadness
+480,fuck off.,other,na,negative,na,na,anger
+481,The job was frustrating today.,other,na,negative,na,na,disgust
+482,it's annoying as all get out.,other,present,negative,neut,na,anger
+483,Then they throw a little hissy fit for 5 minutes as I repeat myself over and over.,self,present,neut,neut,neut,anger
+484,And then I get an equally obnoxious call.,self,present,negative,negative,neut,anger
+485,This happened an unhealthy amount today.,other,past,negative,negative,neut,disgust
+486,And then the dispatcher was all pissy with me over some redelivery shenanigans I was doing wrong.,self,present,negative,neut,negative,anger
+487,"Talking about running into ongoing traffic and killing himself, and doing weed.",other,present,negative,negative,negative,anger
+488,Sheldon and I told him to shut up.,self,past,neut,neut,na,anger
+489,He got up and said he doesn't have to take this from us and was especially angry at me. I was a mega bitch to him.,other,past,negative,neut,neut,anger
+490,He was so good-looking.,other,na,neut,na,na,joy
+491,"Words like that made me and Phil stop smiling, look straight at Sheldon, and say ""shut up"" at the same time.",other,present,positive,neut,neut,anger
+492,"Hell, NEVER make them.",other,present,neut,neut,neut,anger
+493,A couple of times Sheldon would say things to him and he would get angry and tell him to shut up.,other,present,negative,neut,neut,anger
+494,haha.,other,na,neut,na,na,joy
+495,"It was brief, and every single time, we would smile.",self,present,positive,na,positive,joy
+496,The whole way there he was grabbing onto poles and screaming like a banshee and his friend Johnny (who came along) got a swift punch in the nuts from Phil.,other,past,positive,neut,na,anger
+497,"I asked Phil, ""what the hell are you doing?"" and he looked angrily at me. Like I did anything wrong.",self,past,negative,positive,negative,anger
+498,Was I wrong to be taken aback by that?!,other,past,negative,neut,na,surprise
+499,"I started talking to him about why he was so mad, and he said ""you called me retarded"", and I explained that he was being a prick.",self,past,negative,negative,negative,anger
+500,"And he said that since he started drugs, he's a prick.",other,past,negative,neut,na,anger
+501,"He ""whatever""ed me. UGH.",other,na,neut,na,na,anger
+502,"They followed, but Daniel took two minutes to look back at me. I was angry.",other,past,negative,neut,neut,anger
+503,My facial expression was beyond hurt.,other,past,negative,neut,na,sadness
+504,I know I shouldn't have been snotty about it but I thought it was fucking obvious.,self,past,negative,neut,na,anger
+505,"I called home to as my mom for a ride but she said she was busy, I WAS NEAR CRYING AND SHE WAS ""BUSY""?",self,past,neut,neut,na,sadness
+506,We hung out in his car for the rest of the day talking and laughing.,self,present,negative,neut,negative,joy
+507,ive missed it so.,other,past,negative,neut,negative,sadness
+508,"the trip was fantastic, plimoth was old and there were real live pilgrims everywhere, salem was cute and adorable but very touristy, ithaca was gorgeous and adorable and joel was there so the whole thing made me very happy and clearly that was the highlight of the trip, niagara was fantastically beautiful but boring once you've seen the falls, buffalo was sketchy but had great wings and now im home, and i think it's the most wonderful place ive ever been and i dont ever want to leave!",self,present,positive,neut,neut,joy
+509,"well, give me two weeks and i'll be out of here but for now, it's good.",other,present,positive,neut,positive,joy
+510,it was wonderful to be away from home but it is indeed wonderful to be back.,other,na,positive,na,na,joy
+511,i felt particularly inspired a few hours after we left ithaca becos i had finally finished stone garden and reading that book always sends me into great fits of creation.,self,past,positive,neut,neut,joy
+512,the only thing im sure of at this moment in time is that life is beautiful and i am just so satisfied and so content.,other,na,positive,na,na,joy
+513,but for now im going to go experience how fabulous the night sky smells.,other,present,positive,positive,neut,joy
+514,"Work is going well I suppose, most people are nice and I've been warned of which ones are better to avoid.",self,present,positive,positive,na,joy
+515,"They're starting to put me in other parts of the store, which is kind of nifty.",other,present,positive,neut,na,joy
+516,"I've been having random fears and doubts lately, but that happens.",self,present,negative,neut,neut,fear
+517,"I suppose there's been a fair amount of drama, including some with my ex Sadie.",self,present,positive,neut,na,sadness
+518,Woot.,other,na,neut,na,na,joy
+519,"But I, with my mad Photoshop skills, was able to convert it to the corect color space while faithfully maintaining the appearence and detail of the image, including the gradations.",self,present,positive,neut,positive,anger
+520,I'm the man!,other,na,neut,na,na,joy
+521,"P.S. If you don't understand exactly what I did (it's a bit technical), just know that it was impressive and I rock.",self,present,positive,positive,neut,joy
+522,"But anyway, so we watched tv during the morning and when 4pm came by, we decided to do laundry and play Burnout 3; I beat his ass!",self,past,neut,neut,neut,joy
+523,LOL.,other,na,neut,na,na,joy
+524,"I guess today was somewhat fun, considering I spent the day with my younger brother.",self,present,positive,neut,neut,joy
+525,"But other than that, I feel really alone right now because it's Friday and I'm home!",self,present,positive,neut,positive,sadness
+526,I haven't really been going out much and it just makes me mad since I told myself this summer I'd make the best of it since I'd be going to university in September.,self,present,positive,neut,neut,anger
+527,"Gosh, in exactly one month school's going to start and boy am I nervous.",other,present,negative,neut,neut,fear
+528,Congratulations- and Welcome to Corporate America- where the Vice Presidents and Senior Officers and Managers don't hibernate-- they walk among you.,other,present,neut,neut,neut,joy
+529,I love it.,self,present,positive,neut,na,joy
+530,I have a 99 average in my class.,self,present,neut,neut,na,joy
+531,I'm LOVING the call center.,other,na,neut,na,na,joy
+532,"When your Trainer comes into the room all smiles after lunch and announces that she moved up ONE level- (From ABT Trainer 1 to ABT Trainer 2) and got a $10,000 salary increase.",other,present,positive,neut,positive,joy
+533,It makes me sick that my trainer is 24.,other,present,negative,neut,na,disgust
+534,The advancement opportunities are just awesome.,other,na,positive,na,na,joy
+535,Spend 1 year answering calls for the Claims spread- and then be free to go to where-ever your heart desires.,other,present,positive,neut,na,joy
+536,I've been staying at Mary's house and she keeps telling me I'd be an awesome mommy.,other,present,positive,positive,neut,joy
+537,I see everyday just how much good that company does.,self,present,positive,positive,na,joy
+538,She never once had a caller that she didn't make laugh- at least once during their call.,other,present,neut,neut,neut,joy
+539,and it's killing me.,self,present,negative,na,na,sadness
+540,I'm starting to fray at the ends- the next step is to break- somethings gotta give and I'm pulling with all my might to keep everything together.,self,present,neut,neut,neut,sadness
+541,I'm tired of broken promises- and empty dreams.,other,na,negative,na,na,sadness
+542,The thread to this relationship is wearing thin- it's on it's last strand- and though he may think it's cool to not do what he says hes going to- it's not cool to me.,other,present,positive,positive,neut,sadness
+543,The worst part is- I love him.,self,present,positive,neut,na,sadness
+544,I love him with every ounce of everything that I am- but try as I might- we just cant' get it together.,self,present,positive,neut,neut,sadness
+545,We're still together- and we still have the opportunity to make things right - - - but I'm a very patient person- and it's been close to 5 years now- and my patience is wearing thin.,self,present,positive,positive,neut,sadness
+546,"Yes, we are having a small celebration today.",self,present,positive,positive,neut,joy
+547,I am always so happy after talking to him!,self,present,positive,neut,na,joy
+548,So they thought they were going for 12 and Wayne thought he was going for 10 and then one day BOOM they are staying for 16.,other,present,neut,positive,neut,surprise
+549,And every sigle one of them are furious.,other,na,negative,na,na,anger
+550,Wayne says that the tension is unreal.,other,present,positive,positive,na,anger
+551,"I told her that she better get on the ball and she looked at me and yawned so maybe that was a yes, lol.",self,past,positive,neut,positive,joy
+552,"That was one of the first things that Wayne wanted to know ""hows alley, has she had the pups"" I think he loves those dogs as much as me! I'll never forget the first tail that he docked by himself (it was Tuff's tail).",self,past,positive,neut,neut,joy
+553,I was so proud.,other,na,positive,na,na,joy
+554,He had watched me dock two litters but still he did a great job.,self,past,positive,positive,neut,joy
+555,But I am still SOOOOO excited that I'll get to see him for 5 days!!!!!!!!,self,past,positive,neut,neut,joy
+556,"""I love Poodie's"" site is so inspiring.",other,present,positive,neut,na,joy
+557,I feel very uninspiring.,self,present,neut,neut,na,sadness
+558,I am going to give it a try and I apologize if it's boring or ugly.,self,present,negative,neut,neut,disgust
+559,Argh!,other,na,neut,na,na,anger
+560,I am currently angry because I want Jarred to take me for DQ Blizzard.,self,present,negative,neut,na,anger
+561,"OH OH OH  he is yelling at me, ""Are you ready to go, already!""",other,present,positive,neut,neut,anger
+562,Three people have been laid off at the office in the past hour.,other,past,neut,neut,neut,anger
+563,I'll miss them and can't say goodbye properly now.,self,future,positive,neut,positive,sadness
+564,&gt;sigh&lt;,other,na,neut,na,na,sadness
+565,I'm excited to move in!,other,present,positive,neut,neut,joy
+566,pretty scweet.,other,na,positive,na,na,joy
+567,lol jk),other,na,neut,na,na,joy
+568,despite the terror.,other,na,negative,na,na,fear
+569,This week was mucho fun.,other,na,positive,na,na,joy
+570,"Haha he's my bestest buddy in Algebra, he had 'abs of steel today', &amp; just for today.",other,na,neut,na,na,joy
+571,Inside joke inside joke.,other,present,negative,negative,na,joy
+572,"Ew, we had this really crappy sub.",self,past,negative,negative,na,disgust
+573,for U.S. history too ! But I love that class [: Walking home is always really fun too.,self,present,positive,neut,positive,joy
+574,"She was just a pain in the ASS &amp; yeeah, sucks to be her.",other,present,negative,neut,na,disgust
+575,"Thursday was like, really fun.",other,na,positive,na,na,joy
+576,"I never really noticed it but Natalie, Ryan, Christan &amp; Leslie are fun to be around with.",self,past,positive,neut,neut,joy
+577,Hahah.,other,na,neut,na,na,joy
+578,Friday was even more fun [: I ended my day in the ASB &amp; yeah.,other,past,positive,neut,neut,joy
+579,Ew.,other,na,neut,na,na,disgust
+580,Hahah.,other,na,neut,na,na,joy
+581,I LOVE HER HOUSE.,self,present,neut,neut,na,joy
+582,"She had all these cool stuff I wanna take, hahah.",self,past,positive,positive,na,joy
+583,We pretty much waisted are money buying 2 Sparkled Water that we though were naasty.,self,present,positive,neut,na,disgust
+584,Fun fun fun.,other,na,positive,na,na,joy
+585,Sucks I didn't bring my camera but yeeah.,other,present,neut,neut,na,disgust
+586,"&amp; I think tomorrow a friend`s coming over ? Not sure who, haha kaay bye.",self,present,neut,neut,neut,joy
+587,I must say this summer has gone by in the blink of an eye.,self,past,neut,neut,neut,surprise
+588,just once I would love to not have to worry about that sort of thing.,self,present,positive,neut,neut,joy
+589,Should be interesting.,other,na,neut,na,na,joy
+590,I was beginning to worry I'de have to put it off for yet another term.,self,present,negative,neut,neut,fear
+591,hey I'll be a rich individual.,other,na,positive,na,na,joy
+592,whoot.,other,na,neut,na,na,joy
+593,I'm really in it just for the money ;).,other,na,neut,na,na,joy
+594,Worry gains you no more minutes to  your life.,other,present,positive,neut,positive,fear
+595,and stress.,other,na,negative,na,na,sadness
+596,society has become just one big stress pool.,other,past,negative,neut,na,sadness
+597,"Our conversations with family, friends, co-workers etc., all seem to revolve around how crappy are day is, has been, or is going to be, and it seems all like we compete with one another to see who has a crappier one.",self,present,positive,neut,na,disgust
+598,"I love my family unconditionally, and cherish every moment with them, even my eldest sister, who pushes me over the edge, but I have developed a certain method inwhich to deal with it.",self,present,positive,neut,positive,joy
+599,"I have to look at life in her perspective, and it would break anyones heart.",self,present,negative,neut,neut,sadness
+600,"To have something inside of you that you cannot control, something foreign that has stolen away your chance of a normal life.",other,present,negative,neut,na,sadness
+601,"being alienated, being alone.",other,past,negative,na,na,sadness
+602,"I have a job where I have come to know some amazing people who have such potential, but possibly will never get to put it to any use due to the cirumstances of the choices in life.",self,present,positive,neut,neut,surprise
+603,but they make my time at work memorable.,other,present,positive,neut,neut,joy
+604,"I am happy with a casual, not serious, no pressure relationship.",other,na,positive,na,na,joy
+605,I frankly would be just as happy alone.,other,na,positive,na,na,joy
+606,"lol, lets just hope I don't run out of time to complete it.",self,present,neut,neut,neut,joy
+607,"One of those 3 will be moving this fall, and the others have an awful lot going on in their lives, in addition to being less available than the first by a long shot anyhow.",other,present,negative,neut,neut,sadness
+608,"I've burned a lot of bridges and engaged in decisions which have hampered my ability to be trusted as much as I'd like to be by some of my friends, and likewise, there have been things which have altered my ability to fully engage some people as well, be they circumstacial or environmental or whatever.",self,past,positive,neut,positive,sadness
+609,"On a ""big picture"" scale, I'd like to believe that I still hold the same value system that I held when I was 18 years old, now a scary half-a-lifetime ago.",self,present,positive,negative,neut,fear
+610,"All in all, I'm satisfied with the bigger picture and angry as fuck at the smaller details, but that's what keeps you going, isn't it?",other,present,negative,neut,na,anger
+611,"Home may be where you hang your hat, but happiness is sometimes found far from home or in the last place you'd even expect to look for it.",other,present,positive,neut,neut,joy
+612,"I think sometimes it can be easy to lose track of the idea that happiness and comfort are two completely separate entities and having one does not guarantee or equal having the other (some of the time, at least.",self,present,positive,positive,neut,joy
+613,"It goes back to that whole journey vs. destination idea, in that some people only mark success by arriving at a goal, while others are capable of enjoying the efforts required to reach that goal as well.",other,present,positive,neut,positive,joy
+614,"Friendship works the same way- some people only appreciate friendships which are productive and goal-oriented, whereas there are also friendships that meander along the way, and each moment can be as interesting and rewarding as the ones before and after.",other,present,positive,neut,positive,joy
+615,I know I'm guilty of that all the time.,self,present,negative,negative,na,sadness
+616,Often we fail to realize what we've lost until something becomes too distant and difficult to regain.,self,present,negative,neut,negative,sadness
+617,"Old wounds fester into something that can't be healed, neglect becomes forgetfulness which then becomes amnesia, and before long you wonder if it ever happened.",other,present,negative,neut,neut,sadness
+618,"It sucks, and it takes effort to keep a swerving friendship from heading down these sort of paths, but the effort far outweighs the consequences of failing to do so.",other,present,negative,neut,neut,disgust
+619,"I can only change my own mind, so whatever efforts I expend have to be met with some sort of equal efforts or the process goes nowhere and frustrates me the entire way.",self,present,negative,neut,neut,disgust
+620,"As of late, it seems that everything my parents do, they do it just to annoy me. They're great parents.",other,present,positive,positive,neut,anger
+621,I love them.,self,present,positive,neut,na,joy
+622,GOD are they annoying me.,other,na,negative,na,na,anger
+623,"I'm not going to go into specifics here, but it almost always ends up in yelling and tears.",self,present,neut,neut,neut,anger
+624,I was thinking about our most recent spat today at dinner and wondering why the hell everything turns out this way.,self,present,positive,neut,neut,anger
+625,"Now, I know that I will reach this place soon enough, but damn it feels like it is taking forever.",self,present,positive,neut,neut,anger
+626,Frenchie Fucked Off.,other,na,neut,na,na,disgust
+627,"Lots of angry costomers with half finished work, a boss who pays for the furniture but has no idea how to run a business.",other,present,positive,neut,na,anger
+628,It's been a week and I'm still really pissed off.,other,past,neut,neut,neut,anger
+629,"I have been TRYING to post for three days, but bloody Spaces was having issues (errors on pages) and I couldn't do it - my Wanker Boss post was due to be posted on Thursday!!",self,present,negative,neut,neut,anger
+630,"Further to that by the way, I did speak to him about it further when he said ""My new food is making me feel really healthy"" - yes considering he'd eated two meals of it, and then gone out to dinner, and Friday was going out to lunch with a friend.",self,present,positive,neut,neut,joy
+631,"But I asked him about WHY he doesn't cook for himself, and he said he just doesn't have enough time.",self,past,positive,positive,na,surprise
+632,The look on my face I think said it all.,self,past,neut,neut,na,surprise
+633,"This is the man who gets into the office at 10:30am, leaves by 3pm, takes 20minutes to get to the office, dry cleans all his clothes, has a cleaner, doesn't have a wife or family to chase after - and he doesn't have time?I explained that I travel 1.5 hours each way, every day to go to work, I go to the gym more than he does, I cook my meals, I have a life, and I have a house to look after.",self,present,positive,neut,neut,surprise
+634,"Let me see - golf, sitting on a beach drinking coffee, bitching about money, being a complete elitest snob.",self,present,negative,neut,na,disgust
+635,great life choices right there.,other,na,positive,na,na,disgust
+636,Urgh.,other,na,neut,na,na,disgust
+637,"I think though, what pisses me most off about the food delivery issue - is that he has chosen the easy ""I don't have to do anything"" option.",self,present,positive,neut,neut,anger
+638,"But since he has chosen this option, it's just really irritating me, because he has no concept of a weight problem - he just is lazy.",other,present,negative,neut,negative,disgust
+639,AARRGGHH!!!,other,na,neut,na,na,anger
+640,"Sorry for the ranting post, but I'm just really annoyed that here I am, struggling with all my internal demons about my weight loss, and someone like this, with no concept of struggle, can just pay someone to lose it for him.",self,present,negative,negative,neut,anger
+641,"She slams on her brakes, stops her car, right in front of me, in the middle of the street, and gets out.",other,present,positive,neut,positive,anger
+642,Then she comes up to me and starts yelling at me.,other,present,neut,neut,neut,anger
+643,"""YOU LIKE ALMOST HIT ME OMG."" she said, tossing her dyed blonde hair like an enraged horse, nostrils flaring.",other,past,positive,neut,neut,anger
+644,"I'm not very nice, not when facing death.",self,present,positive,negative,na,anger
+645,"""OMFG if there is like damage.",other,na,positive,na,na,anger
+646,""" She threatened.",other,past,negative,na,na,anger
+647,"I must admit, I was kind of fascinated by the way her eyes, rimmed in black eyeliner, managed to stay so wide open like that.",self,past,positive,neut,neut,surprise
+648,Finally I got fed up.,other,past,neut,neut,neut,disgust
+649,THis was when the Princess turned into some sort of psychobitch from hell.,other,past,negative,na,negative,disgust
+650,"She grabbed the handlebars of my bike, and tried to push me off.",other,past,neut,neut,na,anger
+651,"Now, people are already honking and stuff because her daddy's lexus is blocking the intersection.",other,present,neut,neut,neut,anger
+652,I got mad.,other,past,negative,neut,na,anger
+653,I hit that bitch so hard.,self,past,negative,negative,negative,anger
+654,"hey, she assulted me. in the middle of an intersection.",other,past,neut,neut,neut,anger
+655,and I was on a fucking BIKE.,other,na,negative,na,na,anger
+656,fucking A.,other,na,negative,na,na,anger
+657,must have been a dye job gone HELLA bad.,other,past,negative,neut,na,anger
+658,And I found out in the most annoying way.,self,past,negative,na,negative,disgust
+659,I walked over to the heater as the first port of call and was very surprised when 'oh!' it wouldn't turn on.,self,past,neut,neut,neut,surprise
+660,"Grrrr - I then spent the next 10 minutes or so turning everything off in the house, switching the safety switch back on, and then sequentially turning everything back on until the safety was tripped.",self,present,neut,neut,neut,anger
+661,"At first one of my housemates thought about possibly buying a new fridge for themselves, but that idea was sadly left behind due to monetary issues.",other,past,negative,neut,neut,sadness
+662,In then end my other housemate's lovely girlfriend (love you heaps babes!),other,present,positive,positive,neut,joy
+663,offered to give us her fridge (woooo!).,other,past,neut,neut,na,joy
+664,"So, we've now gone over 48 hours without a fridge (hate to think what half our food is like in there!)",self,present,positive,positive,neut,disgust
+665,but will joyfully be picking the other one up today.,other,future,positive,neut,neut,joy
+666,Wooo!,other,na,neut,na,na,joy
+667,YAY!,other,na,neut,na,na,joy
+668,"Despite widespread dissatisfaction among Democrats with the Bush administration and overall Republican governance, we detect no real signs so far (at least in Harris County) of a groundswell to actually vote in November.",self,present,negative,neut,neut,anger
+669,"The argument goes that anger nationally over rising gas prices and health care costs, a protracted, expensive war with no conclusion in sight, and a perception among religious conservatives that George W. Bush has failed to deliver on the social issues that motivate them has taken a toll with GOP base voters.",other,present,negative,neut,neut,anger
+670,"As noted in the latest issue of US News &amp; World Report, new polling has Republican insiders feeling pretty darn good about turning out their folks this fall, with confidence that they will vote to return their party's elected officials to power.",other,present,positive,neut,negative,joy
+671,with a smile ofcourse.,other,na,positive,na,na,joy
+672,we're friends and lovers and everything inbetween that.,other,na,positive,na,na,joy
+673,"so no i wont have my head too high up my ass about it, but im noot going to sit here and think/dread it everyday either.",self,present,neut,neut,neut,fear
+674,i will cherish him ad love him and let him know im there and i care for him everyday that we have together.,self,present,positive,neut,neut,joy
+675,"stephen was a little abusive, mainly with words and feelings directed at me / to make me feel bad.",self,present,negative,neut,neut,sadness
+676,"chris had a problem with words too,and his anger.",other,past,negative,negative,na,anger
+677,other than that hed get offended or pissed off or ignorant about it.,other,past,negative,na,na,anger
+678,stupid ass hole!,other,na,negative,na,na,anger
+679,"gudam, why did i waste so much time on his sorry ass?",self,present,negative,neut,negative,anger
+680,Haven't seen him in ages.,other,past,neut,neut,neut,surprise
+681,"Hm, was a bit weird.",other,na,negative,na,na,surprise
+682,We had a good lunch with Gino Genelli ice-cream!,self,past,positive,positive,na,joy
+683,"(However you spell the Genelli part) Ah, we talked about Anri's ex and her mom mentioned how Anri was angry with her dad the one time the ex visited, cos her dad kept him busy most of the day.",self,past,negative,neut,neut,anger
+684,Anyhow her dad asked her then at the table but why would you be angry with your dad.,other,past,negative,neut,neut,anger
+685,"""Whahahaha"" I nearly cracked myself and don't think I didn't blush.",self,present,negative,neut,negative,joy
+686,That was funny.,other,na,negative,na,na,joy
+687,Everyone at the table was giggeling.,other,present,neut,neut,na,joy
+688,"That be the only reason, cos everyone is scared of driving with me.  >.> Don't ask.",other,present,negative,neut,negative,fear
+689,Now that was fun.,other,na,positive,na,na,joy
+690,Funny photo's came out there.,other,past,neut,negative,na,joy
+691,LOVE IT!,other,present,neut,neut,na,joy
+692,cake ^.^ ICE-CREAM!,other,na,neut,na,na,joy
+693,Coffeee and dark chocolate!,other,na,negative,na,na,joy
+694,Really sad how we can actually sit and wonder in your one hand is God and the other hand is a movie.,self,present,positive,neut,neut,sadness
+695,so we went and it was nice to be there!,self,past,positive,na,na,joy
+696,"Didn't think she would do it, but hey!",other,present,neut,neut,neut,surprise
+697,"No, I'm not a stupid chick for those of you that may be wondering.",other,present,positive,na,positive,disgust
+698,"I have a friend that is gonna die, probably sooner than later, and I was  angry because some of the choices he has made in the last few years have cut his time down to virtually nothing.",self,past,negative,neut,neut,anger
+699,You have wonderful friends that love and cherish you.,other,present,positive,neut,na,joy
+700,Then things start to take a turn in an unexpected direction.,other,present,negative,neut,negative,surprise
+701,"Think constant arguing,  lies and deception, money mismanagement, and infidelity.",other,present,negative,negative,na,anger
+702,The recruiter comes in the office with a look of sadness and disappointment.,other,present,negative,na,negative,sadness
+703,You begin to prepare yourself to hear bad news and immediately go into self preservation mode to plan out your next move.,other,present,negative,negative,neut,sadness
+704,"He begins to speak while you're planning, ""I'm sorry to have to tell you this(ok, I can move back home for a while and go back to school and work on my degree.",self,present,positive,neut,neut,sadness
+705,"This is the story as it was given to me, and when I heard it I was pissed.",self,past,neut,neut,na,disgust
+706,lol).,other,na,neut,na,na,joy
+707,So imagine my surprise  when I was about to engage in activities with him and saw an of color coming from you know where.,self,present,neut,neut,na,surprise
+708,"I'm like, ""For what?""",other,na,positive,na,na,surprise
+709,"Really, what did make me think that?",self,present,neut,neut,neut,surprise
+710,"I would have given this man, who obviously had little regard for me, my life in exchange for his bullshit and lies.",self,past,negative,positive,neut,disgust
+711,"Fortunately, my test results came back negative for both gonorrhea and HIV.",other,past,negative,neut,positive,joy
+712,"I was of course thankful, but I realized something very important during that time.",self,past,positive,positive,neut,joy
+713,I realized that my life belongs to me.  Fuck the bullshit.,self,past,negative,negative,na,disgust
+714,"The second reason I was pissed was because not only was my friend is dying from this disease and has had it the entire time that we have been friends, but to my knowledge has not taken the appropriate care of himself that a person with HIV should be taking.",other,past,positive,neut,neut,anger
+715,I wonder what changed his mind about that?,self,past,positive,neut,neut,surprise
+716,"But I think about it alot, and I wonder exactly when did he decide to die?",self,present,positive,neut,na,surprise
+717,im going to be trashed.,other,past,negative,neut,negative,anger
+718,even tho i have work on monday which is my bday cause shop rite sucks my dick.,self,present,negative,negative,na,disgust
+719,im usually always so pumped for my bday.,other,past,neut,neut,neut,joy
+720,it just sucks when everything youve known for years just disappears.,other,present,negative,neut,neut,disgust
+721,i miss myrtle beach.,self,present,negative,neut,na,sadness
+722,i cried on the way home from myrtle.,self,past,negative,na,negative,sadness
+723,im hearbroken &lt;/3.,other,na,neut,na,na,sadness
+724,im just annoyed.,other,na,negative,na,na,anger
+725,since everyone i wanted to get an apt with is now moving 29857938475 miles away all b/c of a freaking deadline.,self,present,negative,neut,negative,fear
+726,Hahaha!,other,na,neut,na,na,joy
+727,"Well, I'm surprised that I actually found it.",self,past,neut,neut,neut,surprise
+728,Hahaha!,other,na,neut,na,na,joy
+729,I so missed all the cool people I met at SHS!,self,past,positive,positive,neut,sadness
+730,"One of my most surprising observations about this whole ritual thing is how much easier it was to establish new rituals when I was on location, as opposed to being at home.",other,past,positive,neut,negative,surprise
+731,But I do know the perils of a life devoid of ritual.,self,present,negative,negative,neut,fear
+732,"but alas, they aren't (yet).",other,past,neut,neut,na,sadness
+733,"but when I started thinking about things I do regularly that I enjoy, that's definitely one of them.",self,present,positive,neut,neut,joy
+734,* A ritual I absolutely adore is going to the outdoor screenings at the Hollywood Forever Cemetery during the summer.,self,present,positive,na,neut,joy
+735,"* When I'm NOT working, I have been known to take myself to brunch on the weekends: just me and whatever novel I'm currently enjoying.",self,present,positive,neut,positive,joy
+736,This is not good.,other,na,positive,na,na,sadness
+737,"* I'm happy to taste any new flavor of ice cream (I love to try new flavors!), but when it comes to ordering, it's always Mint Chip.",self,present,positive,neut,na,joy
+738,* My fear of insomnia keeps me from going to bed when I'm really tired.,other,present,negative,neut,na,fear
+739,"""The image of cartoonist after cartoonist sitting at folding tables selling comic books is truly a pathetic one.",other,present,negative,neut,na,sadness
+740,It can be ego-crushing when no one comes to buy anything.,other,present,neut,neut,negative,sadness
+741,"- Bart Beaty, whom I had the pleasure of meeting at the show, from his Conversational Eurocomics column on what SPX could learn from some European conventions",self,past,positive,positive,neut,joy
+742,"I really enjoyed myself at SPX, that delightsome Bethesda megamall of rare and exclusive purchases and the men and women who brought the wares about.",self,past,positive,neut,neut,joy
+743,"I met an awful lot of fine creators, but I hated taking up much of their table time; heaven knows by the afternoon there's a swarm of people waiting to trudge through the byways between tables, and one thousand distractions to attend to.",self,present,positive,neut,neut,disgust
+744,"I love walking around for things to buy, and traveling less than two hours to arrive at the comics spread of my dreams won't raise too many personal hackles, let me tell you.",self,present,positive,neut,neut,joy
+745,"I'm also really glad I had Chris with me, since he knew a lot of faces that I didn't; he made a fine guide, though one of us would occasionally wander away from the other in the vein of the old NES version of Who Framed Roger Rabbit?, though I'm unsure as to which one of us was Bob Hoskins.",self,past,positive,neut,neut,joy
+746,"The Chippendale talk was different, a highly entertaining, digression-prone ramble by the artist through his history and procedure, moderated by Dan Nadel and with extra bonus contributions from Brian Ralph, who was seated in the back of the room.",other,past,positive,positive,neut,joy
+747,"Awakening Comics #1-2 by Steve Peters &amp; friends (I reviewed his The Origin of Sparky a few weeks ago; having walked away from the table, and indeed the entire convention, I suddenly realized that I'd forgotten to actually tell Steve Peters who I was - another triumph of intellect!)",self,past,positive,positive,neut,surprise
+748,So it was a nice trip.,other,na,positive,na,na,joy
+749,"A lot of good things to have, and good hands to shake.",other,present,positive,na,na,joy
+750,"Some of my girlfriends have found it a little strange; I think it's one of the reasons they break up with me in the end, as if they need anymore reasons.",self,present,negative,negative,neut,surprise
+751,"But it was a good read, and if I did have a dream where I had sex with my mother, well, now I'd know what it means.",self,present,positive,neut,neut,joy
+752,"I weigh about 180 lbs, I'm about 5', 10"", I don't have anything that seems to be wrong with me. I have these weird scars on my neck.",self,present,negative,neut,neut,surprise
+753,"I remember every second, every horrific moment leaning over a toilet and puking.",self,present,positive,positive,positive,fear
+754,"I, on the other hand, have nothing to go home to.",self,present,neut,neut,neut,sadness
+755,I suppose the cold should annoy me. But it doesn't. I begin to take off my shoes.,self,present,negative,neut,negative,disgust
+756,People stare as I dangle my feet into the lake in October.,self,present,neut,neut,neut,surprise
+757,What a suck-ass day this turned out to be.,other,past,neut,neut,na,disgust
+758,Work was fucked up.,other,past,negative,positive,na,disgust
+759,Like Alice in Wonderland on a bad acid trip fucked up.,other,past,negative,negative,negative,disgust
+760,"Mind you, I've been treated like the asshole of the house for the past couple of weeks, and I didn't even do anything at all to deserve it.",self,present,positive,neut,neut,anger
+761,"And then one of them played a song that made me think of my mom, and suddenly, I'm so depressed that all I want to do is go curl up in a ball and die.",self,present,negative,neut,na,sadness
+762,And now the MAIN instigator in the house has come home.,other,past,negative,negative,neut,anger
+763,"This last week at school was nuts- it was the first time that I can remember where I was putting in the hours in the lab, really busting my ass- classes are going well and I feel like it all ties in- which I really like.",self,present,positive,neut,neut,anger
+764,"I'm sure by now most people heard about the really sad disappearance and murder of Michelle-Gardner Quinn, a UVM student.",other,past,negative,na,na,sadness
+765,It's pretty awful- there's not much else to say about it.,other,present,positive,na,neut,sadness
+766,I found out about it on the way to Boston this weekend and I was just shocked.,self,past,negative,neut,neut,surprise
+767,Even just this last week there is a definite change in atmosphere around these parts that is pretty sad.,other,na,positive,na,na,sadness
+768,I really can't imagine what her family and friends are going through right now because it's a really unnecessary situation- she did not have to die and that's probably the saddest part.,self,present,negative,neut,neut,sadness
+769,It was so fun seeing everyone from way back- we ran into Eric and went out to see Michele so it was just so fun.,self,past,positive,neut,positive,joy
+770,My brother turns 16 on Wednesday (how.weird.),other,present,neut,neut,neut,surprise
+771,and I am excited about the little booger haha.,other,na,positive,na,na,joy
+772,My mom would be so proud of me.,other,na,positive,na,na,joy
+773,i didn't see her on Wednesday so i was surprised to find her at the shelter this morning.,self,present,neut,neut,neut,surprise
+774,i was surprised to see her sitting so still; spastic switch must have been turned off.,self,past,neut,neut,neut,surprise
+775,It was fun-filled!,other,past,neut,neut,na,joy
+776,He cried.,other,past,negative,na,na,sadness
+777,"lol [they are cute brothers, no?]",other,na,positive,na,na,joy
+778,I was scared to see him with a knife.,self,past,negative,neut,negative,fear
+779,This smile made me more scared.,other,past,positive,neut,na,fear
+780,He first tore up the toy car.,other,past,neut,neut,neut,anger
+781,:D It was really yummy!,other,na,neut,na,na,joy
+782,I think he has a crush on me. XD,self,present,negative,negative,na,joy
+783,I adore her with all my heart.,self,present,positive,neut,positive,joy
+784,"This goes to show you have a bigger heart than I, Mango dearest.",other,present,neut,neut,neut,joy
+785,This event was sooo fun!,other,na,positive,na,na,joy
+786,It was like an exciting adventure where we walked 6 miles in the cold!,self,past,positive,negative,positive,joy
+787,"Alex, you suck.",other,present,negative,neut,na,disgust
+788,"Anywho, this balloon man was awesome!",other,na,positive,na,na,joy
+789,"Anywho, I got really interesting fortunes!",self,past,positive,positive,na,joy
+790,"""Someone unexpected from your past with resurface.""",other,present,negative,negative,na,surprise
+791,[and guess what!,other,present,neut,neut,na,surprise
+792,I haven't seen her in like two years!,self,past,positive,neut,positive,surprise
+793,"Then, another someone unexpected too.]",other,na,negative,na,na,surprise
+794,"As for Eff, he got ""You will find the road to happiness by helping others.""",other,past,positive,neut,neut,joy
+795,It was pretty good.,other,na,positive,na,na,joy
+796,Our first conversation was an argument in English class.,other,na,neut,na,na,anger
+797,Anywho~ Today was fun.,other,na,positive,na,na,joy
+798,I am going to do the AIDS walk again next year for fun.,self,present,positive,neut,neut,joy
+799,"Regardless of my temporal status as far as my brother is concerned, time still moves ahead at a frighteningly rapid pace.",other,past,negative,neut,neut,fear
+800,"No, not the new first season, the William Hartnell black and white forty years ago suck it I'm the first Doctor first season.",other,present,negative,neut,na,disgust
+801,I assumed that with my niece in New York and my sister working a weekend job to keep her there that it would just be my mother and I; little did I know that she invited my sister-in-law to accompany us.,self,present,positive,neut,na,surprise
+802,"On the plus side, the home tour put me in the holiday spirit.",other,past,neut,neut,neut,joy
+803,This week I am totally going to start my Christmas shopping.,self,present,neut,neut,neut,joy
+804,"And on that note, enjoy the remainder of your Sunday.",other,present,positive,neut,positive,joy
+805,I can't believe it!,self,present,neut,neut,na,surprise
+806,It's amazing.,other,na,positive,na,na,joy
+807,Wow.,other,na,neut,na,na,joy
+808,The Coliseum (or Colosseo) was awesome.,other,na,positive,na,na,joy
+809,"That it is still standing for us to see is.  well, I feel very lucky.",self,present,positive,neut,positive,joy
+810,Amazing.,other,na,neut,na,na,joy
+811,"It was beautiful, and FULL of people and tour buses.",other,na,positive,na,na,joy
+812,Inside was stunning- and FULL of people.,other,na,neut,na,na,surprise
+813,And then we realized- there was Mass going on!,self,past,neut,neut,neut,surprise
+814,I can't believe they do that!,self,present,neut,neut,neut,surprise
+815,It's so rude!,other,na,negative,na,na,disgust
+816,Last night we met an Australian couple at our hostel and had a nice chat.,self,past,positive,neut,neut,joy
+817,It's pretty cool.,other,na,positive,na,na,joy
+818,"So anyway, Rome in general was loud, dirty and absolutely chock-full of people and cars and bikes.",other,na,negative,na,na,disgust
+819,What the hell am I going to do when I get back home?,self,present,negative,neut,neut,anger
+820,These questions completely depress me.,other,present,negative,neut,negative,sadness
+821,so i've discovered a new superpowe (and yes i do have others).,self,past,neut,neut,na,surprise
+822,i can dream and earthquake and it'll actually happen!!!,self,future,neut,neut,neut,surprise
+823,"then he calls again and, knowing that's the international sign for ""pick up the frickin' phone,"" i picked it up thinkin' there was something wrong with him.",self,present,negative,neut,neut,anger
+824,"huh, news travels fast.",other,present,positive,na,positive,surprise
+825,THEY called me. i just wanted to frickin' sleep!,self,past,neut,neut,neut,anger
+826,"all in all, an interesting sunday.",other,na,positive,na,na,joy
+827,all my plans were shot to shit 'cause the cell waves were all packed and i couldn't get in touch with my friends very well.,self,present,positive,neut,positive,disgust
+828,useless day.,other,na,negative,na,na,disgust
+829,this fuckers don't go down too easy.,other,present,positive,neut,positive,anger
+830,what surprised me most (geekin' it up) was the frequency of the rumbles.,other,past,neut,neut,na,surprise
+831,the amount of energy required to move that much mass SUSTAINED at such a high frequency is ridiculous.,other,past,negative,neut,neut,surprise
+832,"I take a seat in the armchair across from Karina, and while she's talking, a face appears in the window behind her, grinning and waving enthusiastically.",self,present,positive,neut,positive,joy
+833,"I jump, shrieking a little before I realize it's only Kubik.",self,present,negative,neut,negative,surprise
+834,"Haha, except nicer.",other,na,positive,na,na,joy
+835,A compliment from a trendy teenager can brighten up anyone's day.,other,present,positive,neut,positive,joy
+836,"The three of us find our way to the Spy Museum and I'm surprised by the number of young couples who are there, in addition to the usual elderly tourists and young families.",self,present,neut,neut,neut,surprise
+837,It was cute.,other,na,positive,na,na,joy
+838,I do love the Chun Li pictures I found.,self,past,positive,neut,na,joy
+839,She's always been one of my favorite video game characters.,other,na,positive,na,na,joy
+840,maybe it's because she can beat the living shit out of guys heh.,other,present,negative,negative,neut,joy
+841,"I love her outfit as well, except I think the laughing after she wins a fight in street fighter is kind of silly, but that's just me. Kikyo, from the Inuyasha series, has been another favorite of mine.",self,present,positive,neut,positive,joy
+842,LOL.,other,na,neut,na,na,joy
+843,;) love u hun.,other,present,positive,neut,na,joy
+844,"She is also very strong and keen, but carries the scars of her past.",other,present,positive,negative,na,sadness
+845,Appleseed is another Anime movie I loved.,self,past,positive,neut,na,joy
+846,They were on a special and heh.,other,na,neut,na,na,joy
+847,"I believe she entered in $17.88, instead of $18.88, so I got an unexpected discount.",self,past,negative,negative,neut,surprise
+848,It feels so nice after a long workout.,other,present,positive,positive,neut,joy
+849,It works great and I really like it.,other,present,positive,positive,na,joy
+850,*smiles* he said I looked cute as always.,self,past,positive,positive,neut,joy
+851,I'm sorry and I will get more focused.,self,past,negative,neut,neut,sadness
+852,Things I cannnot win,self,present,positive,positive,na,sadness
+853,Is I'm sorry for the way I am,other,na,negative,na,na,sadness
+854,And I'm sorry about all the lies,other,na,negative,na,na,sadness
+855,I guess for me theres just no hope,self,present,neut,neut,na,sadness
+856,*smiles* I will beat this thing.,self,future,neut,neut,neut,joy
+857,*huggles to you all*,other,na,neut,na,na,joy
+858,"As I have said before I am happily not taking a class this semester, but these two particular functions were ones that were not to be missed.",self,past,positive,neut,neut,joy
+859,The entire enterprise was done as a surprise to Damo (our name for Father) and he was genuinely touched and surprised by the affair.,other,past,neut,neut,neut,surprise
+860,"I do miss them so very much, though I don't miss class at all.",self,present,negative,neut,negative,sadness
+861,We had a wonderful time.,self,past,positive,positive,na,joy
+862,How cool was that?,other,na,positive,na,na,joy
+863,Denis' class on Creed were having a quiz on Heresies in the early church on Saturday morning I was more than happy to be returning home Friday night.,other,present,positive,neut,neut,joy
+864,"Five minutes is all you need, so grab a glass of your favorite wine, and enjoy your newfound knowledge!",other,present,positive,neut,na,joy
+865,"It's my world, a place where music in endless forms and varieties give me an entire lifetime of listening pleasure.",self,present,positive,positive,na,joy
+866,"Our first composers were mostly supported by the church (surprise!), and religion influenced early classical music more than any other source.",other,past,positive,neut,neut,surprise
+867,Just kidding.,other,na,neut,na,na,joy
+868,"This surprised me, because I know from TV ads that Ron Saxton is running for something or other.",self,present,neut,neut,neut,surprise
+869,ugh.,other,na,negative,na,na,disgust
+870,finding this out is almost as fun as finding out the effects of placing one's hand down a working garbage disposal unit.,other,present,positive,neut,na,joy
+871,:D!,other,na,neut,na,na,joy
+872,i don't want to make a mistake that i can't undo.,self,present,negative,negative,neut,fear
+873,"i don't want to burn any bridges, incase i've crossed the wrong one.",self,present,negative,negative,na,fear
+874,my paranoia really knows no bounds,other,present,negative,neut,neut,fear
+875,this amuses me so very much.,other,present,positive,neut,positive,joy
+876,"it makes me sad, she's a tough old bird but she's just 'not home anymore'.",other,present,positive,neut,na,sadness
+877,"you know the one, where it has a shocked expression w/ pumpkin guts coming out of its mouth",other,present,negative,negative,na,surprise
+878,and handling of pumpkin guts which is double fun esp. when you have a squimish person working w/ you XD,other,present,positive,positive,na,joy
+879,i miss hugs,self,present,positive,positive,na,sadness
+880,but im still laughing a lot.,other,present,neut,neut,neut,joy
+881,"things make me laugh here, esp. my roommates.",self,present,neut,neut,neut,joy
+882,speaking in thrid person amuses kerstin!,other,present,positive,neut,neut,joy
+883,surprising i know.,self,present,neut,na,na,surprise
+884,nothing else happened in the dream we just cuddled and it was real sweet.,other,past,positive,neut,neut,joy
+885,"Seeing a scarred, bearded man in a rippling black overcoat warmed my heart, because his fingers were painting a trembling solo on his acoustic guitar.",other,present,positive,neut,neut,sadness
+886,"""Oh,"" he said, and smiled.",other,past,positive,neut,na,joy
+887,i was very disappointed.,other,na,negative,na,na,sadness
+888,"those pegs are hard to push back in, especially the E string peg, that was a real bitch.",other,present,negative,na,na,anger
+889,that would be pretty sweet.,other,na,positive,na,na,joy
+890,"i suck when im drunk, i just get dizzy and fall asleep, so once i was finished making an idiot of myself at the bar i dozed for hours on mikes couch.",self,present,negative,neut,negative,disgust
+891,and disgusting!,other,na,negative,na,na,disgust
+892,I love the show because I learn so much.,self,present,positive,neut,positive,joy
+893,"Markets do not measure everything accurately, and I find this assumption to be disgusting.",self,present,positive,neut,positive,disgust
+894,"And the Walmartisation of the world changes markets for the worse for labour, making people a mere slot in a computerised schedule, with no regard for their free time.",other,present,positive,neut,positive,anger
+895,"Forcing the world into markets is exactly what creates so many problems in the world (*ahem* people are at war with us over it, you know).",other,present,negative,neut,neut,anger
+896,It is dangerous to force everything into a market mentality.,other,present,negative,neut,na,fear
+897,Who is going to buy this sort of prediction and 'futures'?,other,present,neut,neut,neut,anger
+898,How disgusting would it be to see 9/11 turn into a 'market'?,other,present,negative,neut,na,disgust
+899,And who would be the bastard who profits off of the destruction of my workplace and life?,other,present,negative,negative,na,anger
+900,"And, I do ask, who profited from 9/11 in the first place?",self,past,neut,neut,neut,anger
+901,The answers are dispicable.,other,na,neut,na,na,disgust
+902,"Plus, in such a secretive government, wouldn't this promote corruption?",other,present,negative,negative,na,anger
+903,The selling of top secret documents to profit off of the killing of 150 people in a mosque?,other,present,positive,negative,na,anger
+904,And there's really no reason to encourage those who can afford to gamble on this sort of thing to do something so dispicable and amoral.,other,present,positive,neut,positive,disgust
+905,It is sickening.,other,present,negative,neut,na,disgust
+906,"There is so much room for the worst of humanity in doing things like this, let's not encourage it, please!",other,present,positive,neut,positive,disgust
+907,I shudder to think.,self,present,neut,neut,na,fear
+908,Joementum manages to dive on the recent threat-ish that emerged from Britain and turn it all around to make a comment on Ned and the democrats.,other,present,neut,neut,neut,fear
+909,"""I'm worried that too many people, both in politics and out, don't appreciate the seriousness of the threat to American security and the evil of the enemy that faces us,"" Mr. Lieberman said at the Waterbury event.",other,present,negative,negative,neut,fear
+910,"He called that threat ""more evil, or as evil, as Nazism and probably more dangerous than the Soviet Communists we fought during the long cold war.""",self,past,negative,neut,negative,fear
+911,"To suggest that a couple of disorganized idiots trying to replicate Yousef's 1995 plot is more evil and more dangerous than what they did is beyond off-base, beyond stupid.",other,present,negative,negative,na,disgust
+912,It's flat-out disgusting.,other,na,negative,na,na,disgust
+913,"Another apocalyptic vision last night: wandering through large rooms that are stuffy and crowded with people lying on the floor covered with sheets, most of them separate from each other.",other,past,negative,neut,negative,fear
+914,"Some aggressive people with mean faces and nasty attitudes staking out their turf, telling us to move along.",self,present,negative,neut,neut,anger
+915,"Oh, and I think I made the security guards really nervous - like I was going to blow my runny nose on the Renoir and forever ruin it with my bodily fluids.",self,present,negative,neut,negative,fear
+916,They didn't like me very much.,other,present,positive,neut,positive,disgust
+917,I was excited to see it as I have a fondness of cadavers (blame Gross Anatomy) and really wanted to get another shot at some up close anatomy viewing.,self,present,positive,neut,neut,joy
+918,"A glenoid-humoral joint."") Some of the exhibits were very interesting, such as  the soccer player and the skateboarder.",other,na,positive,na,na,joy
+919,"In Gross Anatomy, our cadavers were solemn - laying on the tables as if in a deep slumber.",other,present,negative,neut,na,sadness
+920,Seeing the body in action was very interesting.,other,present,positive,neut,na,joy
+921,Also interesting were the cases of organs - healthy and diseased.,other,na,positive,na,na,joy
+922,The odd thing about Body Worlds is that it goes from being an anatomy exhibit to being a sort of Cadaver Carnival of Bizarre Art.,other,present,negative,neut,na,surprise
+923,"The general public also has a chance to look at diseased organs (something usually reserved for pathologists, who, I've noticed, seem to get *very* excited over things like polyps and necrosis.)",self,present,positive,neut,neut,joy
+924,"However, for me, the more ""artistic"" exhibits were more of a turn off - I willingly admit that I was very attached to my cadaver in Gross, and the thought of him being displayed like that makes me a bit sick.",self,past,positive,neut,neut,disgust
+925,I dislike feeling ill. Especially when I had plans for the weekend.,self,past,negative,neut,neut,disgust
+926,I'm still being bothered by the craziest smells.,other,past,negative,neut,negative,disgust
+927,"which of course, makes me feel nauseous.",self,present,neut,neut,neut,disgust
+928,"Besides all of that, I've been feeling great.",self,present,positive,positive,neut,joy
+929,"I was able to tell all of the teachers at school that I am pregnant, so it's been fun to hear all of their pregnancy stories.",self,present,positive,neut,neut,joy
+930,"Since school is just starting, we've been eating a lot, and it's funny because they are letting me get away with going first saying I am eating for two.",self,present,negative,neut,neut,joy
+931,"The most exciting time of my whole summer was going to Virginia with the Patricks, Pearsons and Roths, and that lasted less than a week.",other,past,positive,neut,positive,joy
+932,"I don't except them to, because my Dad is taking my brother golfing (as previously stated), and my mother hates the mall more than she hates anything else.",other,present,neut,neut,neut,disgust
+933,He keeps yelling and pounding his feet on the floor.,other,present,neut,neut,neut,anger
+934,"As you can tell, my day has been nothing short of tremendous.",other,present,neut,na,neut,joy
+935,"It looks like somebody puked up several golds and pinks, and then pasted it on a canvas.",other,past,positive,positive,neut,disgust
+936,"My cat, Roxie, is very nervous.",other,na,negative,na,na,fear
+937,It's pretty disgusting.,other,na,positive,na,na,disgust
+938,i freakin hate when you get in a bad mood and its not just one thing.,self,present,negative,neut,negative,disgust
+939,its just kinda just a bunch of little things and then you get sad and you just want to go cry and just be away from reality.,other,present,negative,neut,neut,sadness
+940,"and im not trying to be mean but if i say i dislike someone and you are like ""why why why"" and i try to explain but you're just like ""thats stupid you shouldnt dislike her"" it pisses me off if i have to defend myself for disliking someone.",self,present,negative,neut,negative,disgust
+941,and that's one of the only people i highly dislike.,other,na,negative,na,na,disgust
+942,actually thats the only person i highly dislike.,other,present,negative,negative,neut,disgust
+943,i mean i have my reason to dislike someone and you shouldnt question them cuz you arent me and you dont know and just stop.,self,present,negative,neut,neut,disgust
+944,cuz i hate tryin to prove myself to everyone.,self,present,negative,neut,negative,disgust
+945,i consider myself a nice person and i should have the right to dislike some people.,self,present,positive,neut,neut,disgust
+946,"Luckily, it stopped in time for the lesson.",other,past,neut,neut,neut,joy
+947,"I love the song ""Absolutely Everybody"" ever since the parade.",self,present,positive,neut,na,joy
+948,Not to mention I find her to be incredibly intimidating(sp?),self,present,positive,positive,neut,fear
+949,The second day I went in and I was so paranoid.,self,past,negative,na,neut,fear
+950,"OF course I was stressing it too much because as the day proceeded, I began to feel myself becoming more and more comfortable with everything.",self,present,positive,neut,neut,fear
+951,"My change was exact down to the last penny, what a relief that was for me lol.",other,na,positive,na,na,joy
+952,That is going to suck so much.,other,present,negative,neut,negative,disgust
+953,HORRIBLE.,other,na,neut,na,na,disgust
+954,I'm definately done bitching for now.,self,past,neut,neut,neut,disgust
+955,"Thus, Statistics, mandatory Spanish, and the public speaking class I've been in this summer were the three classes I've assumed were most likely to potentially drop my GPA.",other,present,neut,neut,neut,fear
+956,"None of this is really an achievement of course, but it is nice to know that I seem to be improving in areas which were previously more difficult.",other,present,positive,neut,positive,joy
+957,I dislike the idea of having gaps in my ability; it's the same need for balance that leads to me trying to further develop my natural cross-handedness into ambidexterity.,self,present,positive,neut,neut,disgust
+958,"A little unfortunate, but at least it saves me from actually walking there.",self,present,negative,neut,neut,sadness
+959,"While I've got every faith in my employees abilities, I wouldn't like to think about what could happen if.",self,present,positive,positive,neut,fear
+960,"I sent the last one that came around off with such a red face, it was a wonder he didn't pass out!",self,past,positive,neut,neut,surprise
+961,"It's good that I'm old enough to learn lessons on my own and not from others, either by teaching or example, because people are stupid.",self,present,positive,neut,na,joy
+962,"I finally snapped and yelled out the door at the last two ""DOES ANYONE WASH THEIR FRIGGING HANDS AFTER USING THE BATHROOM ANYMORE??""",self,past,neut,neut,negative,anger
+963,"Disgusted, I dried my hands, walked out, and yelled ""PIGS!"" toward the Burger King where a number of them had congregated for a late lunch.",self,past,neut,neut,neut,disgust
+964,Lovely.,other,na,neut,na,na,joy
+965,"While I have no doubt whatsoever that my equipment is clean and disease free (I devote at least as much attention to cleaning that as I do my hands; any women dating these boys should be weary of the possible filth that probably accompanies sexual relations with him if he can't even take care of his hands), I cannot say the same for others, and cannot vouch for where their hands have been prior to touching the same surfaces that I have, such as the toilet seat, flush lever, and door handles.",self,present,positive,neut,positive,fear
+966,"Hey assholes, explain to your children where their cold sores came from: ""Daddy didn't wash his hands in the restroom, then he cleaned the ketchup off your face, and now you have herpes.""",other,present,negative,neut,neut,anger
+967,Wash your damned hands.,other,present,negative,negative,na,anger
+968,Simply entering one should make you feel dirty and in want of a shower.,other,present,negative,neut,neut,disgust
+969,"But it was nice to get out to the movies with Holly, I don't get to see her very much at all in any role other than as ""mom"", and as a single male with no kids, it's hard to associate myself with ""parents.""",other,present,positive,neut,neut,joy
+970,"Not that Erin has a problem, she loves kids and works with them, but I've never honestly been much of a kid person.",other,present,positive,neut,positive,joy
+971,"You can't beat them, you can't yell and foam at the mouth, but you can't ignore it either.",other,present,negative,neut,neut,anger
+972,"But unlike that said territory, children grow-up at some point, and most at least realize that you can't just go around pissing people off.",other,present,neut,neut,neut,anger
+973,The movie itself sucked.,other,past,negative,neut,na,disgust
+974,Tricky bastards.,other,na,negative,na,na,disgust
+975,"The plot was just full of loopholes, there wasn't even any gratuitous boobage that you might otherwise associate with a Hollywood movie that stars an entire cast of nothing but athletic women.",other,present,negative,neut,neut,anger
+976,But this one was just full of plot holes that you could drive a truck through.,other,present,negative,neut,neut,anger
+977,So how the holy fuck did the cave-dwellers get a MOOSE through?,other,past,positive,neut,na,disgust
+978,"You explore for a little bit, then WHOOPS!",other,present,neut,neut,na,surprise
+979,Hell no.,other,na,neut,na,na,anger
+980,"After the movie and the subsequent discussion as to all the different ways it was just simply retarded, we came back to the house and watched TiVo.",self,past,negative,neut,negative,disgust
+981,"It's alright, it's like American Choppers in that I enjoy it if there's really nothing else to watch.",self,present,positive,neut,positive,joy
+982,"Major Victory is entertaining, but he's got an old-school look to him, like the original Batman or Superman.",other,past,positive,neut,positive,joy
+983,"Cue ""Our Lady Peace - Superman's Dead"", good song.",other,present,positive,positive,na,joy
+984,"""Do you worry that you're not liked?",other,past,positive,positive,positive,fear
+985,"You're happy cause you smile, but how much can you fake?",other,present,positive,neut,negative,joy
+986,"The turnpike was nuts, every asshole from Jersey and Connecticut was apparently heading to Canada.",other,present,neut,neut,neut,disgust
+987,It kind of sucked.,other,past,negative,neut,negative,disgust
+988,"So back on the pike, putting up with traffic, speeds picked up to well above where they should have been, things cleared a little north of Lewiston, a little more above Augusta, but it was still pretty frigging busy all the way up.",other,past,positive,neut,positive,anger
+989,So I'm not doing shit unless absolutely necessary.,self,present,negative,negative,neut,disgust
+990,I'm so proud of myself.,other,na,positive,na,na,joy
+991,"Yeah, cocky, supercilious Marco Starnoni who eats as if he had been walking in the desert feasting on nothing but manna for forty years.",other,present,negative,neut,negative,disgust
+992,Pete Rose knocks Ray Fosse into baseball lore and permanantly knocks his shoulder into a somewhat more precarious place.,other,present,negative,neut,negative,fear
+993,"Yes, injuries can happen but, as a former catcher, it's the most exhilarating play in sports.",other,present,positive,negative,neut,joy
+994,That was kind of funny.,other,na,negative,na,na,joy
+995,I remember walking off the field disgusted with myself.,self,present,negative,neut,negative,disgust
+996,"I liked that, I am really happy to be able to ride again.",self,past,positive,neut,na,joy
+997,Bonus!,other,na,neut,na,na,joy
+998,"I was pretty bummed out, because it meant they put a hold on my cheque, I hate when they do that, what's the bloody point?",self,past,negative,neut,negative,anger
+999,Especially when it's a bloody government cheque.,other,na,negative,na,na,anger
+1000,"He's not ignorant, just old fashioned (which is pretty damn rare.)",other,past,negative,na,na,disgust
+1001,I pride myself on listening to a wide variety of music.,self,present,positive,neut,positive,joy
+1002,I swelled with pride.,other,past,positive,neut,positive,joy
+1003,"I was sad, but I helped him move his stuff.",self,past,negative,neut,na,sadness
+1004,I love my chairs *sniffs*,self,present,positive,neut,na,joy
+1005,"That's funny, I think, that we love the furries so much that we're willing to schedule our schooling around the meets.",self,present,positive,neut,neut,joy
+1006,Woohoo!,other,na,neut,na,na,joy
+1007,"which is crazy good, especially if I'm living with Andrea, who only asks for internet, hydro, and food.",self,present,positive,neut,neut,joy
+1008,"well, I could splurge.",self,present,positive,na,neut,joy
+1009,"Either way, I'm thinking it's looking pretty good.",self,present,positive,positive,neut,joy
+1010,"So, tomorrow's gonna make me a little sad.",other,present,negative,neut,neut,sadness
+1011,"I miss em all and they're the smartest, most responsible group I've ever been a part of.",self,present,positive,neut,na,sadness
+1012,"However, the playful, devil-may-care part of me tells me to fuck em all and go to London to watch movies with the Furs.",self,present,positive,neut,neut,anger
+1013,"People like him bug me, not because they disagree with me, but because when you disagree with them, they resort to insults, and we all know how men need to have big balls and can't lose to another man, people always fall into a fight, or as it's known online, a flame war.",self,present,negative,neut,neut,disgust
+1014,go to their houses and smash their faces in because they like to aggravate.,other,present,negative,neut,negative,anger
+1015,"I personally enjoyed Pirates more, but I thought Superman was far more artistically done with a fantastic story.",self,past,positive,neut,neut,joy
+1016,"Whereas you go on there, on one side there are people constantly saying that pirates sucked, and that nobody is allowed to like it because it sucked and it was horrible.",other,past,negative,neut,neut,disgust
+1017,etc. or you have the folks trying to tell you that Superman was horrible.,other,present,negative,negative,na,disgust
+1018,It's disgusting that I have to feel relieved when I find a thread that has people calmly discussing sides of an argument.,self,present,negative,neut,neut,disgust
+1019,"i dont like myself    quite frankly i dislike myself very much, dont ask why cause i couldnt tell you.",self,present,positive,neut,positive,disgust
+1020,all i know is i suck  (and im not looking for sympathy comments here),self,present,negative,neut,neut,disgust
+1021,i hate the word better,self,present,positive,neut,positive,disgust
+1022,why cant i just be happy with good enough?,other,na,positive,na,na,joy
+1023,everything could ALWAYS be better  so ill never be happy!,other,na,positive,na,na,sadness
+1024,freaky.,other,na,neut,na,na,fear
+1025,"but wat the HECK  does ""delight yourself in the Lord and He will give you the desires of your heart"", mean?",other,future,positive,neut,neut,disgust
+1026,"i suck , completely and thouroughly suck",self,present,negative,na,negative,disgust
+1027,ahhhhhhhhhhhhhhhhhhh   why do i hate life?!,self,present,negative,neut,na,disgust
+1028,i just wanna have fun and be happy and simple like all my friends.,self,present,positive,positive,positive,joy
+1029,just giggle giggle giggle thats all they do everyday all day and all they need is a boyfriend and someone to laugh with.,other,present,neut,neut,neut,joy
+1030,"Terrorists make me SICK, they ought to all be horrifically detained, I believe it was the first time in my life I have had to resort to extreme racism.",self,present,negative,negative,neut,disgust
+1031,Do you people not listen to the news or what?,other,present,neut,neut,neut,anger
+1032,"Perhaps I am just being petty, but that did really annoy me.  It absolutely outrages me as to how evil, and canniving these people are.",other,present,negative,neut,negative,anger
+1033,"Imagine, transporting a bomb, fashioned out of a SPORTS DRINK, and triggering it with the simplistic flash of a disposable camera.",other,present,negative,neut,negative,fear
+1034,I just can't believe it.,self,present,neut,neut,na,surprise
+1035,"Britain, has, evidently officially gone to the dogs if the so-called ""prime minister"" is in Mexico, whilst we could have been dealing with 3,500 innocent lives lost, on 10 different jetliners.",self,past,negative,neut,negative,anger
+1036,"So, I am thankful to still be alive.",other,na,positive,na,na,joy
+1037,"Lat night, while trying to demonstrate to Tequila Boy how effectlivley I could beat him up if he ever had a complete change of personality and decided to attack me I slipped on the carpet trying to demonstrate a roundhouse kick fell backwards and hit the wall with what I'm assured was a sickening crack.",self,past,negative,neut,negative,disgust
+1038,"Which, just so you know, really fucking hurts.",other,present,negative,neut,na,disgust
+1039,"In fact, I bought TOILET PAPER of George Bush stupid quotes.",self,past,negative,negative,neut,disgust
+1040,"Now I'm on my political soapbox, so if you find opposition to the Republican regime distasteful, feel free to exit now.",other,present,negative,positive,neut,disgust
+1041,"On a more serious note, just open up any paper or online news provider and you will find things that *should* alarm you, and which definitely are bothering me! Here is just an example from Yahoo News:",other,present,negative,neut,neut,fear
+1042,"""WASHINGTON - While the British terror suspects were hatching their plot, the Bush administration was quietly seeking permission to divert $6 million that was supposed to be spent this year developing new homeland explosives detection technology.""",other,present,negative,negative,neut,fear
+1043,That does not even begin to address the loss of our civil liberties and the insidious spread of a Gestapo or KGB-like mentality that most of America just seems to be blissfully unaware of.,other,present,positive,neut,neut,anger
+1044,"Perhaps I'm being an alarmist, but the loss of privacy and personal freedom in the name of ""security"" SCARES me. I am fine with heightened security at airports.",other,na,positive,na,na,fear
+1045,"In fact, last night my Mom asked me if I am ""scared"" of flying and going on our trip.",self,present,negative,neut,neut,fear
+1046,One such being the slight civil annoyance of another commuter's feet riding pride high on the train seats.,other,present,positive,positive,neut,disgust
+1047,"Sadly, due to current legal mud pies, forcefully conveying the issues and negatives concerned with sitting in such a state are verboten.",other,present,negative,negative,neut,sadness
+1048,"Knowing the majority's aversion to confrontations and speaking out, a ride with the feet up on the seats can usually last the entirety of a journey.",other,present,negative,neut,negative,anger
+1049,"For those who feel powerless and fearful of repercussions, yet want to take action, there is always something more grating than knowing someone either cannot read or show respect for public seating areas.",other,present,negative,neut,neut,fear
+1050,"As, after all, society has been developed to shift blame and anger ad infinitum.",other,past,negative,neut,negative,anger
+1051,Thank God the exam's over.,other,present,neut,neut,na,joy
+1052,I really hate Ma'am Nario!,self,present,negative,neut,negative,disgust
+1053,fuck i can't wait to live alone!,other,present,negative,neut,neut,disgust
+1054,"if i ever live with a girl, that bitch better be clean.",self,present,positive,neut,neut,disgust
+1055,i come home after two weeks and our place is fucking disgusting.,other,present,negative,neut,neut,disgust
+1056,what the helllll.,other,na,neut,na,na,anger
+1057,hahah.,other,na,neut,na,na,joy
+1058,gotta love it.,other,na,positive,na,na,joy
+1059,i used to be so sad about it.,other,past,negative,na,na,sadness
+1060,euphoric almost.,other,na,positive,na,na,joy
+1061,wowo.,other,na,neut,na,na,joy
+1062,good times.,other,na,positive,na,na,joy
+1063,I hate it when certain people always seem to be better at me in everything they do.,self,present,positive,neut,neut,disgust
+1064,I'm still pretty freaked out by the piano exam next week.,other,past,positive,neut,positive,fear
+1065,"I dislike negative, non-beneficial (to me) change in people and things.",self,present,negative,positive,negative,disgust
+1066,I don't like that.,other,na,positive,na,na,disgust
+1067,The fireworks were beautiful.,other,na,positive,na,na,joy
+1068,"The only way to enjoy them, is to live that moment.",other,present,positive,neut,neut,joy
+1069,Miss it and that is it.,other,present,neut,neut,na,sadness
+1070,I gave in to temptation.,self,past,negative,na,na,sadness
+1071,I just wanted someone I can confide about the difficulties I faced at work and the void in my life.,self,past,positive,negative,neut,sadness
+1072,I feel so lost.,self,present,negative,negative,na,sadness
+1073,My mouth hurts soooooo much.,other,present,negative,neut,na,sadness
+1074,"I hate going to the dentist, well hate is a strong word.",self,present,positive,neut,positive,disgust
+1075,I dislike going to the dentist.,self,present,negative,neut,na,disgust
+1076,Bad new.,other,na,neut,na,na,sadness
+1077,"And for some reasons I dislike doing politic cause manipulating, mostly people, are what it does.",self,present,negative,negative,na,disgust
+1078,Win win!,other,present,positive,positive,na,joy
+1079,"My sister will remain in Michigan, so I thought I'd be coming back here occasionally, but she and I have had several vicious, scarring fights this summer.",self,past,negative,neut,neut,anger
+1080,I spend my time joyfully packing boxes.,self,present,positive,neut,na,joy
+1081,It's like Christmas presents in reverse.,other,present,positive,neut,neut,joy
+1082,I've considered not coming home for holidays to see my family because I dislike this town so much.,self,present,negative,neut,negative,disgust
+1083,"""Really?""",other,na,neut,na,na,surprise
+1084,"Hahaha!""",other,na,neut,na,na,joy
+1085,Totally dangerous combination.,other,na,negative,na,na,fear
+1086,"Just because, you know, too cheesy to live.",other,present,negative,neut,na,disgust
+1087,"Maybe I wanted to fuck with myself, which usually happens anytime I feel relatively okay.",self,present,negative,neut,neut,disgust
+1088,Maybe I was nostalgic.,other,na,neut,na,na,sadness
+1089,"39 kids, 4 leaders, 1 amazing Irish woman named lynn, and 3 weeks in england ireland and wales can only lead to a once in a life time experience.",other,past,positive,positive,positive,joy
+1090,"mel, sully, steve, adam, gibbs, artur, erin, jacqui, will, leanne, nikki,justin, jeffy, steph, all the catherines/katies, kaela, bree, sarah grady (future president of 2005 haha), sarah p, caitlin g i love you all.",self,present,positive,neut,na,joy
+1091,you made this trip amazing and i don't know what i'm gonna do without you.,self,present,positive,neut,neut,joy
+1092,i'm really lucky about that.,other,na,positive,na,na,joy
+1093,"i'm actually pretty good at driving a normal car, so i'm excited.",self,present,positive,neut,na,joy
+1094,i got some great presents and had an awesome 16th birthday.,self,past,positive,positive,na,joy
+1095,The people here even at Columbia are so different than I expected.,self,past,neut,na,na,surprise
+1096,I'm loving school at Columbia.,other,na,positive,na,na,joy
+1097,"I feel more at ease now that I kind of know what I want to do with my life, but more scared because I feel like everyone is a step ahead of me. I have to admit though school has me freaked out about my future.",self,present,positive,neut,neut,fear
+1098,I'm scared to death about getting a job after school.,self,past,negative,neut,negative,fear
+1099,"I can't wait, but I'm nervous as hell now.",other,present,negative,neut,neut,fear
+1100,What if nothing goes as planned and I can't get a job and I'm stuck doing something that I hate?,self,present,negative,neut,neut,fear
+1101,She was saying how she had the same area code and that she's from Spring Valley Weird huh?,other,past,neut,neut,na,surprise
+1102,The weirdest part is her roomate is someone who I went to school with since jr. high.,other,past,negative,na,neut,surprise
+1103,I'm excited to go I always like to go to different concerts and plus it will be nice to go out and do something fun.,self,present,positive,neut,neut,joy
+1104,"It was definitely a shocking experience, but atleast I can say I have ridden in an ambulance before.",self,past,negative,neut,neut,surprise
+1105,"My mother was there for me the whole time while I was scared to death, losing consciousnes, and fearing for my life, and I will always remember that.",self,present,negative,neut,neut,fear
+1106,"The goal was to go to sleep and never wake up, but after taking 32 of those dreadful cold pills that put scars on my kidney in the first place, death was becomming all too real too fast.",other,present,negative,neut,neut,fear
+1107,Have you ever wanted to be with someone that is a friend of the other sex but you are afraid to ask that person?,other,past,negative,neut,neut,fear
+1108,afraid that it would ruin your friendship with them as well as your friendship with another person.,other,present,negative,positive,negative,fear
+1109,afraid that you will be hurt yet again.,other,past,negative,neut,negative,fear
+1110,hurt if that person say's no.,other,past,negative,neut,na,sadness
+1111,Hurt if that person say's yes and down the line you brake up.,other,present,neut,neut,neut,sadness
+1112,Hurt by the world of friendship yet again.,other,past,neut,na,na,sadness
+1113,Hurt by the world of dating.,other,past,neut,neut,na,sadness
+1114,Hurt so bad you stay in a world that is only in your mind.,other,past,negative,neut,negative,sadness
+1115,Hurt so bad you stay in your room.,other,past,negative,neut,negative,sadness
+1116,My night last night turned out amazing towards 8:00-9:00,other,past,positive,neut,positive,surprise
+1117,"I had a really nice conversation with Juckett, another amazing one with Phil, and then another one with Solomon.",self,past,positive,positive,na,joy
+1118,"It was definitely a good night of conversation, although I did stay up until 12:30, and I payed for that this morning in 1st period (Physics)",self,past,positive,neut,neut,joy
+1119,But all of a sudden today it's hit me that I have all this work due.,other,past,positive,neut,neut,surprise
+1120,"I'm starting my argument on illegal immigration (which I may say is turning out fantastic with the first two praragraphs I have), and I finished one of my US History charts, and I plan on outlining a bit once I start watching America's Next Top Model.",self,present,positive,positive,positive,joy
+1121,The courts and my lawyer and my therapist and my mom are all getting mad because I don't have all this time in the world to hang out with my Dad for a few hours.,other,present,negative,na,negative,anger
+1122,"Love NFL, love live, it only makes sense.",other,present,positive,neut,neut,joy
+1123,"I'm sorry someone died, but to mislead me like that is inexcusable.",self,past,negative,neut,negative,sadness
+1124,"Love NFL, love live, it only makes sense.",other,present,positive,neut,neut,joy
+1125,"I'm sorry someone died, but to mislead me like that is inexcusable.",self,past,negative,neut,negative,sadness
+1126,"even though i wasnt in the right mood, a.k.a : my mind was in portland, it was  a really good flick!",self,present,positive,na,positive,joy
+1127,"what i was worried about, someone trying to steal money off my card, isnt going to happen.",other,present,negative,neut,neut,fear
+1128,she makes me all nervous and tense!,other,present,negative,negative,na,fear
+1129,"and anything she says, no matter how sweet the voice is is nasty and mean spirited!",other,present,positive,neut,na,disgust
+1130,and me with my explaining skills wont show her how what she just said stung!,self,present,positive,positive,neut,anger
+1131,thus getting myself more pissed and less willing to finish what i was just trying to say.,self,present,positive,neut,neut,anger
+1132,"which sucks, but that might mean her birthday.",other,present,negative,neut,neut,disgust
+1133,im afraid of what will happen if that gets out.,other,future,negative,neut,neut,fear
+1134,im worried about money.,other,past,negative,neut,na,fear
+1135,"but im more worried about losing the one i love, even though i cant have her right now.",self,present,positive,neut,positive,fear
+1136,okay shut up!,other,past,neut,na,neut,anger
+1137,"I can handle dull aches, it's the sharp pains that freak me out.",self,present,negative,neut,neut,fear
+1138,"Then they fucked around with my teeth, which never hurt (except for the clamp), but I was on edge, because it felt like it was about to hurt, like any moment they might hit a nerve.",other,present,negative,neut,negative,fear
+1139,"so the nurse was doing suction, and she accidently hit the rubber sheath across my mouth (isolating the tooth) which made a very loud noise in my ear, so I flinched, and the dentist was like ""It's not big deal, show her it's nothing to be afraid of"" so she did it again and I really freaked out, really flinched and even cried out and then I starting crying.",self,past,negative,neut,neut,fear
+1140,"filling, which sucks.",other,present,negative,na,na,disgust
+1141,"as unexpectedly and elusively as the innernets appear, SO DO THEY STOP DISAPEAR.",other,present,negative,neut,neut,surprise
+1142,enjoying it while it lasts.,other,present,positive,neut,positive,joy
+1143,pshaw!,other,na,neut,na,na,surprise
+1144,and it turns out that the daughter and i both graduated from brockport this spring!,self,past,neut,neut,neut,surprise
+1145,she's living at home with her parents now and she's not feeling very good about herself.,other,present,positive,neut,neut,sadness
+1146,"Which, to be honest, was making Brad slightly nervous.",other,present,positive,neut,positive,fear
+1147,Perhaps it had just been pre-deal excitement.,other,na,positive,na,na,joy
+1148,"It was a pleasant Tuesday evening in Hawai'i, Wednesday at home, Brad reminded himself automatically, and he had the doors to the balcony open wide and was sitting on the lone chair looking out over the ocean.",other,past,positive,neut,neut,joy
+1149,"He called Yohji, missing him, wanting to talk to him.",other,present,negative,neut,neut,sadness
+1150,It actually was quite a bit of fun.,other,na,positive,na,na,joy
+1151,"We offered to do Aaron too, but he just laughed and shook his head.",self,past,negative,neut,neut,joy
+1152,He really laughed a lot today.,other,past,neut,neut,neut,joy
+1153,I made me sorry that I don't actually know him.,self,past,negative,neut,neut,sadness
+1154,"After Drawing, I was standing at Ryan's locker, leaning back, laughing.",self,present,positive,neut,positive,joy
+1155,"I was laughing up at Josh Bloomfield and Peter, when someone spoke softly behind me, very fast.",other,past,positive,neut,positive,joy
+1156,"I wanted to wipe the green-and-purple whiskers off with my hands, but was afraid of making it worse, so I didn't do anything.",self,present,negative,neut,na,fear
+1157,"I said, ""He always seems so nervous.""",self,past,negative,neut,neut,fear
+1158,"I feel kind of bad.""",self,present,negative,negative,na,sadness
+1159,"hurting his feelings,"" Ryan finished flatly.",other,past,negative,neut,negative,sadness
+1160,"I nodded, felt guilty.",self,past,negative,negative,na,sadness
+1161,"And that's total bullshit, because those things shouldn't even matter.",other,present,negative,neut,na,disgust
+1162,It's about a fucking jacket.,other,na,negative,na,na,disgust
+1163,Goodbyes break my heart and make me choke on my last words.,self,present,negative,neut,negative,sadness
+1164,They cause tears to run down my cheeks and make me want to fall to my knees.,self,present,negative,neut,na,sadness
+1165,Backing out of that driveway getting further and further away from you was one of the hardest things I've ever had to do.,self,present,negative,neut,neut,sadness
+1166,I'm so scared that everytime that I see you it's going to be my last time and I never want to leave your side.,self,present,negative,neut,neut,fear
+1167,my quilt is finally coming along though i am alsorts of excited.,other,present,positive,neut,positive,joy
+1168,anyways i wont b here all weekend i will b in penn state with a bunch of male bleeders and my brother lol so there ttyl byes,other,na,neut,na,na,joy
+1169,But when you want money for people with minds that hate,other,present,negative,neut,na,disgust
+1170,"Pretty damn sad, isn't it?",other,na,negative,na,na,sadness
+1171,What will it take to rise above and leave this human ashtray that we've been snubbed into?,other,future,negative,neut,neut,disgust
+1172,"That last one alone has been responsible for more fear-mongering than the presently seated Bush administration has been able to muster in the past six years, and that's a pretty tall order.",other,past,positive,neut,neut,fear
+1173,What's interesting about their motivations is that most of what we're supposed to be afraid of is actually simply informative alternatives to the status quo: the fear of change.,other,past,negative,neut,na,fear
+1174,The government wants us to be afraid of terrorists so that they can pass more questionable legislation that makes it easier to control us.,other,present,negative,neut,neut,fear
+1175,"They want us to be scared of protesting and dissenting in the name of freedom, because there are more of us than there are of THEM.",other,past,negative,neut,neut,fear
+1176,"I even suggest that the government has always wished us to be afraid of communism, because it goes against the very thing that government relies upon to keep it rolling: capitalism.",self,present,negative,neut,neut,fear
+1177,"From the ""Red Scare"" and the Communist witch-hunt of the 50's with Senator Joe McCarthy aggressively pursuing perceived threats to the safety and security of America, to the current fear and loathing of so-called communist countries such as North Korea, Cuba and China, actual communism has never, ever existed.",other,past,negative,negative,neut,fear
+1178,It's a depression.,other,na,negative,na,na,sadness
+1179,Everybody's out of work or scared of losing their job.,other,past,negative,neut,na,fear
+1180,I want you to get mad!,self,present,negative,neut,na,anger
+1181,I don't know what to do about the depression and the inflation and the Russians and the crime in the street.,self,present,negative,negative,na,sadness
+1182,"All I know is that first, you've got to get mad.",self,present,negative,neut,neut,anger
+1183,"You've gotta say, ""I'm a human being, goddammit!",other,na,neut,na,na,anger
+1184,"""I'm as mad as hell,",other,na,negative,na,na,anger
+1185,"and I'm not going to take this anymore!!""",self,present,neut,neut,neut,anger
+1186,Have you ever felt longing?,other,past,negative,negative,neut,sadness
+1187,"Just at the mere thought of the source of longing makes you want to cry, to sob out the truth of your heart?",other,present,negative,neut,negative,sadness
+1188,"Longing is not for the faint of heart, but longing will make you weak in the heart.",other,future,negative,neut,neut,sadness
+1189,"It will alter you judgement, longing will destroy you.",other,future,negative,neut,neut,sadness
+1190,The job is really nice.,other,na,positive,na,na,joy
+1191,It's pretty sweet and I feel very blessed that I have it.,self,present,positive,neut,positive,joy
+1192,"Oh and my mentor, she's Catholic and she teaches CCD so me and her get along pretty good.",other,present,positive,neut,positive,joy
+1193,Today sucked.,other,past,negative,neut,na,disgust
+1194,Ugh.,other,na,neut,na,na,disgust
+1195,"I won't pay attention in class and miss assignments, I'm always afraid I'm going to forget to do something or something's gonna spring up on me and AAAAAAH!!!",self,present,negative,neut,neut,fear
+1196,"Today, I was pulled out of a meeting by our building manager, who was in a blind panic.",self,past,negative,neut,neut,fear
+1197,"The other is appalling crap: disorganized, blatantly pseudoscientific, and misogynistic.",other,na,negative,na,na,disgust
+1198,"I suppose attitudes towards women have changed a lot too, but this was so awful I threw up my hands and returned the book before leaving the library.",self,past,negative,neut,neut,disgust
+1199,"He goes on to describe her in later years as unhappily married, fat, and sullen.",other,present,negative,neut,negative,sadness
+1200,"There's currently a commercial on rotation, I advertising what capitalistic piece of crap it is this time, but it is a terrible, terrible, cover of ""In a Big Country.""",self,present,negative,negative,na,disgust
+1201,"We have all had (or are still having, perhaps for the rest of our lives) our encounters with stupid people, but it's the ones who just won't stop bothering you that are among some of the worst.",self,present,negative,negative,neut,disgust
+1202,"Somebody fucking invited me to a Facebook group called ""Sally is cooler than your mom.""",other,past,positive,neut,na,anger
+1203,"Okay, if you're going to be cooler than anyone, saying that you're cooler than my mom is a fucking given.",other,present,positive,positive,positive,anger
+1204,I'd like to tell Sally to go eat shit.,self,present,positive,negative,positive,anger
+1205,"Three angry customers; as a matter of fact, that last week alone at Pier 1 was the only week where I met troublesome customers.",self,past,negative,negative,neut,anger
+1206,Very odd and peculiar.,other,na,negative,na,na,surprise
+1207,Good deal.,other,na,neut,na,na,joy
+1208,Isn't it aggravating when someone is practically demanding you to hang out with them?,other,present,negative,negative,negative,anger
+1209,Get a fucking clue.,other,present,negative,negative,na,anger
+1210,Go find someone else to be your bitch.,other,present,negative,negative,na,anger
+1211,"Sure, it's nice to see people wanting to be within your presence, but when they step over the line and enter the realm of stupidity, self-esteem issues and denial of self-being, well then I want to do nothing but kick you in the fucking baby maker.",self,present,negative,neut,negative,anger
+1212,I get such a laugh out of that every time.,self,present,neut,neut,neut,joy
+1213,The next time I actually get you on the phone when you're not a)tired b)not in the mood or c)just plain not wanting to talk to me please don't elect to watch a movie instead of having a conversation with me. It's these types of choices that make it hard for me to justify trying to be your friend.,self,present,negative,negative,neut,anger
+1214,"first let me say, this is one of the stupidest fucking reasons to be (once again) pissy with someone.",self,present,negative,neut,neut,anger
+1215,Fucking seriously kid.,other,na,neut,na,na,anger
+1216,Im rather sick of myspace.,other,na,negative,na,na,disgust
+1217,"Ive noticed an abundance are usually about me, and rather stupid.",other,past,positive,positive,na,disgust
+1218,"every once in awhile one or two titles will catch my eye and I will read it, but for the most part i really am sick and tired to stupid repetitive shit.",self,future,negative,neut,neut,disgust
+1219,"Gag, enough on that crap.",other,na,positive,na,na,disgust
+1220,Court was intimidating but I did good.,self,past,positive,positive,na,fear
+1221,I actually got it pretty good.,self,past,positive,neut,neut,joy
+1222,"Every one was really nice, even the judge.",other,na,positive,na,na,joy
+1223,"The exciting part of my day, as cliche as it sounds was a car fire.",other,present,positive,neut,na,joy
+1224,"So i Told him it was on fire I dont think he heard me, So i grabbed his smeater and yanked him out of the car, he stumbled back, dropped his shit and looked at me pissed ""what the fuck lady"" we got about four or five steps from the vehicle when the gas tanked popped (not a hollywood explosion here people) and burning gas flew out everywhere, catching the grass on fire, blowing out both rear tires and because the door was open, the interior of the vehicle started going up in flames.",self,past,negative,neut,neut,anger
+1225,"after some silence from the driver his attitude changed and hes like ""thanks that could have been me"" and repeated ""oh my god"" while I got an ETA on police and fire from dispatch and gave her information.",self,past,positive,neut,neut,fear
+1226,Point is it was exciting.,other,na,positive,na,na,joy
+1227,"he gave me a hug, that was good.",other,past,positive,positive,na,joy
+1228,"How do you know that smoke is not from a tire, and the car could be on fire??",other,present,negative,negative,na,fear
+1229,"But uncle beeve saved the day and fixed a bunch of stuff for me. Called it an early Birthday present, he is so amazing.",other,past,positive,neut,neut,joy
+1230,"While I was in lakewood I surprised Brian and we met Scooty for lunch, suprised him too.",self,past,neut,neut,neut,surprise
+1231,It was SOOOO nice to see them.,other,present,positive,neut,na,joy
+1232,I can't wait to go on a night drive with Brian and just chill out there for awhile.,self,present,negative,neut,negative,joy
+1233,It feels pretty good today.,other,present,positive,positive,neut,joy
+1234,Good to love life.,other,present,positive,neut,na,joy
+1235,"They both just lost their husbands and Vegas grandma has had more time, were hoping she will help Canada grandma feel better.",other,past,positive,neut,neut,joy
+1236,Which I am so happy for.,other,na,positive,na,na,joy
+1237,I am so proud of my sister.,other,na,positive,na,na,joy
+1238,im sick of looking at a computer screen.,other,present,negative,neut,na,disgust
+1239,"""I can't relate to 99% of humanity.""",other,present,neut,neut,neut,sadness
+1240,"I am, quite honestly, furious and they WILL be getting an angry letter from me, even though won't care, I'm sure because as much as they would like you to think that they aren't part of the ""machine"" they are.",other,present,negative,neut,positive,anger
+1241,"Go ahead, care about the environment, but don't care about demeaning women.)",other,present,negative,neut,neut,anger
+1242,- I enjoy reading.,self,present,positive,neut,na,joy
+1243,- I don't think money buys happiness.,self,present,positive,positive,na,joy
+1244,I don't think sex begets happiness.,self,present,positive,positive,na,joy
+1245,"- I actually take notice of nice days, smells, etc. and appreciate it, appreciate the luxuriousness of things like that and let it effect me.  I don't just trample it in my Uggs.",self,present,positive,neut,neut,joy
+1246,"People are just rude and selfish, and I know I'm victim too, but I don't want to be like that.",self,present,negative,neut,na,disgust
+1247,"So I kept walking straight, and the dog that crossed the street turned around and saw me and growled, I was like "" oh shit Jorge, just keep walking.""",self,past,negative,neut,neut,anger
+1248,"So i did, and then the second dog growls at me too, and Im like "" Should I run or keep walking?""",self,present,positive,neut,neut,anger
+1249,"So I kept walking and then the other dog that crossed the street comes back running at me and I said ""OHH SSHHIITTT!!!""",self,past,neut,neut,neut,fear
+1250,"And I saw a house with the gate door opened slightly, and i squeezed in there sumhow sumway!!!",self,past,neut,neut,neut,surprise
+1251,I knoe im skinny but DAMN!!,other,na,negative,na,na,anger
+1252,I WUZ SCARED!!!,self,present,neut,negative,na,fear
+1253,"""It's the heart afraid of breaking that never learns to dance.",other,present,negative,neut,neut,fear
+1254,It's the dream afraid of waking that never takes the chance.,other,present,negative,neut,neut,fear
+1255,And the soul afraid of dying that never learns to live.,other,present,negative,neut,neut,fear
+1256,"""When the night has been too lonely, and the road has been too long,",other,na,negative,na,na,sadness
+1257,"It's the second stanza that caught my attention; more specifically, it's those two first lines: ""It's the heart afraid of breaking that never learns to dance./It's the dream afraid of waking that never takes the chance.""",other,present,negative,neut,neut,fear
+1258,"I have considered the possibility for a while now, but I have been apprehensive, and I did not act on what I felt.",self,past,negative,neut,neut,fear
+1259,"And then, just the other day, I was driving down 470 on the way to college, listening to 105.5, and a beautiful song came on that I had not heard before.",self,past,positive,neut,neut,joy
+1260,"The words made me think Now I have thought, and thought, and you who know me best will not be surprised that I thought some more",self,past,positive,neut,neut,surprise
+1261,Internship was pretty awesome today.,other,na,positive,na,na,joy
+1262,"I did an SAT Lit practice test on each bus ride, because I am cool, and I did better than I expected.",self,past,positive,neut,positive,surprise
+1263,"I totally loved it, because I am a geek.",self,past,positive,neut,positive,joy
+1264,I love the two guys who work at that Starbucks - they're awesomely flamboyant and they told me about how Cameron Diaz came in for a latte during their shift last week (but without Justin!,self,past,positive,neut,neut,joy
+1265,"I didn't see Will Smith (although the French Prince is usually my shit, I think I would have had to punch him on behalf of everyone who's heard ""Switch""), but the girl on the elevator with me said she had just randomly seen Mike Myers.",self,past,negative,neut,negative,anger
+1266,"That afternoon - *gulp* - Lawler came to observe me. When I heard she was coming, I spazzed, afraid that she might have an issue with the fact that I never, you know, handed in any of my internship forms.",self,present,negative,neut,neut,fear
+1267,Ms. Lawler just kept smiling awkwardly.,other,past,positive,positive,neut,joy
+1268,Then she proceeded to call me Meghan** and went through the required but hilariously inapplicable hazardous chemicals/safety concerns set of questions while the interns around me tried to stifle their laughter.,self,past,negative,neut,negative,joy
+1269,I'm kind of freaking out about debate but I'm kind of okay.,other,present,negative,neut,na,fear
+1270,Good news.,other,na,neut,na,na,joy
+1271,I was psyched.,other,na,neut,na,na,joy
+1272,ugh.,other,na,negative,na,na,disgust
+1273,"At one point I apologized for being so nervous and they told me that there were people a lot worse and that I wasn't using the words ""uh"" and ""um"" as often as others had been.",self,past,negative,neut,neut,fear
+1274,Everything looks good.,other,present,positive,positive,na,joy
+1275,"Where they will decide to place me is up to them, as long as I get the job, I'll be really happy.",self,present,positive,neut,neut,joy
+1276,I felt really awful through out the whole day too.,self,past,negative,negative,neut,sadness
+1277,That one chick I dislike with a passion because I think she is obsessed with Gareth and really likes him.,self,present,positive,neut,positive,disgust
+1278,I really do hate it.,self,present,negative,neut,negative,disgust
+1279,So I did and I got so panicy that I only got to the 6th page.,self,past,neut,neut,neut,fear
+1280,and I was freak it.,other,na,negative,na,na,fear
+1281,"I left it, but through out the whole day I was really awful.",self,past,negative,neut,na,sadness
+1282,when I got home I was really nervous I hadn't talk to Gareth for 2 days because of college.,self,past,negative,neut,na,fear
+1283,Really scared.,other,na,negative,na,na,fear
+1284,So I tell him it took me FOREVER To tell him but i was shakey and nervous to.,self,present,negative,neut,neut,fear
+1285,"He's like, Would it make me happy that I delete her off my friends list and messenger.",self,present,positive,neut,neut,joy
+1286,because I dislike her very much.,self,present,negative,neut,negative,disgust
+1287,And I hate these mistakes I do.,self,present,negative,negative,na,disgust
+1288,Man.  I hate it.,self,present,negative,neut,na,disgust
+1289,Ill miss you always forever and ever.,other,present,negative,neut,negative,sadness
+1290,i'm so down right now i can't be anymore upset.,self,present,positive,positive,neut,sadness

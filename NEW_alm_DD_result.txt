@@ -1,0 +1,193 @@
+GOLD: 1 PREDICTED: 0 SENT: I wish I had never come!
+GOLD: 2 PREDICTED: 2 SENT: The betrothed pair were very happy, and the mother was happy too.
+GOLD: 3 PREDICTED: 3 SENT: He and his sister, two years older than himself, had often wept scalding tears over the story of Him who suffered death on the cross for us all.
+GOLD: 1 PREDICTED: 2 SENT: Peter heard noises worse than ever; his eyes were as big as lolly-pops!
+GOLD: 2 PREDICTED: 2 SENT: In the garden grow roses; the mistress of the house is herself the finest rose petal, she beams with joy, the joy of good deeds: however, not done in the wide world, but in her heart, and what is preserved there is not forgotten.
+GOLD: 3 PREDICTED: 3 SENT: "When God is so hard to me, how can I expect men to be better?" she said with groans and tears.
+GOLD: 3 PREDICTED: 3 SENT: The boy went down, and there sat Clever Elsie and the girl both weeping together.
+GOLD: 3 PREDICTED: 3 SENT: The youth sat down in the garden and considered how it might be possible to perform this task, but he could think of nothing, and there he sat sorrowfully awaiting the break of day, when he should be led to death.
+GOLD: 1 PREDICTED: 3 SENT: But the sausage remained so long away, that they became uneasy, and the bird flew out to meet him.
+GOLD: 3 PREDICTED: 1 SENT: The poor swineherd took these words to heart, for they were addressed to him; he knew not that there were others who were equally ignorant.
+GOLD: 3 PREDICTED: 2 SENT: So the father gave him his blessing, and with great sorrow took leave of him.
+GOLD: 2 PREDICTED: 2 SENT: I am very glad we have such good houses, and that the little one has one of his own.
+GOLD: 2 PREDICTED: 2 SENT: But they were very pleased with it, and wondered whether all the little sparrows could become nightingales.
+GOLD: 1 PREDICTED: 0 SENT: "It is rather dark," said he; "they forgot to build windows in this room to let the sun in; a candle would be no bad thing."
+GOLD: 1 PREDICTED: 2 SENT: There was once a miller who had one beautiful daughter, and as she was grown up, he was anxious that she should be well married and provided for.
+GOLD: 0 PREDICTED: 0 SENT: The fifth, "Who has been handling my fork?"
+GOLD: 1 PREDICTED: 3 SENT: The cook, however, thought to himself: "If the child has the power of wishing, and I am here, he might very easily get me into trouble."
+GOLD: 2 PREDICTED: 3 SENT: Now I shall be of some use in the world, as everyone ought to be; it is the only way to be happy.
+GOLD: 1 PREDICTED: 3 SENT: But when she had reached the middle, and heard the water rushing beneath her, she was after all, afraid, and stood still, and ventured no farther.
+GOLD: 0 PREDICTED: 0 SENT: "That shall not help you," cried she, "even if you have got a long way off, you shall still not escape me."
+GOLD: 2 PREDICTED: 2 SENT: "Ah!" said the fisherman, "how happily we shall live now!"
+GOLD: 1 PREDICTED: 3 SENT: And in sight of the bridge!" said poor Pigling, nearly crying.
+GOLD: 0 PREDICTED: 2 SENT: "What does that matter," said the cat, "it is no worse than Crumb-stealer, as your godchildren are called."
+GOLD: 2 PREDICTED: 2 SENT: But she only said this to frighten Jack the Dullard; and the clerks gave a great crow of delight, and each one spurted a blot out of his pen on to the floor.
+GOLD: 2 PREDICTED: 3 SENT: Then the tears come into my eyes, and it is just as if my mother kissed me."
+GOLD: 4 PREDICTED: 3 SENT: The servants now came in to look after the dead emperor; when, lo! there he stood, and, to their astonishment, said, "Good morning."
+GOLD: 3 PREDICTED: 3 SENT: All this was very sad for the poor little duckling.
+GOLD: 3 PREDICTED: 3 SENT: Her husband buried her under the juniper-tree, and wept bitterly for her.
+GOLD: 2 PREDICTED: 2 SENT: So the woman was obliged to bring out the wine also, which she had hidden, and the farmer drank it till he became quite merry.
+GOLD: 3 PREDICTED: 3 SENT: Shivering with cold and hunger, she crept along; poor little child, she looked the picture of misery.
+GOLD: 3 PREDICTED: 1 SENT: Pigling Bland who was a sedate little pig, looked solemnly at his mother, a tear trickled down his cheek.
+GOLD: 2 PREDICTED: 3 SENT: The little prince was at first quite frightened at the bird, who was like a giant, compared to such a delicate little creature as himself; but when he saw Tiny, he was delighted, and thought her the prettiest little maiden he had ever seen.
+GOLD: 4 PREDICTED: 4 SENT: "Dead!" cried the laundress, turning pale as death.
+GOLD: 2 PREDICTED: 2 SENT: Then she ran to her little cabin, washed herself quickly, and took her dress out which was silvery as the moon, and put it on; and when she went in, looking like a king"s daughter, the king went up to her, and rejoiced at seeing her again, and when the dance began he danced with her.
+GOLD: 2 PREDICTED: 0 SENT: The old washerwoman put her head in at the door, and nodded to him quite kindly, and said, "Many thanks, you good child, for your help yesterday.
+GOLD: 1 PREDICTED: 0 SENT: The fisherman was half asleep, but the thought frightened him so much that he started and fell out of bed.
+GOLD: 2 PREDICTED: 3 SENT: "Oh," replied the old man, "I have pleasant thoughts of all that has passed, recalled by memory; and now you are come to visit me, and that is very pleasant."
+GOLD: 0 PREDICTED: 2 SENT: And the eyes of all sparkled with malice.
+GOLD: 2 PREDICTED: 2 SENT: "With the greatest pleasure," said the nightingale, and began to sing most delightfully.
+GOLD: 2 PREDICTED: 3 SENT: The eight little pigs had very fine appetites--"Yus, yus, yus! they eat and indeed they DO eat!" said Aunt Pettitoes, looking at her family with pride.
+GOLD: 2 PREDICTED: 2 SENT: "Nothing ever seems so good as what one keeps to oneself," said she, and was quite satisfied with her day"s work.
+GOLD: 1 PREDICTED: 1 SENT: But Benjamin was frightened--
+GOLD: 0 PREDICTED: 0 SENT: I have nerves of my own, but I do not cry 'tweet.'"
+GOLD: 4 PREDICTED: 0 SENT: "Goodness me! where am I?" said he.
+GOLD: 1 PREDICTED: 1 SENT: They were terrified and wanted to hide themselves.
+GOLD: 3 PREDICTED: 2 SENT: The corpse lay in a bedroom, near to the one in which we sat, and the old man was in great distress and weeping like a child.
+GOLD: 0 PREDICTED: 2 SENT: Then he called to the miser, and said, "Tell us now, you vagabond, where you got that gold, or I shall play on for your amusement only," "I stole it," said the miser in the presence of all the people; "I acknowledge that I stole it, and that you earned it fairly."
+GOLD: 0 PREDICTED: 3 SENT: Now when she heard that they were so happy, and so well off, envy and hatred rose in her heart and left her no peace, and she thought of nothing but how she could bring them again to misfortune.
+GOLD: 3 PREDICTED: 1 SENT: "He is too big," they all said, and the turkey cock, who had been born into the world with spurs, and fancied himself really an emperor, puffed himself out like a vessel in full sail, and flew at the duckling, and became quite red in the head with passion, so that the poor little thing did not know where to go, and was quite miserable because he was so ugly and laughed at by the whole farmyard.
+GOLD: 2 PREDICTED: 2 SENT: The flower entwined itself even in his dreams- for him it bloomed, for him spread its perfume.
+GOLD: 2 PREDICTED: 2 SENT: Then there was great rejoicing, and the painter caressed the boy, and gave him a number of pictures.
+GOLD: 4 PREDICTED: 2 SENT: Well, one day some people came, who took hold of the flax, and pulled it up by the roots; this was painful; then it was laid in water as if they intended to drown it; and, after that, placed near a fire as if it were to be roasted; all this was very shocking.
+GOLD: 3 PREDICTED: 3 SENT: Then she began to cry, and knew not what to do.
+GOLD: 2 PREDICTED: 2 SENT: She looked so beautiful that he could not take his eyes off her, so he stooped down and gave her a kiss.
+GOLD: 4 PREDICTED: 2 SENT: And when its song was over, it spread its wings and flew away before them, and they followed it until they reached a little house, on the roof of which it alighted; and when they approached the little house they saw that it was built of bread and covered with cakes, but that the windows were of clear sugar.
+GOLD: 2 PREDICTED: 2 SENT: It laughed and chuckled when it heard Timmy's story.
+GOLD: 2 PREDICTED: 0 SENT: The tailor drove quietly to church, and the princess was married to him at once, and he lived with her as happy as a woodlark.
+GOLD: 3 PREDICTED: 2 SENT: "That"s a nice trick!" said her master, and lamented the fine chickens.
+GOLD: 2 PREDICTED: 2 SENT: The mother gave them her blessing, and all the other beetles cried "hurrah."
+GOLD: 2 PREDICTED: 2 SENT: Our honest friend journeyed on his way too; and if he was merry before, he was now ten times more so.
+GOLD: 2 PREDICTED: 2 SENT: Amongst the visions which passed before my eyes, that was the most comforting in which a young man came and set me free, and when I opened my eyes to-day I saw thee, and beheld my dream fulfilled.
+GOLD: 2 PREDICTED: 2 SENT: When the princess with her ladies passed by and heard the tune, she stopped and looked quite pleased, for she also could play it- in fact, it was the only tune she could play, and she played it with one finger.
+GOLD: 3 PREDICTED: 2 SENT: Then he offered the dwarfs money, and prayed and besought them to let him take her away; but they said, "We will not part with her for all the gold in the world."
+GOLD: 2 PREDICTED: 2 SENT: So the boy stayed with them, and the woman herself taught him to sew; and he ate well, and slept well, and became very merry.
+GOLD: 2 PREDICTED: 2 SENT: Then Mother Holle said, "I am pleased that you should want to go back to your own people, and as you have served me so well and faithfully, I will take you home myself."
+GOLD: 3 PREDICTED: 2 SENT: The tailor replied: "Simpkin, we shall make our fortune, but I am worn to a ravelling.
+GOLD: 2 PREDICTED: 2 SENT: Then Sophy was very happy, and said they might keep her bed; she did not mind lying in the drawer at all.
+GOLD: 0 PREDICTED: 0 SENT: "That"s ill done, Hans, you should have put the knife in your pocket."
+GOLD: 1 PREDICTED: 0 SENT: The manikin said: "That is an easy thing for me to do, but a very dangerous thing for you, for if it is discovered, you will fare ill."
+GOLD: 1 PREDICTED: 0 SENT: My wife will be anxious!"
+GOLD: 2 PREDICTED: 4 SENT: "Oh that IS lovely!" said Lucie.
+GOLD: 2 PREDICTED: 2 SENT: How rich I am!"
+GOLD: 3 PREDICTED: 1 SENT: Then Gretel called out to her master: "If the guest does not come, I must take the fowls away from the fire, but it will be a sin and a shame if they are not eaten the moment they are at their juiciest."
+GOLD: 2 PREDICTED: 0 SENT: "I like that!" said the Princess.
+GOLD: 3 PREDICTED: 3 SENT: At length in her grief she went out, and the youngest kid ran with her.
+GOLD: 2 PREDICTED: 2 SENT: "We are pleased to hear that," said the two weavers, and described to him the colours and explained the curious pattern.
+GOLD: 1 PREDICTED: 2 SENT: So they went on, but the road led them out of the way; no house could be seen, it grew dark, and the children were afraid.
+GOLD: 1 PREDICTED: 0 SENT: Jemima became much alarmed.
+GOLD: 2 PREDICTED: 2 SENT: "I do feel so happy," said the father, "and how beautifully the sun shines; I feel just as if I were going to see an old friend again."
+GOLD: 3 PREDICTED: 2 SENT: When the faithful maiden heard of this, she grew so sad that she thought her heart would break, and she would not go thither, but the other girls came and took her.
+GOLD: 1 PREDICTED: 4 SENT: "Oh; oh! they are coming back!"
+GOLD: 0 PREDICTED: 0 SENT: He did not like the student, and would grumble when he saw him cutting out droll or amusing pictures.
+GOLD: 4 PREDICTED: 2 SENT: "Good heavens! listen to the voice of an innocent child," said the father, and one whispered to the other what the child had said.
+GOLD: 3 PREDICTED: 0 SENT: "Ah!" said the man, dolefully, "my wife wants to live in a stone castle."
+GOLD: 3 PREDICTED: 3 SENT: Then said the maid: "What a clever Elsie we have!" and sat down beside her and began loudly to weep over the misfortune.
+GOLD: 0 PREDICTED: 2 SENT: His whiskers bristled and his coat collar stood on end with rage.
+GOLD: 2 PREDICTED: 0 SENT: The moment he had gone, Tommy Brock got up in a hurry; he rolled Mr. Tod's dressing-gown into a bundle, put it into the bed beneath the pail of water instead of himself, and left the room also-- grinning immensely.
+GOLD: 2 PREDICTED: 2 SENT: The brothers were not less delighted to see their little sister, but their joy was of short duration.
+GOLD: 0 PREDICTED: 2 SENT: Pickles nearly had a fit, he barked and he barked and made little rushes.
+GOLD: 4 PREDICTED: 3 SENT: And the wife struck; but she missed her aim, and hit her husband on the head so that he fell down dead, and the sparrow flew quietly home to her nest.
+GOLD: 0 PREDICTED: 2 SENT: Then the miser grew angry, and said, "Oh, but I can"t make any use of you, you strike far too powerfully; what will you have for the one blow?"
+GOLD: 3 PREDICTED: 2 SENT: Very little was said about the matter to Ib, and he did not refer to it; his mother, however, noticed that he had grown very silent and pensive.
+GOLD: 0 PREDICTED: 0 SENT: Then he really did feel warm.
+GOLD: 3 PREDICTED: 2 SENT: FAR down in the forest, where the warm sun and the fresh air made a sweet resting-place, grew a pretty little fir-tree; and yet it was not happy, it wished so much to be tall like its companions- the pines and firs which grew around it.
+GOLD: 2 PREDICTED: 0 SENT: Benjamin was so excited that it was a mercy he did not awake Tommy Brock, whose snores continued solemnly in Mr. Tod's bed.
+GOLD: 4 PREDICTED: 2 SENT: Great quantities of fish could be seen through the clear water, sparkling in the sun's rays; they were quite surprised when they came so suddenly upon such an unexpected sight.
+GOLD: 2 PREDICTED: 0 SENT: The bean thanked him most prettily, but as the tailor used black thread, all beans since then have a black seam.
+GOLD: 0 PREDICTED: 0 SENT: You need not be in a hurry; you are always so impatient, and the youngster is getting just the same.
+GOLD: 3 PREDICTED: 3 SENT: The poor child was very unhappy at the thought of saying farewell to the beautiful sun, and as the field-mouse had given her permission to stand at the door, she went to look at it once more.
+GOLD: 2 PREDICTED: 2 SENT: But as he drew near home, his little boy was so glad to see him that he crept behind him, and laid fast hold of his legs, and looked up in his face and laughed.
+GOLD: 3 PREDICTED: 3 SENT: I saw my poor dead father, and cried till I fell asleep.
+GOLD: 1 PREDICTED: 3 SENT: The canary-bird fluttered in his cage, and the parrot flapped his wings and cried, "Let us be men;" the poor clerk, in the most deadly terror, flew through the window, over the houses, and through the streets, till at length he was obliged to seek a resting-place.
+GOLD: 4 PREDICTED: 3 SENT: So he laid the stone carefully by his side on the bank: but, as he stooped down to drink, he forgot it, pushed it a little, and down it rolled, plump into the stream.
+GOLD: 1 PREDICTED: 1 SENT: She was frightened, and wanted to throw the red shoes away; but they stuck fast.
+GOLD: 2 PREDICTED: 2 SENT: How the sunshine cheers me, and how sweet and refreshing is the rain; my happiness overpowers me, no one in the world can feel happier than I am."
+GOLD: 4 PREDICTED: 3 SENT: He could not conceive how this came to pass, for he never saw a human being in his house, and no one could have concealed himself in it.
+GOLD: 1 PREDICTED: 2 SENT: As these thoughts passed through her mind, fear gave speed to her feet, so that she walked faster and faster.
+GOLD: 1 PREDICTED: 2 SENT: "Oh, Mother, Mother!" said Mittens--
+GOLD: 2 PREDICTED: 2 SENT: The little mice only laughed, and tried another tune--
+GOLD: 0 PREDICTED: 2 SENT: There they lay with their anger, holding their heads on one side and blinking the eye that was turned upwards.
+GOLD: 0 PREDICTED: 2 SENT: But the untidiness was something dreadful--"Never did I see such a mess--smears of honey; and moss, and thistledown--and marks of big and little dirty feet-- all over my nice clean house!"
+GOLD: 2 PREDICTED: 0 SENT: "'Could I but have my love, Who then so happy as Glove!
+GOLD: 4 PREDICTED: 2 SENT: And his daughter was also shocked, but hoped the king would soon give up such thoughts; so she said to him, "Before I marry anyone I must have three dresses: one must be of gold, like the sun; another must be of shining silver, like the moon; and a third must be dazzling as the stars: besides this, I want a mantle of a thousand different kinds of fur put together, to which every beast in the kingdom must give a part of his skin."
+GOLD: 2 PREDICTED: 2 SENT: At this the king was overwhelmed with joy, and made it known thoughout all his kingdom, that if his son would come back to his court he would forgive him.
+GOLD: 0 PREDICTED: 0 SENT: But when the proud princess perceived that he was not her equal in birth, she scorned him, and required him first to perform another task.
+GOLD: 0 PREDICTED: 0 SENT: "Fie on the villain that forsook her!"
+GOLD: 4 PREDICTED: 2 SENT: "Good Heaven! what's the matter with you?" asked his mother.
+GOLD: 2 PREDICTED: 3 SENT: Then the prince took care to throw away the sleeping draught; and when Lily came and began again to tell him what woes had befallen her, and how faithful and true to him she had been, he knew his beloved wife"s voice, and sprang up, and said, "You have awakened me as from a dream, for the strange princess had thrown a spell around me, so that I had altogether forgotten you; but Heaven hath sent you to me in a lucky hour."
+GOLD: 0 PREDICTED: 0 SENT: Now, as she had not been asked to the feast she was very angry, and scolded the king and queen very much, and set to work to take her revenge.
+GOLD: 1 PREDICTED: 3 SENT: Oh, my poor son Thomas!" exclaimed Tabitha, wringing her paws.
+GOLD: 2 PREDICTED: 4 SENT: "Bird," he said, "what a beautiful song that is you sing!
+GOLD: 3 PREDICTED: 0 SENT: "Alas, thou canst not help me."
+GOLD: 2 PREDICTED: 2 SENT: The long and beautiful day had been so full of joy and sweet delights, that when the sun sank low it felt tired of all its happiness and enjoyment.
+GOLD: 2 PREDICTED: 2 SENT: "Heaven reward you for your kindness and self-denial!" said Hans, as he gave the butcher the cow; and taking the pig off the wheel-barrow, drove it away, holding it by the string that was tied to its leg.
+GOLD: 3 PREDICTED: 3 SENT: At last came the little dwarf"s turn; and he looked in the moss; but it was so hard to find the pearls, and the job was so tiresome!--so he sat down upon a stone and cried.
+GOLD: 2 PREDICTED: 2 SENT: Then he went to the king, and told him all his brothers" roguery; and they were seized and punished, and he had the princess given to him again; and after the king"s death he was heir to his kingdom.
+GOLD: 3 PREDICTED: 3 SENT: "Oh!" she said, "I have knocked off brother"s head," and then she wept and wept, and nothing would stop her.
+GOLD: 4 PREDICTED: 0 SENT: A hungry wolf sprang out, and swallowed up the whole stomach, with Tom in it, at one gulp, and ran away.
+GOLD: 3 PREDICTED: 0 SENT: But the king was not to be comforted, and for a long time never thought of taking another wife.
+GOLD: 0 PREDICTED: 2 SENT: After quarreling at supper, Flopsy and old Mr. Bouncer had passed a sleepless night, and quarrelled again at breakfast.
+GOLD: 3 PREDICTED: 3 SENT: Giuseppe went off at once, while his wife lamented, and the boy wept.
+GOLD: 1 PREDICTED: 1 SENT: All on a sudden, as she was going out, in came the king"s son in golden clothes; and when he saw a beautiful woman at the door, he took her by the hand, and said she should be his partner in the dance; but she trembled for fear, for she saw that it was King Grisly-beard, who was making sport of her.
+GOLD: 0 PREDICTED: 2 SENT: "Mind your own affairs, busybody!" said the prince scornfully, and rode on.
+GOLD: 2 PREDICTED: 4 SENT: "Summer cannot show a more beautiful sight," she exclaimed, while her eyes sparkled.
+GOLD: 1 PREDICTED: 2 SENT: Then he shrank for fear, turned pale, and trembled.
+GOLD: 2 PREDICTED: 2 SENT: She rejoiced much to see them again, and carried them all over the water, and then she too went away, for now she was freed.
+GOLD: 3 PREDICTED: 2 SENT: Now there was great sorrow, as the bird could only be allowed to play once a year; and even that was dangerous for the works inside it.
+GOLD: 3 PREDICTED: 2 SENT: So they laid her down upon a bier, and all seven watched and bewailed her three whole days; and then they thought they would bury her: but her cheeks were still rosy; and her face looked just as it did while she was alive; so they said, "We will never bury her in the cold ground."
+GOLD: 3 PREDICTED: 3 SENT: She wanted to cry out, but she could bring forth no sound.
+GOLD: 1 PREDICTED: 1 SENT: The maiden was frightened when she saw, not her little roe, but a man come in who wore a golden crown upon his head.
+GOLD: 2 PREDICTED: 3 SENT: And Tiny did all the field-mouse asked her, and found herself very comfortable.
+GOLD: 2 PREDICTED: 2 SENT: The foxy gentleman admired them immensely.
+GOLD: 1 PREDICTED: 1 SENT: Then the man went shivering with fear; and as he was going down to the shore a dreadful storm arose, so that the trees and the very rocks shook.
+GOLD: 1 PREDICTED: 0 SENT: Tom Thumb and Hunca Munca went cautiously across the hearthrug.
+GOLD: 2 PREDICTED: 2 SENT: Thereupon the King was full of great joy, but he kept the Queen hidden in a chamber until the Sunday, when the baby was to be christened.
+GOLD: 1 PREDICTED: 2 SENT: She was obliged to step over the bodies of the sleepers, who were lying close together, and every moment she was filled with renewed dread lest she should awaken them.
+GOLD: 0 PREDICTED: 4 SENT: "Stop!" cried the old goblin," is that the only house-keeping they can perform?
+GOLD: 0 PREDICTED: 3 SENT: So she cried out, "The king"s daughter shall, in her fifteenth year, be wounded by a spindle, and fall down dead."
+GOLD: 3 PREDICTED: 3 SENT: "Alas! dear sir," said she, "yonder lies the granite rock where all the costly diamonds grow, and I want so much to go there, that whenever I think of it I cannot help being sorrowful, for who can reach it? only the birds and the flies--man cannot."
+GOLD: 2 PREDICTED: 2 SENT: "The plates rattled with pleasure, and the carpet-broom brought some green parsley out of the dust-hole and crowned the saucepan, for he knew it would vex the others; and he thought, 'If I crown him to-day he will crown me to-morrow.'
+GOLD: 3 PREDICTED: 3 SENT: Here she sat down with her hymn-book, and as she was reading it with a pious mind, the wind carried the notes of the organ over to her from the church, and in tears she lifted up her face and said: "O God! help me!"
+GOLD: 0 PREDICTED: 0 SENT: Then Tom Thumb lost his temper.
+GOLD: 2 PREDICTED: 2 SENT: Now the white snake was an enchanted princess; and she was very glad to see him, and said, "Are you at last come to set me free?
+GOLD: 2 PREDICTED: 2 SENT: How fortunate I am; it makes me so happy, it is such a pleasant thing to know that something can be made of me.
+GOLD: 3 PREDICTED: 3 SENT: The aged king ordered the cook to be torn in four pieces, but grief consumed the king"s own heart, and he soon died.
+GOLD: 2 PREDICTED: 2 SENT: The emperor was so delighted that he declared the nightingale should have his gold slipper to wear round her neck, but she declined the honor with thanks: she had been sufficiently rewarded already.
+GOLD: 2 PREDICTED: 2 SENT: "See," cried the youngest, "there is a new one;" and the rest were delighted, and ran to their father and mother, dancing and clapping their hands, and shouting joyously, "There is another swan come; a new one has arrived."
+GOLD: 3 PREDICTED: 3 SENT: The bitter tears fell upon the jasmine twig, and each day, as she became paler and paler, the sprig appeared to grow greener and fresher.
+GOLD: 2 PREDICTED: 2 SENT: It was saying, 'You are so pretty, I like you very much.'
+GOLD: 3 PREDICTED: 2 SENT: Tears stood in his eyes, and glistened on his cheeks; he carried a great book and the binding was of velvet, with silver clasps.
+GOLD: 1 PREDICTED: 1 SENT: They were still not safe; for he was such a great beast that in his fall he overset the boat, and they had to swim in the open sea upon a few planks.
+GOLD: 1 PREDICTED: 2 SENT: Mittens ran away to the dairy and hid in an empty jar on the stone shelf where the milk pans stand.
+GOLD: 4 PREDICTED: 2 SENT: "This is passing extraordinary!" said the Tailor of Gloucester, and turned over another tea-cup, which was upside down.
+GOLD: 1 PREDICTED: 0 SENT: At these words an icy shudder ran through the sparrow-mother.
+GOLD: 2 PREDICTED: 2 SENT: The lazy girl was delighted at this, and thought to herself, "The gold will soon be mine."
+GOLD: 0 PREDICTED: 0 SENT: When she heard this she turned pale with rage and envy, and called to one of her servants, and said, "Take Snowdrop away into the wide wood, that I may never see her any more."
+GOLD: 0 PREDICTED: 0 SENT: So she took the doll out, who looked quite cross, and said not a single word, for she was angry at being turned out of her bed.
+GOLD: 1 PREDICTED: 0 SENT: At length she became uneasy, and wakened the boy, and asked: "Do you know where my husband is?
+GOLD: 0 PREDICTED: 2 SENT: "What! is he going to propose to me?" said the scissors, and she became so angry that she cut too sharply into the shirt collar, and it was obliged to be thrown by as useless.
+GOLD: 2 PREDICTED: 2 SENT: But the king came up to her, and held out his hand and danced with her; and he thought in his heart, "I never saw any one half so beautiful."
+GOLD: 0 PREDICTED: 0 SENT: Away with him out of the hall!"
+GOLD: 0 PREDICTED: 2 SENT: Then their brother, who was a little insignificant dwarf, went out to seek for his brothers: but when he had found them they only laughed at him, to think that he, who was so young and simple, should try to travel through the world, when they, who were so much wiser, had been unable to get on.
+GOLD: 2 PREDICTED: 2 SENT: "Yes, this is East Street; how beautifully bright and gay it looks!
+GOLD: 0 PREDICTED: 0 SENT: The fourth, "Who has been meddling with my spoon?"
+GOLD: 2 PREDICTED: 2 SENT: For a moment the little ones stood silent with astonishment, and then they shouted for joy, till the room rang, and they danced merrily round the tree, while one present after another was taken from it.
+GOLD: 2 PREDICTED: 2 SENT: After this the robbers never dared to go back to the house; but the musicians were so pleased with their quarters that they took up their abode there; and there they are, I dare say, at this very day.
+GOLD: 0 PREDICTED: 0 SENT: The third, "Who has been picking my bread?"
+GOLD: 4 PREDICTED: 2 SENT: "It's a drop of puddle water!" said Kribble-Krabble.
+GOLD: 1 PREDICTED: 1 SENT: At this sight the fisherman was dreadfully frightened, and he trembled so that his knees knocked together: but still he went down near to the shore, and said:
+GOLD: 2 PREDICTED: 2 SENT: Then she put on her dress which sparkled like the stars, and went into the ball-room in it; and the king danced with her again, and thought she had never looked so beautiful as she did then.
+GOLD: 2 PREDICTED: 2 SENT: The same thing was continued through many generations of Ephemera; all of them felt equally merry and equally happy.
+GOLD: 2 PREDICTED: 2 SENT: Now he was rich, had fine clothes, and many friends, who all declared he was a fine fellow and a real gentleman, and all this gratified him exceedingly.
+GOLD: 0 PREDICTED: 0 SENT: So he went out and took the maiden aside, and said: "Tonight when the boy is asleep, go to his bed and plunge this knife into his heart, and bring me his heart and tongue, and if you do not do it, you shall lose your life."
+GOLD: 4 PREDICTED: 4 SENT: "Ah," she exclaimed, "here is a gilt top."
+GOLD: 3 PREDICTED: 0 SENT: Hunger and thirst overpowered the child, and he became quite faint and ill.
+GOLD: 2 PREDICTED: 2 SENT: He was a merry old man, always wandering about.
+GOLD: 2 PREDICTED: 2 SENT: This was my destiny; it is quite a blessing.
+GOLD: 4 PREDICTED: 0 SENT: "Oh!" cried the devil, "what are you doing?"
+GOLD: 4 PREDICTED: 4 SENT: When Jemima alighted he quite jumped.
+GOLD: 2 PREDICTED: 2 SENT: Here I come!" shouted Jack the Dullard, and he sang till his voice echoed far and wide.
+GOLD: 1 PREDICTED: 2 SENT: Then the miller was afraid, and made his paws white for him.
+GOLD: 2 PREDICTED: 3 SENT: Then they began to run, rushed into the parlour, and threw themselves round their father"s neck.
+GOLD: 2 PREDICTED: 2 SENT: The young man felt the truth of the proverb, "Still waters run deep:" and his heart had sunk into their depths.
